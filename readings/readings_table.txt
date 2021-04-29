@@ -1,0 +1,4755 @@
+㔂	3502	A	lan5
+㘛	361B	B	*kham5
+㤉	3909	A	ge5
+㧌	39CC	A	mau1
+㧎	39CE	A	khe5
+㧒	39D2	A	hiat4
+㧣	39E3	A	tu1
+㧻	39FB	A	tok4
+㨂	3A02	A	tang3
+㨑	3A11	A	tsang1
+㨨	3A28	A	liu5
+㨪	3A2A	B	*hainnh4
+㨻	3A3B	A	tsann7
+㴘	3D18	A	bau7
+㴙	3D19	A	tshap8
+㷮	3DEE	A	tsau1
+㽎	3F4E	A	sim3
+㾀	3F80	A	khiap4
+䀐	4010	A	siam1
+䆀	4180	A	bai2
+䈄	4204	A	ham1
+䖙	4599	AB	the1	*thenn1
+䖳	45B3	A	the7
+䘥	4625	A	kah4
+䘼	463C	AB	ng2	*uinn2
+䠡	4821	A	tshe5
+䢢	48A2	A	tshiang7
+䫌	4ACC	AB	phue2	*phe2	*phui2
+䲅	4C85	A	kui1
+一	4E00	A	tsit8	it4	tsit80
+丁	4E01	A	ting1
+七	4E03	A	tshit4	tshi1
+丈	4E08	AB	tiunn7	tiong7	tng7	*tionn7
+三	4E09	A	sann1	sam1	sam3	san1
+上	4E0A	AB	siong7	tsiunn7	tshiunn7	siang7	siong2	siong70	*tshionn7	*tshiu7	*tsionn7
+下	4E0B	AB	e7	ha7	e1	he7	*enn1	*enn7
+不	4E0D	A	put4	puh4
+丑	4E11	AB	thiu2	*thiunn2
+且	4E14	AB	tshiann2	*tshe2
+丕	4E15	B	*phi1
+世	4E16	AB	se3	si3	*si2
+丘	4E18	A	khu1	khiu1
+丙	4E19	A	piann2	ping2
+丞	4E1E	B	*sing5
+丟	4E1F	A	tiu1
+並	4E26	A	phing7	ping7
+个	4E2A	A	e5
+中	4E2D	AB	tiong1	tiong3	ting3	*ting1	*tong1
+串	4E32	A	tshuan3	tshng3
+丸	4E38	A	uan5
+丹	4E39	A	tan1
+主	4E3B	AB	tsu2	*tsi2
+丼	4E3C	A	tom5
+乃	4E43	B	*nai2
+久	4E45	A	ku2	kiu2
+么	4E48	A	io1
+之	4E4B	A	tsi1
+乍	4E4D	A	tsann3
+乎	4E4E	A	honnh4	honnh40
+乏	4E4F	A	hat8	huat8
+乒	4E52	B	*phin7
+乓	4E53	B	*piang3	*phong7
+乖	4E56	A	kuai1
+乘	4E58	A	sing7	sing5
+乙	4E59	A	it4
+乜	4E5C	A	mi2
+九	4E5D	A	kau2	kiu2
+乞	4E5E	A	khit4
+也	4E5F	AB	ia7	*a7
+乩	4E69	A	ki1
+乳	4E73	AB	lu2	ju2	*li2	*ji2	*jinn2	*gi2
+乾	4E7E	A	kuann1	kan1	khian5	ta1
+亂	4E82	A	luan7	lan7
+了	4E86	A	liau2	liau20
+予	4E88	AB	hoo7	ho7	*hong7
+事	4E8B	A	su7	tai7
+二	4E8C	AB	ji7	li7	li70	ji70	*gi7
+云	4E91	A	un5
+互	4E92	A	hoo7
+五	4E94	A	goo7	ngoo2
+井	4E95	A	tsenn2	tsinn2	tsing2
+亞	4E9E	A	a1
+亡	4EA1	A	bong5
+亢	4EA2	B	*khong3
+交	4EA4	A	kau1	ka1	kiau1	kau7
+亥	4EA5	A	hai7
+亦	4EA6	A	ik8
+亨	4EA8	A	hing1
+享	4EAB	A	hiang2	hiong2
+京	4EAC	A	kiann1	king1
+亭	4EAD	A	ting5
+亮	4EAE	A	liang7	liong7
+人	4EBA	AB	lang5	jin5	lin5	lang50	*ng5	*gin5
+仁	4EC1	AB	jin5	lin5	*lin1	*gin5
+仃	4EC3	B	*ting1
+仄	4EC4	AB	tseh4	*tsik4
+仆	4EC6	A	phak4
+仇	4EC7	A	siu5	kiu5
+今	4ECA	A	kin1	tann1	kim1
+介	4ECB	A	kai3
+仔	4ED4	A	a2	a20	ah4	tsu2
+仕	4ED5	A	su7
+他	4ED6	AB	thann1	ta1	*tha1
+仗	4ED7	AB	tiong7	*tiang7
+付	4ED8	A	hu3
+仙	4ED9	AB	sian1	sian2	*tshian1	*tshan1
+仝	4EDD	A	kang7	kang5
+仟	4EDF	A	tshian1
+代	4EE3	A	tai7	tai3	te7	te3
+令	4EE4	A	ling7	ling5
+以	4EE5	A	i2
+仰	4EF0	A	giong2	iong2
+仲	4EF2	A	tiong7
+仵	4EF5	A	ngoo2
+件	4EF6	A	kiann7
+任	4EFB	A	jim7	lim7	jim5	lim5
+份	4EFD	AB	hun7	*hun1
+仿	4EFF	A	hong2
+企	4F01	A	khi3
+伊	4F0A	AB	i1	i10	*i7
+伍	4F0D	A	ngoo2
+伏	4F0F	A	hok8
+伐	4F10	AB	huah8	huat8	*hua7
+休	4F11	A	hiu1
+伙	4F19	A	hue2	he2
+伨	4F28	A	thin7
+伯	4F2F	A	peh4	pit4	phik4	pik4
+估	4F30	A	koo2
+伴	4F34	A	phuann7	phuan7
+伶	4F36	AB	ling2	*ling5
+伸	4F38	AB	tshun1	sin1	*tshng1
+伻	4F3B	A	phenn1
+似	4F3C	A	sai7	su7
+佃	4F43	A	tian7
+但	4F46	AB	na7	tan7	*nia7
+佇	4F47	AB	ti7	*tu7
+佈	4F48	A	poo3
+位	4F4D	A	ui7
+低	4F4E	AB	ke7	*te1
+住	4F4F	A	tsu7
+佐	4F50	A	tso3
+佑	4F51	A	iu7
+佔	4F54	A	tsiam3
+何	4F55	A	ho5	ua5
+佗	4F57	AB	to2	toh4	ta2	*tah4	*tioh8
+佘	4F58	A	sia5
+余	4F59	A	i5	u5
+佛	4F5B	A	hut8	put8
+作	4F5C	A	tsok4	tsoh4
+佟	4F5F	A	tong5
+你	4F60	AB	li2	li20	*lu2
+佩	4F69	A	pue7	phue3
+佬	4F6C	A	lau2	lo2
+佮	4F6E	A	kah4	kap4
+佯	4F6F	A	tenn3	tinn3
+佳	4F73	AB	ka1	kha1	*kai1
+併	4F75	A	ping3
+使	4F7F	AB	sai2	su2	sai3	su3	*saih4	*siah4
+來	4F86	A	lai5	lai50	lai1
+例	4F8B	A	le7
+侍	4F8D	AB	sai7	su7	*si7
+侏	4F8F	B	*tsu1
+侖	4F96	B	*lun5
+侗	4F97	A	tong3
+供	4F9B	A	king1	kiong1	king3
+依	4F9D	A	i1
+侮	4FAE	A	bu2
+侯	4FAF	A	hoo5	hau5	kau5
+侵	4FB5	A	tshim1
+侷	4FB7	A	kiok8
+侹	4FB9	A	thiann7
+便	4FBF	A	pian7	pan5
+係	4FC2	A	he7
+促	4FC3	A	tshik4	tshiok4
+俄	4FC4	A	ngoo5	go5
+俊	4FCA	A	tsun3
+俍	4FCD	A	lang7
+俏	4FCF	A	tshio1	tshiau3
+俐	4FD0	A	li7
+俗	4FD7	AB	siok8	sioh8	*siok4
+俘	4FD8	A	hu1
+俚	4FDA	A	li2
+保	4FDD	A	po2
+俞	4FDE	A	lu5	ju5	ji5
+俠	4FE0	A	kiap4
+信	4FE1	A	sin3
+修	4FEE	A	siu1
+俯	4FEF	A	hu2
+俱	4FF1	A	khu7
+俳	4FF3	A	pai1	pai5
+俸	4FF8	A	hong7
+俺	4FFA	A	an2
+倆	5006	A	liong2
+倉	5009	A	tshng1	tshong1
+個	500B	AB	ko3	*ko5	*koo2	*kainn5
+倌	500C	A	kuann1
+倍	500D	AB	pue7	*pe7
+倏	500F	A	sua7
+倒	5012	AB	to3	to2	thoh8	to20	*tau2
+倖	5016	A	hing7	sing7
+候	5019	AB	hau7	*hio7
+倚	501A	A	ua2	i2
+借	501F	A	tsioh4	tsia3
+倡	5021	A	tshiong3	tshiong1
+倦	5026	A	kuan7
+倩	5029	A	tshiann3
+倪	502A	A	ge5
+倫	502B	A	lun5
+倭	502D	A	e1
+倯	502F	A	song5
+值	503C	A	tat8	tit8
+偃	5043	A	ian2
+假	5047	A	ke2	ka2	ka3	ke3
+偈	5048	B	*khi3
+偉	5049	A	ui2
+偌	504C	AB	gua7	jua7	*lua7
+偏	504F	A	phian1	phinn1
+偓	5053	B	*oo3
+偕	5055	A	kai1
+做	505A	A	tso3	tsue3
+停	505C	A	thing5
+偝	505D	AB	ainn7	iang7	*ang7
+健	5065	A	kian7	kiann7
+側	5074	A	tshik4
+偵	5075	A	tsing1
+偶	5076	A	ngoo2
+偷	5077	A	thau1
+偽	507D	A	gui7
+傀	5080	A	ka1	khui2
+傅	5085	A	hu7	poo3
+傍	508D	A	png7	pong7
+傑	5091	A	kiat8
+傘	5098	A	suann3	san3
+備	5099	A	pi7
+催	50AC	A	tshui1
+傱	50B1	A	tsong5
+傲	50B2	A	ngoo7
+傳	50B3	AB	thuan5	thng5	tuan7	*tuan5	*thuinn5	*tng5
+債	50B5	A	tse3
+傷	50B7	AB	siunn1	siong1	*sionn1
+傾	50BE	A	khing1
+僆	50C6	AB	nua7	*lua7
+像	50CF	AB	tshiunn7	siong7	*tshionn7
+僑	50D1	A	kiau5
+僕	50D5	A	pok8
+僚	50DA	A	liau5
+僥	50E5	A	hiau1
+僧	50E7	A	tsing1	sing1
+僫	50EB	A	oh4
+僭	50ED	AB	tsiam3	*tshiam3
+僮	50EE	B	*tong5
+僱	50F1	B	*koo3
+僵	50F5	A	khiong1
+價	50F9	A	ke3	ka3
+僻	50FB	A	phiah4
+儀	5100	A	gi5
+億	5104	A	ik4
+儉	5109	A	khiam7
+儑	5111	A	gam7
+儒	5112	A	lu5	ju5
+儘	5118	A	tsin7	tsin2
+償	511F	A	siong5	siong2
+儡	5121	A	le2
+優	512A	A	iu1
+儱	5131	A	lang2
+儲	5132	A	tu5
+儳	5133	AB	sam5	*sam7
+儷	5137	B	*le7
+儸	5138	B	*lo5
+儼	513C	A	giam2
+允	5141	A	in2	un2
+元	5143	A	guan5
+兄	5144	A	hiann1	hing1
+充	5145	A	tshiong1
+兆	5146	A	tiau7
+兇	5147	A	hiong1
+先	5148	A	sing1	sian1	sin1
+光	5149	AB	kong1	kng1	*kuinn1
+克	514B	A	khik4
+兌	514C	AB	tui7	tue7	*tue5
+免	514D	A	bian2
+兒	5152	A	ji5	li5
+兔	5154	A	thoo3
+兜	515C	A	tau1
+入	5165	A	jip8	lip8
+內	5167	A	lai7	lue7
+全	5168	AB	tsuan5	tsng5	*tsuinn5
+兩	5169	AB	nng7	liong2	niu2	*nioo2
+八	516B	A	peh4	pat4	pueh4	pa1
+公	516C	A	kong1	kang1	kang2	king1
+六	516D	A	lak8	liok8
+共	5171	A	ka7	kang7	kiong7
+兵	5175	A	ping1
+其	5176	A	ki5
+具	5177	A	ku7	khu7
+典	5178	A	tian2
+兼	517C	A	kiam1
+冇	5187	A	phann3
+冊	518A	AB	tsheh4	*tshik4
+再	518D	A	tsai3
+冒	5192	A	moo7
+冗	5197	A	liong7	ling7
+冠	51A0	AB	kuan1	*kuan3
+冤	51A4	A	uan1
+冥	51A5	A	bing5
+冬	51AC	A	tang1	tong1
+冰	51B0	AB	ping1	*pin1
+冶	51B6	A	ia2
+冷	51B7	A	ling2
+准	51C6	A	tsun2
+凊	51CA	AB	tshin3	tshing3	*tshi3
+凋	51CB	A	tiau1
+凌	51CC	A	ling5
+凍	51CD	A	tang3	tong3
+凜	51DC	B	*lim2
+凝	51DD	A	ging5
+凡	51E1	AB	huan5	huan7	*han7
+凰	51F0	A	hong5
+凱	51F1	A	khai2	ke1
+凶	51F6	AB	hiong1	*hing1
+凸	51F8	B	*tut8
+凹	51F9	A	nah4	neh4	au7	lap4
+出	51FA	A	tshut4	tshut40	tsut4
+函	51FD	A	ham5
+刀	5200	A	to1
+刁	5201	A	tiau1	thiau1
+刃	5203	B	*jim7
+分	5206	A	hun1	pun1	hun7
+切	5207	AB	tshiat4	tshe3	*khit8
+刊	520A	A	khan1
+刎	520E	B	*bun2
+刐	5210	AB	tainn2	*tan2
+刑	5211	A	hing5
+划	5212	A	ko3
+列	5217	A	liat8
+刜	521C	A	phut4
+初	521D	A	tshoo1	tshe1	tshue1
+刣	5223	A	thai5
+判	5224	A	phuann3
+別	5225	A	pat8	piat8
+利	5229	A	li7	lai7
+刪	522A	A	san1
+刮	522E	A	khe1	kueh4	kuat4	kuih4
+到	5230	A	kau3	tau3	to3
+制	5236	A	tse3
+刷	5237	A	suat4
+券	5238	A	kuan3	kng3
+刺	523A	A	tshiah4	tshi3
+刻	523B	A	khik4
+剁	5241	A	tok4
+剃	5243	AB	thi3	*the3
+則	5247	A	tsik4
+剉	5249	A	tsho3
+削	524A	A	siah4	siat4
+剋	524B	A	khik4
+剌	524C	AB	luah8	*lat8
+前	524D	AB	tsing5	tsian5	tsun5	*tsu7	*tsainn5	*tsan5
+剔	5254	A	thak4	thik4
+剖	5256	A	phoo2
+剛	525B	A	kong1
+剝	525D	A	pak4	pok4
+剩	5269	A	siong7	sing7	sin7
+剪	526A	A	tsian2
+副	526F	A	hu3
+割	5272	A	kuah4	kat4
+創	5275	A	tshong3	tshong1
+剷	5277	A	thuann2
+剺	527A	A	leh8	li3
+剾	527E	A	khau1
+剿	527F	A	tsau5
+劃	5283	A	ueh8	uih8	ik8	ue7
+劇	5287	A	kiok8	kik8
+劈	5288	A	phik4
+劉	5289	A	lau5
+劌	528C	A	kui3
+劍	528D	A	kiam3
+劑	5291	A	tse1	tse3
+力	529B	A	lik8	lat8	li2
+功	529F	A	kong1	kang1
+加	52A0	A	ke1	ka1
+劣	52A3	A	luat8
+助	52A9	A	tsoo7
+努	52AA	A	loo2
+劫	52AB	A	kiap4
+勁	52C1	A	king7	king3	nge7
+勃	52C3	A	put8
+勇	52C7	A	iong2
+勉	52C9	A	bian2
+勍	52CD	A	khiang1
+勒	52D2	A	lik4	lik8
+動	52D5	AB	tong7	tang7	*tham7
+勘	52D8	A	kham1	kham3
+務	52D9	A	bu7
+勝	52DD	A	sing3	sing1
+勞	52DE	AB	lo5	loo2	lo7	*loo5
+募	52DF	A	boo7
+勢	52E2	A	se3	si3
+勤	52E4	A	khin5	khun5
+勥	52E5	A	khiang3
+勳	52F3	A	hun1
+勵	52F5	A	le7
+勸	52F8	AB	khng3	khuan3	*khuinn3
+勺	52FA	B	*siah8
+勻	52FB	AB	un5	*ian5
+勼	52FC	A	kiu1
+勾	52FE	A	kau1
+勿	52FF	A	but8
+包	5305	A	pau1	pau5
+匆	5306	A	tshong1
+匏	530F	A	pu5
+化	5316	A	hua3	hua1
+北	5317	A	pak4	pok4
+匙	5319	A	si5
+匠	5320	AB	tshiunn7	*tshionn7
+匡	5321	A	khong1
+匪	532A	A	hui2
+匯	532F	AB	hue7	*hue5
+匹	5339	A	phit4
+匼	533C	A	khap4
+匾	533E	A	pian2
+匿	533F	A	lik8
+區	5340	A	khu1	oo1	tshi7
+十	5341	A	tsap8	sip8
+千	5343	A	tshian1	tshing1
+升	5347	A	sing1	tsin1
+午	5348	A	ngoo2	goo7
+半	534A	AB	puann3	puan3	*pian3
+卌	534C	A	siap4
+卑	5351	A	pi1
+卒	5352	A	tsut4
+卓	5353	A	toh4	tok4	ta2
+協	5354	A	hiap8	hah8
+南	5357	A	lam5
+博	535A	A	phok4
+卜	535C	A	pok4	poh4
+占	5360	A	tsiam3	tsiam1
+卡	5361	AB	khah4	khah8	*kha2
+卦	5366	A	kua3
+卯	536F	A	mauh4	bau2
+印	5370	A	in3
+危	5371	AB	gui5	ui5	*hui5	*lui5
+即	5373	A	tsik4
+卵	5375	AB	nng7	luan2	*nui7
+卷	5377	AB	kng2	kuan3	kng3	*kuinn2
+卸	5378	A	sia3
+卹	5379	B	*sut4
+卻	537B	A	khiok4
+卿	537F	A	khing1
+厄	5384	A	eh4
+厘	5398	A	li5
+厚	539A	AB	kau7	hoo7	*hio7
+厝	539D	A	tshu3	liau5
+原	539F	A	guan5	uan5
+厭	53AD	A	ia3	ian3
+厲	53B2	A	li7	le7
+去	53BB	AB	khi3	khi30	khi1	*khu3
+參	53C3	AB	tsham1	sim1	som1	*sam1	*song1
+又	53C8	A	iu7
+叉	53C9	A	tshe1
+及	53CA	A	kip8
+友	53CB	A	iu2
+反	53CD	AB	huan2	ping2	*painn2	*puinn2	*pan2
+叔	53D4	A	tsik4	siok4
+取	53D6	A	tshu2
+受	53D7	A	siu7	siunn7
+叛	53DB	A	puan7
+叡	53E1	A	lue7	jue7
+叢	53E2	A	tsang5	tsong5
+口	53E3	A	khau2	kau2	khio2
+古	53E4	A	koo2
+句	53E5	A	ku3
+另	53E6	A	ling7
+叨	53E8	AB	lo1	*tho1	*lu1
+叩	53E9	A	khau3	khio3
+只	53EA	A	tsi2
+叫	53EB	A	kio3
+召	53EC	A	tiau3
+叭	53ED	A	pah4
+叮	53EE	A	ting3	ting1
+可	53EF	AB	kho2	khua2	khoo2	khoo1	*khonn2
+台	53F0	A	tai5
+叱	53F1	B	*tshit4	*tshih8
+史	53F2	A	su2	sai2
+右	53F3	A	iu7
+司	53F8	A	si1	sai1	su1
+各	5404	A	kok4	koh4
+合	5408	A	hap8	hah8	kap4	kah4
+吉	5409	A	kiat4	ji3
+吊	540A	A	tiau3
+吋	540B	A	tshun3
+同	540C	A	tong5	tang5
+名	540D	A	mia5	bing5
+后	540E	A	hio7	au7	hoo7
+吏	540F	A	li7
+吐	5410	A	thoo2	thoo3
+向	5411	A	hiong3	ng3	hiann3	hiang3	ann3
+吒	5412	B	*tshia1
+君	541B	A	kun1
+吝	541D	A	lin7
+吞	541E	A	thun1
+吟	541F	A	gim5
+吠	5420	A	pui7	hui7
+否	5426	AB	honn2	phi2	*hoo2
+吧	5427	A	pa1
+吩	5429	A	huan1	hun1
+吪	542A	B	*o1	*o5
+含	542B	A	kam5	ham5	kann5
+吭	542D	A	khong7	khngh4
+吮	542E	AB	tshng2	*tsuinn7	*tsng7
+吱	5431	A	ki1
+吳	5433	A	ngoo5	goo5
+吵	5435	A	tsha2	tshau2
+吶	5436	A	na7
+吸	5438	AB	khip4	*khip8	*hiap4
+吹	5439	A	tshue1	tshe1	tshui1
+吻	543B	A	bun2
+吼	543C	AB	hau2	*haunnh8
+吾	543E	A	ngoo5
+呂	5442	A	lu7	li7
+呃	5443	AB	eh4	*e3
+呆	5446	A	tai1
+呈	5448	AB	thing5	*ting5
+告	544A	A	ko3
+呔	5454	AB	thai3	*thah4
+呢	5462	AB	ne1	ni5	neh40	nih40	ni2	ni1	*neh4	*nih4
+呧	5467	A	ti1
+周	5468	A	tsiu1
+呱	5471	AB	kua7	*kuak8	*kuat8	*kop4
+呲	5472	A	tshu7
+味	5473	A	bi7
+呴	5474	A	ku1
+呵	5475	AB	o1	*ha1
+呸	5478	A	phui3
+呺	547A	B	*hau1
+呻	547B	A	tshan1	sin1
+呼	547C	A	hoo1	khoo1	honn1
+命	547D	A	mia7	bing7
+呾	547E	A	tann3
+呿	547F	A	khuh4
+咁	5481	B	*kam7
+咂	5482	A	tsap8
+咇	5487	A	phih8
+和	548C	AB	ho5	hue5	ham7	ho7	he5	*ham5
+咍	548D	A	hai1
+咎	548E	A	kiu7
+咐	5490	A	hu3
+咑	5491	B	*ta7	*tah4
+咒	5492	A	tsiu3
+咕	5495	B	*ku7	*koo1	*ku2
+咖	5496	A	ka1
+咧	54A7	AB	teh4	leh4	leh40	*tih4	*lih4	*le5
+咩	54A9	A	meh4
+咪	54AA	AB	bi5	*mi1	*bi1	*mi5	*bi9
+咫	54AB	A	tsi2
+咬	54AC	A	ka7	ngau2
+咯	54AF	AB	kok8	khak8	lok8	*kok4
+咱	54B1	AB	lan2	*tsa1
+咳	54B3	A	ka1	kha1
+咸	54B8	B	*ham5
+咻	54BB	A	hiu1
+咽	54BD	A	ian1
+咾	54BE	A	lo2
+哀	54C0	A	ai1
+品	54C1	A	phin2
+哆	54C6	A	to1
+哈	54C8	AB	ha1	hah4	ha2	*ha7	*hah8
+哉	54C9	A	tsai3	tsai1
+哎	54CE	A	ai1	aih4	aih40
+哖	54D6	A	ni5
+員	54E1	A	uan5	inn5	guan5
+哥	54E5	A	ko1	koh4	ko10	koh40
+哦	54E6	B	*onn7	*onn2
+哨	54E8	A	siau3	sau3
+哩	54E9	AB	li1	li2	mai1	lih40	*lih4
+哪	54EA	AB	na2	*na3	*lo5
+哭	54ED	A	khau3
+哮	54EE	B	*hau3
+哱	54F1	B	*phu7
+哲	54F2	AB	tiat4	*thiat4
+哹	54F9	A	pu1
+哺	54FA	AB	poo7	*ko1	*koo1
+哼	54FC	AB	hainn1	hngh4	hngh40	*hmh4
+哽	54FD	AB	kenn2	kinn2	*ke5
+唅	5505	A	hannh4	hannh40
+唆	5506	A	so7	so1
+唇	5507	A	tun5	sun5
+唉	5509	A	haih4
+唌	550C	A	siann5
+唏	550F	A	hi3
+唐	5510	A	tng5	tong5
+唔	5514	A	onn1
+唚	551A	A	tsim1
+唧	5527	B	*tsik4
+唬	552C	A	hoo2
+唭	552D	A	ki3	ki1
+售	552E	A	siu7
+唯	552F	AB	bi5	ui5	*bi7
+唱	5531	AB	tshiunn3	tshiang3	tshiong3	tshiun3	*tshionn3
+唷	5537	A	ioh4	ioh40
+唸	5538	A	liam7
+唾	553E	A	tho3
+唿	553F	A	hut4
+啄	5544	AB	tok4	*teh4
+商	5546	A	siong1	inn5
+啉	5549	A	lim1
+啊	554A	AB	ah4	ah40	*a1
+問	554F	AB	mng7	bun7	*mui7
+啖	5556	A	tam7	tam1
+啞	555E	AB	e2	a2	*enn2
+啟	555F	A	khe2
+啡	5561	A	pi1
+啤	5564	B	*pi5
+啥	5565	AB	siann2	*sann2	*siannh4	*sannh4
+啦	5566	AB	lah40	*lah4
+啼	557C	AB	thi5	*the5
+啾	557E	A	tshiunn3
+喀	5580	A	khennh8	khennh4
+喁	5581	B	*gu7
+喂	5582	A	ue5	ueh40	eh40	ueh4	eh4
+喃	5583	A	nauh4
+善	5584	A	sian7
+喆	5586	B	*tsiat4
+喇	5587	A	la2
+喈	5588	A	kainn1
+喉	5589	A	au5
+喊	558A	A	hiam3	han2
+喋	558B	AB	thih8	*sah4
+喌	558C	AB	tsiuh4	tsu5	*tsu9	*tsu1
+喎	558E	B	*ua1
+喑	5591	A	inn3
+喓	5593	A	iaunn1
+喔	5594	AB	ooh4	oh4	ooh40	*op4
+喘	5598	A	tshuan2
+喙	5599	A	tshui3
+喚	559A	A	huan3
+喜	559C	A	hi2
+喝	559D	AB	huah4	hat4	*ha2
+喢	55A2	A	sannh4
+喧	55A7	A	suan1
+喨	55A8	A	liang1
+喪	55AA	A	song1	song3	sng1
+喬	55AC	A	kiau5
+單	55AE	A	tuann1	tan1
+喲	55B2	A	io7
+喳	55B3	A	tsha7
+喵	55B5	B	*miau1	*niau1	*ngiau1
+喻	55BB	A	ju7	lu7
+嗄	55C4	AB	sa3	*sah4
+嗆	55C6	B	*tshiong1
+嗇	55C7	A	sik4	siah4
+嗑	55D1	B	*khap4
+嗔	55D4	B	*tsin1
+嗕	55D5	B	*ngauh4	*nauh4
+嗙	55D9	A	pong3	phngh4
+嗚	55DA	A	oo1	onn1
+嗝	55DD	A	keh4
+嗣	55E3	A	su7	su5
+嗤	55E4	A	tshi1	tshih8
+嗦	55E6	A	so1
+嗨	55E8	B	*haih8	*hai2
+嗲	55F2	A	teh4	te1
+嗷	55F7	B	*o5	*oh4	*uh4	*au5
+嗹	55F9	A	lian5	lian1
+嗺	55FA	A	sui1
+嗽	55FD	A	sau3
+嗾	55FE	A	tsak8
+嘆	5606	A	than3
+嘈	5608	A	tshauh8	tso7
+嘉	5609	A	ka1	ka7
+嘎	560E	B	*khiak8
+嘐	5610	A	hau1
+嘓	5613	AB	gok8	kok8	khok8	kok4	*khok4
+嘔	5614	A	au2	oo2
+嘖	5616	A	tsheh4	tsheh40
+嘗	5617	A	siong5
+嘛	561B	AB	ma7	ma3	mah40	*mah4
+嘟	561F	A	tu7
+嘩	5629	AB	hua7	*hua1
+嘮	562E	A	lo1
+嘯	562F	A	siau3
+嘰	5630	B	*ki1
+嘵	5635	B	*hiau1
+嘹	5639	A	liau5
+嘻	563B	A	hi1
+嘿	563F	AB	heh4	heh40	*henn7	*hennh4	*hiau3	*henn3
+噁	5641	A	onn3
+噍	564D	A	ta1
+噎	564E	AB	uh4	*ap4
+噓	5653	AB	si1	*sut8	*su7	*su1
+噗	5657	A	phok8	phok4	pok4
+噢	5662	B	*auh8	*auh4
+噤	5664	AB	khiunn7	*khionn7	*kim3
+器	5668	AB	khi3	*hi3
+噪	566A	AB	tsho3	*soh4	*so3
+噬	566C	B	*se7
+噭	566D	A	kiau3
+噯	566F	A	ai3	aih4
+噴	5674	A	phun3
+噶	5676	A	kat4
+噷	5677	A	hmh8
+噸	5678	A	tong3	tun3
+噹	5679	A	tang1
+噼	567C	B	*piah4
+嚀	5680	A	ling5
+嚆	5686	B	*o5
+嚇	5687	AB	hiannh4	heh4	hann2	hik4	*hennh4	*he7
+嚎	568E	B	*ho5
+嚓	5693	A	tshiak8
+嚙	5699	A	ge3
+嚨	56A8	AB	na5	long5	*liong5
+嚮	56AE	A	hiong3
+嚴	56B4	A	giam5
+嚵	56B5	A	tshann3
+嚶	56B6	AB	inn1	*inn3
+嚷	56B7	AB	jiang2	liong2	*jiong2	*giong2	*giang2
+嚾	56BE	A	uang1
+囂	56C2	AB	hiau1	*hia1
+囉	56C9	AB	lo1	lo5	lo7	looh40	*looh4	*loh4	*ooh4
+囊	56CA	AB	long5	long1	*lom5
+囑	56D1	A	tsiok4
+囚	56DA	AB	siu5	*siunn5
+四	56DB	A	si3	su3
+囝	56DD	AB	kiann2	*kann2
+回	56DE	A	hue5	he5
+囟	56DF	A	sin3
+因	56E0	A	in1
+囡	56E1	A	gin2
+囤	56E4	A	tun2
+囥	56E5	A	khng3
+囫	56EB	A	hut4
+囮	56EE	A	bue5
+困	56F0	A	khun3
+囷	56F7	A	khun5
+固	56FA	A	koo3
+圃	5703	B	*phoo2
+圇	5707	AB	lun5	lun1	ng5	nng5	*nui5
+圈	5708	A	khian1	khuan1	khuan5
+國	570B	A	kok4
+圍	570D	AB	ui5	u5	*iu5
+園	5712	A	hng5	uan5	huinn5
+圓	5713	A	inn5	uan5
+圖	5716	A	too5
+團	5718	A	thuan5
+圜	571C	A	huan5
+土	571F	A	thoo2	thoo5
+在	5728	A	tsai7
+圭	572D	A	kui1
+地	5730	AB	te7	tue7	te3	ti7	*li7
+圳	5733	A	tsun3
+圾	573E	A	sap4
+址	5740	A	tsi2
+坂	5742	B	*pan2
+均	5747	A	kin1	kun1
+坉	5749	A	thun7
+坊	574A	A	hong1	hng1
+坌	574C	A	hun1
+坎	574E	AB	kham2	*gam2	*kham1
+坐	5750	A	tse7	tshe7	tso7
+坑	5751	A	khenn1	khinn1	khing1	khe1
+坡	5761	A	pho1
+坤	5764	A	khun1
+坦	5766	A	than2	thann2
+坩	5769	A	khann1
+坪	576A	AB	penn5	pinn5	phiann5	phing5	ping5	*phinn5	*phenn5
+坯	576F	A	phue1	phe1
+坱	5771	A	ing1
+坵	5775	A	khu1	khiu1
+坷	5777	A	khiat8
+垂	5782	A	sui5	sue5	se5
+垃	5783	AB	lah4	la5	*lap4
+型	578B	A	hing5
+垢	57A2	A	kau2
+垣	57A3	A	uan5
+垺	57BA	AB	pu5	*phu5
+埃	57C3	A	ia1	ai1
+埆	57C6	AB	kak4	*kat4
+埋	57CB	A	tai5	bai5
+城	57CE	A	siann5	sing5
+埒	57D2	A	luah8
+埔	57D4	A	poo1
+埕	57D5	A	tiann5
+域	57DF	A	hik8	ik8
+埠	57E0	A	poo1	poo7
+埤	57E4	A	pi1
+執	57F7	A	tsip4
+培	57F9	A	pue5	pue7
+基	57FA	A	ki1	ke1
+埽	57FD	A	so3
+堀	5800	A	khut4
+堂	5802	A	tng5	tong5
+堅	5805	A	kian1
+堆	5806	A	tui1
+堊	580A	B	*ok4
+堡	5821	A	po2
+堤	5824	A	the5
+堪	582A	A	kham1
+堯	582F	A	giau5
+報	5831	A	po3
+場	5834	AB	tiunn5	tshiang5	a2	*tionn5
+堵	5835	A	too2
+塊	584A	AB	te3	*khuai3
+塌	584C	AB	thap4	lap4	*lap8
+塑	5851	A	sok4
+塔	5854	AB	thah4	*tshah4
+塗	5857	AB	thoo5	too5	*tho5
+塘	5858	A	tng5	tong5
+塚	585A	A	thiong2
+塞	585E	A	sat4	sai3
+填	586B	A	thiam7
+塭	586D	A	un3
+塵	5875	A	tin5
+塹	5879	A	tsam7	tsham3
+塾	587E	A	siok8
+境	5883	A	king2
+墈	5888	B	*kham3
+墊	588A	A	tiam7
+墓	5893	AB	bong7	boo7	*bang7
+墘	5898	A	kinn5
+墜	589C	A	tui7
+增	589E	A	tsing1
+墟	589F	A	hi1
+墨	58A8	A	bak8	bik8
+墩	58A9	A	tun1
+墮	58AE	A	tui7
+墳	58B3	A	phun5	hun5
+墼	58BC	AB	kat4	*kak4
+墾	58BE	A	khun2
+壁	58C1	AB	piah4	pik4	*phik4
+壅	58C5	A	ing3
+壇	58C7	A	tuann5	tan5
+壓	58D3	A	ap4	ah4
+壕	58D5	A	ho5
+壘	58D8	A	lui2
+壙	58D9	A	khong3
+壚	58DA	B	*loo5
+壞	58DE	AB	huai7	*hai7
+壟	58DF	AB	long2	lang5	lang1	*liong2
+壢	58E2	A	lik8
+壤	58E4	B	*jiong2
+壩	58E9	A	pa3	pe3
+士	58EB	A	su7
+壬	58EC	AB	jim5	lim5	*lim7	*jim7
+壯	58EF	A	tsong3
+壹	58F9	B	*it4
+壺	58FA	A	oo5	hoo5
+壽	58FD	A	siu7
+夏	590F	A	ha7	he7
+夕	5915	A	siah8	sik8
+外	5916	A	gua7	gue7
+多	591A	A	to1	kak4
+夜	591C	A	ia7
+夠	5920	A	kau3
+夢	5922	A	bang7	bong7
+夥	5925	A	hue2	he2
+大	5927	A	tua7	tai7	ta1	thai2	ta2
+天	5929	A	thinn1	thian1
+太	592A	A	thai3	tha7	tai7	thai7
+夫	592B	A	hu1
+夭	592D	A	iau2
+央	592E	AB	iang1	ng1	iong1	*ing1
+夯	592F	AB	gia5	*kia5	*giah8
+失	5931	A	sit4
+夷	5937	A	i5
+夸	5938	B	*khua1
+夾	593E	AB	ngeh4	*ngueh4	*gueh8	*gueh4
+奅	5945	A	phann7
+奇	5947	AB	ki5	khia1	*kha1	*khiann1
+奈	5948	A	nai7	ta1
+奉	5949	A	hong7
+奏	594F	A	tsau3
+契	5951	A	khe3	khue3
+奒	5952	A	hai1
+奔	5954	AB	phun1	*pun1
+奕	5955	A	i7
+套	5957	A	tho3
+奚	595A	A	he5
+奠	5960	A	tian7
+奢	5962	A	tshia1
+奧	5967	A	o3
+奪	596A	A	tuat8
+奮	596E	A	hun3	pun3
+女	5973	A	lu2	li2
+奴	5974	A	loo5
+奶	5976	AB	ling1	ni1	nai1	ne1	*lin1	*nai2
+奸	5978	A	kan1
+好	597D	A	ho2	honn3
+如	5982	AB	ju5	lu5	*ji5	*li5
+妃	5983	A	hui1
+妄	5984	A	bong7
+妍	598D	AB	gian2	*gian5
+妒	5992	A	too3
+妓	5993	A	ki1
+妖	5996	A	iau1
+妗	5997	A	kim7
+妙	5999	AB	miau7	*biau7
+妝	599D	A	tsng1	tsong1
+妣	59A3	A	pi2
+妥	59A5	A	tho3
+妨	59A8	A	hong5
+妮	59AE	A	ni5
+妯	59AF	B	*tik8
+妲	59B2	A	than2
+妹	59B9	AB	mue7	be7	*muai7	*mai7
+妻	59BB	AB	tshe1	*tshie1
+妾	59BE	A	tshiap4
+姆	59C6	A	m2
+姊	59CA	AB	tsi2	tse2	*tsie2
+始	59CB	A	si2	su2
+姐	59D0	AB	tsia2	*tse5	*tsiau2
+姑	59D1	A	koo1
+姒	59D2	A	sai7
+姓	59D3	A	senn3	sing3	sinn3
+委	59D4	A	ui2
+姚	59DA	A	iau5	io5
+姜	59DC	AB	kiunn1	khiong1	kiong1	khiunn1	*khionn1
+姦	59E6	A	kan3	kan1
+姨	59E8	AB	i5	*inn5
+姪	59EA	A	tit8	tsit4
+姬	59EC	A	ki1
+姻	59FB	AB	in1	*im1
+姼	59FC	A	tshit4
+姿	59FF	A	tsu1
+威	5A01	A	ui1
+娃	5A03	A	ua1
+娉	5A09	A	phing1
+娌	5A0C	B	*li2
+娑	5A11	B	*so1
+娗	5A17	A	thann7
+娘	5A18	AB	niu5	nia5	liong5	*nioo5	*nio5
+娛	5A1B	A	ngoo5	goo5	gu5
+娜	5A1C	A	na2
+娟	5A1F	A	kuan1
+娥	5A25	A	ngoo5
+娩	5A29	A	bian2
+娵	5A35	B	*tsoo1
+娶	5A36	A	tshua7
+娼	5A3C	A	tshang1	tshiong1
+婁	5A41	A	loo5
+婆	5A46	A	po5
+婉	5A49	A	uan2
+婊	5A4A	A	piau2
+婚	5A5A	A	hun1
+婢	5A62	A	pi7
+婦	5A66	A	hu7	pu7
+婷	5A77	A	ting5
+婸	5A78	A	giang1
+婿	5A7F	A	sai3	se3
+媌	5A8C	A	ba5
+媒	5A92	AB	mue5	hm5	mui5	*muai5	*hun5
+媚	5A9A	A	bi7
+媠	5AA0	A	sui2
+媧	5AA7	A	o1
+媳	5AB3	A	sik4
+媽	5ABD	A	ma2	mah4	ma1
+嫁	5AC1	A	ke3	ka3
+嫂	5AC2	A	so2
+嫌	5ACC	A	hiam5
+嫖	5AD6	A	phiau5
+嫡	5AE1	A	tik4
+嫣	5AE3	A	ian1
+嫦	5AE6	A	siong5
+嫩	5AE9	B	*lun7
+嬈	5B08	A	hiau5
+嬉	5B09	A	hi1
+嬌	5B0C	A	kiau1
+嬭	5B2D	A	le2
+嬰	5B30	AB	enn1	inn1	ing1	inn3	*ne1	*ni1	*mi1
+嬸	5B38	A	tsim2	sim2
+孀	5B40	A	song1
+子	5B50	A	tsi2	tsu2	ji2	li2	a2
+孔	5B54	A	khong2	khang2
+孕	5B55	A	in7
+字	5B57	AB	ji7	li7	*gi7	*ju7
+存	5B58	AB	tsun5	tshun5	*tshun7
+孜	5B5C	A	tsu1
+孝	5B5D	A	hau3	ha3
+孟	5B5F	A	bing7
+季	5B63	A	kui3
+孤	5B64	A	koo1
+孩	5B69	A	hai5
+孫	5B6B	A	sun1	sng1
+孵	5B75	A	pu7	hu1
+學	5B78	A	hak8	oh8
+孽	5B7D	A	giat8
+宅	5B85	A	theh8	thik8
+宇	5B87	A	u2
+守	5B88	AB	siu2	tsiu2	*tsiunn2
+安	5B89	A	an1	uann1	an2
+宋	5B8B	AB	song3	sang3	*siong3
+完	5B8C	A	uan5
+宏	5B8F	A	hong5
+宕	5B95	AB	thong7	*tong7
+宗	5B97	A	tsong1
+官	5B98	A	kuann1	kuan1
+宙	5B99	A	tiu7
+定	5B9A	A	tiann7	ting7
+宛	5B9B	A	uan2
+宜	5B9C	A	gi5
+客	5BA2	A	kheh4	khik4
+宣	5BA3	A	suan1
+室	5BA4	AB	sik4	*tsit4
+宥	5BA5	A	iu7
+宦	5BA6	A	huan7
+宮	5BAE	A	kiong1	king1	ma2
+宰	5BB0	AB	tsainn2	*tsai2
+害	5BB3	A	hai7
+宴	5BB4	A	ian3
+宵	5BB5	A	siau1
+家	5BB6	AB	ke1	ka1	ka7	*kai1
+容	5BB9	A	iong5
+宿	5BBF	A	siok4	siu3	sok4
+寂	5BC2	A	tsik8	siok4
+寄	5BC4	AB	kia3	ki3	*kiann3	*kiah8	*khiah8	*khia7	*kiat4
+寅	5BC5	A	in5
+密	5BC6	A	bat8	bit8
+寇	5BC7	A	khoo3
+富	5BCC	A	hu3	pu3	ho5
+寐	5BD0	A	bi7
+寒	5BD2	A	kuann5	han5	gan5
+寓	5BD3	AB	gu7	u2	*u3
+寞	5BDE	A	bok8
+察	5BDF	A	tshat4
+寡	5BE1	AB	kua2	*kuann2
+寢	5BE2	A	tshim2	khim2
+寥	5BE5	A	liau5
+實	5BE6	A	sit8	tsat8
+寧	5BE7	A	ling5
+寨	5BE8	A	tse7
+審	5BE9	A	sim2
+寫	5BEB	A	sia2
+寬	5BEC	A	khuann1	khuan1
+寮	5BEE	A	liau5
+寵	5BF5	A	thing2	thiong2
+寶	5BF6	A	po2
+寸	5BF8	A	tshun3
+寺	5BFA	A	si7
+封	5C01	A	hong1	pang1
+射	5C04	A	sia7
+將	5C07	A	tsiong1	tsiong3	tsiang3
+專	5C08	A	tsuan1
+尉	5C09	AB	ut4	*ui3
+尊	5C0A	A	tsun1
+尋	5C0B	A	siam5	sim5
+對	5C0D	A	tui3	ui3
+導	5C0E	A	to7
+小	5C0F	AB	sio2	siau2	*siau9
+少	5C11	A	siau3	tsio2	siau2
+尖	5C16	A	tsiam1
+尚	5C1A	AB	siunn7	siong2	siong7	*sionn7
+尤	5C24	A	iu5
+尪	5C2A	A	ang1
+就	5C31	AB	to7	tsiu7	*tio7	*tioh8	*toh8	*tsu7
+尹	5C39	A	un2
+尺	5C3A	A	tshioh4	tshe1	tshik4
+尻	5C3B	AB	kha1	*ka1
+尼	5C3C	AB	ni5	li5	*lui5
+尾	5C3E	A	bue2	be2
+尿	5C3F	AB	jio7	lio7	*gio7
+局	5C40	A	kiok8
+屁	5C41	A	phui3
+屄	5C44	A	bai1
+居	5C45	A	ki1	ku1
+屆	5C46	A	kai3
+屈	5C48	A	khut4
+屋	5C4B	A	ok4
+屍	5C4D	A	si1
+屎	5C4E	A	sai2	su2
+屏	5C4F	A	pin5	ping5	he3
+屐	5C50	AB	kiah8	*kia7	*khiah8
+屑	5C51	A	sut4	sap4
+展	5C55	A	tian2	thian2
+屘	5C58	A	ban1
+屜	5C5C	A	thuah4
+屠	5C60	A	too5
+屢	5C62	A	li2
+層	5C64	A	tsan5	tsan3
+履	5C65	A	li2
+屧	5C67	A	siap4
+屬	5C6C	A	siok8	tsiok4
+屯	5C6F	A	tun7	tun3	tun1
+山	5C71	A	suann1	san1	san2
+岐	5C90	B	*ki5
+岑	5C91	B	*gim5
+岡	5CA1	A	kong1	kng1	kong2
+岩	5CA9	A	giam5	gam5
+岫	5CAB	A	siu7
+岳	5CB3	A	gak8
+岸	5CB8	A	huann7	gan7
+峇	5CC7	A	ba7	ba5
+峨	5CE8	A	ngoo5
+峰	5CF0	A	hong1
+島	5CF6	A	to2	too2
+峻	5CFB	A	tsun3
+峽	5CFD	A	kiap4
+崁	5D01	A	kham3
+崇	5D07	A	tsong5
+崎	5D0E	AB	kia7	*ki5
+崔	5D14	A	tshui1
+崖	5D16	A	gai5
+崗	5D17	A	kong1	kang1
+崙	5D19	AB	lun7	lun1	lun2	*lun5
+崧	5D27	B	*siong5
+崩	5D29	A	pang1	ping1
+嵌	5D4C	A	kham3
+嵐	5D50	A	lam5
+嵙	5D59	A	kho1	khoo1
+嵯	5D6F	A	tshu1
+嶄	5D84	A	tsam2
+嶠	5DA0	A	kiau1
+嶢	5DA2	B	*giau5
+嶺	5DBA	A	nia2	ling2
+嶼	5DBC	AB	su7	*si7
+嶽	5DBD	A	gak8
+巒	5DD2	A	luan5	ban5
+巔	5DD4	B	*tian1
+巖	5DD6	A	giam5
+川	5DDD	AB	tshng1	tshuan1	*tshuinn1
+州	5DDE	A	tsiu1
+巡	5DE1	A	sun5
+巢	5DE2	A	tsau5
+工	5DE5	A	kang1	khang1	kong1
+左	5DE6	A	tso2
+巧	5DE7	A	khiau2	kha2	khau2
+巨	5DE8	A	ku7	ki7
+巫	5DEB	A	bu5
+差	5DEE	A	tsha1	tshe1	tshai1	tsuah8
+己	5DF1	AB	ki7	ki2	*ti7
+已	5DF2	A	i2
+巳	5DF3	A	tsi7	su7
+巴	5DF4	A	pa1
+巷	5DF7	A	hang7
+巽	5DFD	B	*sun3
+巾	5DFE	A	kin1	kun1
+市	5E02	A	tshi7
+布	5E03	AB	poo3	*phoo3
+帆	5E06	A	phang5	huan5
+希	5E0C	A	hi1
+帕	5E15	AB	phe3	*pha3
+帖	5E16	A	thiap4
+帙	5E19	A	tiat8
+帚	5E1A	AB	tshiu2	*tsiu2	*siu2
+帛	5E1B	AB	peh8	pik8	*pe7
+帝	5E1D	A	te3
+帥	5E25	A	sue3	sui3
+師	5E2B	AB	su1	sai1	*si1
+席	5E2D	A	sik8
+帳	5E33	AB	tiunn3	tiong3	*tionn3
+帶	5E36	A	tua3	tai3
+帷	5E37	A	ui5
+常	5E38	A	siong5	tshiang5
+帽	5E3D	A	bo7
+幅	5E45	A	pak4	hok4
+幌	5E4C	AB	hainn3	*hiu3
+幔	5E54	A	mua1
+幕	5E55	A	boo7
+幡	5E61	A	huan1
+幢	5E62	A	tong5
+幣	5E63	A	pe3
+幫	5E6B	AB	pang1	png1	*phong2
+干	5E72	A	kan1
+平	5E73	AB	ping5	penn5	pinn5	piann5	tsam7	*phing5
+年	5E74	A	ni5	lian5	ni50
+幸	5E78	A	hing7
+幹	5E79	A	kan3
+幻	5E7B	A	huan3
+幼	5E7C	A	iu3
+幽	5E7D	A	iu1
+幾	5E7E	A	kui2	ki2
+庄	5E84	A	tsng1
+庇	5E87	AB	pi3	*pi2
+床	5E8A	A	tshng5	sng5	tshong5
+序	5E8F	A	si7	su7
+底	5E95	AB	te2	tue2	ti7	*ti2
+店	5E97	A	tiam3
+庚	5E9A	A	kenn1	king1	kinn1
+府	5E9C	A	hu2
+度	5EA6	A	too7	tok8
+座	5EA7	A	tso7
+庫	5EAB	A	khoo3
+庭	5EAD	A	ting5	tiann5
+庵	5EB5	A	am1
+康	5EB7	A	khong1	khng1
+庸	5EB8	A	iong5
+庾	5EBE	A	lu2	ju2
+廁	5EC1	A	tshe3
+廂	5EC2	AB	siunn1	*siong1
+廈	5EC8	B	*ha7
+廉	5EC9	A	liam5
+廊	5ECA	A	long5
+廍	5ECD	A	phoo7
+廕	5ED5	A	im3
+廖	5ED6	A	liau7
+廚	5EDA	AB	too5	tu5	*to5
+廟	5EDF	A	bio7
+廠	5EE0	AB	tshiunn2	*tshionn2
+廢	5EE2	AB	hui3	*hue3
+廣	5EE3	A	kong2	kng2
+廨	5EE8	B	*kai3
+廬	5EEC	A	loo5
+廳	5EF3	A	thiann1	thing1
+延	5EF6	A	ian5	tshian5
+廷	5EF7	A	ting5
+建	5EFA	A	kian3
+廿	5EFF	A	jiap8	liap8
+弄	5F04	A	lang7	long7	long3
+弊	5F0A	A	pe3	piah4
+式	5F0F	A	sik4	sit4
+弓	5F13	AB	king1	kiong1	*kin1
+弔	5F14	A	tiau3
+引	5F15	A	in2
+弘	5F18	A	hong5
+弟	5F1F	A	ti7	te7
+弦	5F26	A	hian5
+弧	5F27	A	hoo5
+弩	5F29	B	*loo2
+弱	5F31	A	jiok8	liok8
+張	5F35	AB	tiunn1	tng1	tiong1	*tionn1
+強	5F37	A	kiong5	kiong7	kiong2
+弼	5F3C	B	*pit8
+彈	5F48	A	tuann5	tuann7	than5	tan7	tan5
+彌	5F4C	AB	mi2	bi5	mi5	ni5	*ni2
+彎	5F4E	A	uan1
+彗	5F57	A	hui7
+彙	5F59	A	lui7
+形	5F62	A	hing5
+彤	5F64	B	*tong5
+彥	5F65	A	gian7	gan7
+彧	5F67	B	*hiok4
+彩	5F69	A	tshai2
+彪	5F6A	A	piu1
+彬	5F6C	A	pin1
+彭	5F6D	A	phinn5	phenn5	phing5
+彰	5F70	A	tsiong1	tsiang1
+影	5F71	A	iann2	ing2
+彷	5F77	A	hong2
+役	5F79	A	ik8	iah8
+彼	5F7C	A	hit4	he1	pi2
+彿	5F7F	A	hut4
+往	5F80	A	ong2	ing2
+征	5F81	A	tsing1
+待	5F85	A	thai7	tai7
+徊	5F8A	B	*hue5
+律	5F8B	A	lut8
+後	5F8C	A	au7	hau7	hio7	hoo7
+徐	5F90	A	tshi5
+徑	5F91	A	king3
+徒	5F92	A	too5
+得	5F97	AB	tit4	tik4	tit40	*eh4	*tsit4	*lit4	*te1
+徘	5F98	A	pai5
+徙	5F99	A	sua2
+徛	5F9B	A	khia7
+從	5F9E	A	tsiong5	tsing5	tshiong1
+御	5FA1	A	gu7
+復	5FA9	A	hok8
+循	5FAA	A	sun7	sun5
+微	5FAE	A	bi5	bui1	bi1
+徵	5FB5	A	ting1	tin1
+德	5FB7	A	tik4
+徹	5FB9	A	thiat4
+徼	5FBC	A	khio3
+心	5FC3	AB	sim1	*sin1
+必	5FC5	A	pit4
+忌	5FCC	AB	khi7	ki7	*ki3
+忍	5FCD	A	jim2	lun2	lim2
+忖	5FD6	A	tshun2
+志	5FD7	A	tsi3
+忘	5FD8	AB	bong7	*bong5
+忙	5FD9	A	bang5	bong5
+忝	5FDD	A	thiam2
+忠	5FE0	A	tiong1
+忤	5FE4	A	ngoo2
+快	5FEB	AB	khuai3	khuinn3	*khuann3
+念	5FF5	A	liam7
+忽	5FFD	A	hut4
+忿	5FFF	A	hun2
+怎	600E	AB	tsuann2	*nua2	*na2	*tsainn2
+怏	600F	A	ng3
+怐	6010	A	khoo3
+怒	6012	A	noo7
+怕	6015	AB	pha3	*phann3
+怖	6016	A	poo3
+怙	6019	A	koo7
+思	601D	A	su1	su3	si1
+怠	6020	B	*tai7
+怡	6021	A	i5
+急	6025	A	kip4
+怦	6026	AB	phenn7	*phinn7	*phann7
+性	6027	AB	sing3	senn3	sinn3	*siang3
+怨	6028	A	uan3
+怪	602A	A	kuai3	kue3
+怫	602B	A	phut4
+怯	602F	A	khiap4
+恁	6041	A	lin2
+恂	6042	AB	sun2	*sng2
+恃	6043	B	*si7
+恆	6046	A	hing5
+恍	604D	A	huann2	hong2
+恐	6050	A	khiong2
+恕	6055	A	su3
+恢	6062	A	khue1	hue1
+恣	6063	B	*su3
+恥	6065	A	thi2
+恨	6068	A	hun7	hin7
+恩	6069	A	un1	in1
+恬	606C	A	tiam7
+恭	606D	A	kiong1
+息	606F	A	sit4	sik4
+悄	6084	B	*tshiau2
+悅	6085	A	iat8	uat8
+悉	6089	A	sik4
+悔	6094	A	hue2	hui2
+悖	6096	A	pue7
+悟	609F	AB	ngoo7	*goo7
+悠	60A0	A	iu1
+患	60A3	A	huan7
+悲	60B2	A	pi1
+悴	60B4	A	tsui7
+悶	60B6	A	bun7
+悼	60BC	A	to7
+悽	60BD	AB	tshi1	*tshinn1
+悾	60BE	A	khong1
+情	60C5	A	tsing5	tsiann5
+惑	60D1	A	hik8
+惘	60D8	A	bong2
+惜	60DC	A	sioh4	sik4
+惝	60DD	A	tshing2
+惟	60DF	A	i5	ui5
+惠	60E0	A	hui7
+惡	60E1	A	ok4	onn3
+惰	60F0	A	tuann7	to7
+惱	60F1	AB	lo2	loo2	nau2	*noo2
+想	60F3	AB	siunn7	siong2	*sionn7
+惶	60F6	AB	hiann5	*hong5
+惹	60F9	A	jia2	lia2
+惻	60FB	A	tshik4
+愁	6101	A	tshiu5
+愈	6108	A	ju2	lu2
+愉	6109	A	lu5	ju5
+愍	610D	A	bian2
+意	610F	A	i3
+愕	6115	A	gok8
+愖	6116	A	sim7
+愚	611A	A	gu5
+愛	611B	A	ai3
+感	611F	A	kam2
+愣	6123	A	gang7
+愧	6127	A	khui3
+愿	613F	B	*guan7
+慄	6144	A	lak8	lik4
+慈	6148	A	tsu5
+態	614B	A	thai3	thai7
+慌	614C	A	hong1
+慍	614D	A	un3
+慎	614E	A	sin7
+慒	6152	A	tso1
+慕	6155	A	boo7
+慘	6158	A	tsham2
+慟	615F	B	*tong7
+慢	6162	A	ban7
+慣	6163	A	kuan3
+慧	6167	A	hue7	hui7
+慨	6168	A	khai3
+慮	616E	A	li7	lu7
+慰	6170	A	ui3
+慳	6173	A	kian1
+慶	6176	A	khing3
+慷	6177	A	khong2
+慼	617C	AB	tsheh4	tshueh4	tshik4	*tshue3
+慾	617E	A	iok8
+憂	6182	A	iu1
+憎	618E	B	*tsing1
+憐	6190	A	lian5	lin5
+憑	6191	A	pin5	ping5
+憔	6194	A	tsiau5
+憚	619A	A	tan7
+憢	61A2	A	giau5
+憤	61A4	A	hun3
+憫	61AB	A	bin2
+憲	61B2	A	hian3
+憶	61B6	A	ik4
+憾	61BE	A	ham7
+懂	61C2	A	tang2	tong2
+懇	61C7	A	khun2
+應	61C9	AB	ing3	in3	ing1	*iong3	*iong1	*hun1
+懊	61CA	A	au3
+懍	61CD	AB	lun2	*nng2	*ling2
+懦	61E6	A	noo7
+懲	61F2	A	ting5
+懵	61F5	A	bong3	bong2
+懶	61F6	A	lan2	nua7
+懷	61F7	AB	huai5	*kui5
+懸	61F8	AB	kuan5	hian5	*kuainn5
+懺	61FA	A	tsham3
+懼	61FC	A	ku7
+懿	61FF	A	i3
+戀	6200	A	luan5	luan7
+戇	6207	A	gong7
+戈	6208	A	ko1	goo3
+戊	620A	A	boo7
+戌	620C	A	sut4
+成	6210	A	sing5	tsiann5	tshiann5	siann5
+我	6211	A	gua2	ngoo2
+戒	6212	A	kai3
+或	6216	A	hik8
+戚	621A	A	tshik4
+戛	621B	A	khiat4
+戟	621F	A	kik4
+戥	6225	AB	ting2	*tin2
+截	622A	AB	tsiat8	*tsueh8
+戮	622E	A	lak4	liok8
+戰	6230	A	tsian3
+戲	6232	AB	hi3	*hi2
+戳	6233	A	thok4
+戴	6234	A	ti3	te3	tai3
+戶	6236	A	hoo7
+戽	623D	A	hoo3
+戾	623E	A	le7
+房	623F	A	pang5	pong5
+所	6240	A	soo2
+扁	6241	AB	pinn2	pun2	pian2	pin2	*pan2	*phian2
+扇	6247	A	sinn3	sian3
+扈	6248	A	hoo7
+手	624B	AB	tshiu2	siu2	*teh4
+才	624D	A	tsiah4	tsai5	tshai5
+扎	624E	A	tsah4
+扑	6251	A	phok4
+扒	6252	A	pe5	pe1
+打	6253	AB	tann2	ta2	*tiam2
+托	6258	A	thok4	thuh4
+扛	625B	A	kng1	kong1
+扞	625E	A	huann7
+扣	6263	A	khau3	khau1
+扦	6266	A	tshuann1
+扭	626D	AB	liu2	ngiu2	niu2	lau2	*nau2	*gio2
+扮	626E	A	pan7
+扯	626F	A	tshe2
+扱	6271	A	khip8
+扲	6272	AB	gim7	*gim5
+扳	6273	AB	pian1	pan2	*penn1	*pan1
+扴	6274	A	keh8
+扶	6276	A	hu5	phoo5
+扷	6277	A	io2
+批	6279	A	phue1	phe1	phi1
+扼	627C	A	ik8
+找	627E	A	tsau7
+承	627F	A	sing5	sin5
+技	6280	A	ki1
+抄	6284	A	tshau1
+抉	6289	A	kuat4
+把	628A	A	pa2	pe2	pa3
+抌	628C	A	tim3
+抐	6290	AB	la7	*la5
+抑	6291	AB	iah8	iah4	ah4	*ah8
+抓	6293	AB	jiau3	liau3	*niau3	*giau3	*ngiau3
+抔	6294	A	put4
+投	6295	A	tau5
+抗	6297	A	khong3
+折	6298	A	tsiat4	tsih8	tsik4
+抨	62A8	AB	phiann1	*piann1
+披	62AB	A	phi1
+抰	62B0	B	*ng1	*uinn1
+抱	62B1	A	pho7	po7	phau7
+抵	62B5	A	ti2	te2
+抹	62B9	A	buah4
+押	62BC	A	ah4	ap4
+抽	62BD	AB	thiu1	*liu1	*thio1
+抾	62BE	A	khioh4
+抿	62BF	AB	bin2	*bian2
+拂	62C2	A	hut4
+拄	62C4	A	tu2	tuh4
+拆	62C6	AB	thiah4	*liah4
+拇	62C7	A	bu2	bo2
+拈	62C8	A	liam1	ne1	ni1
+拉	62C9	AB	la2	la1	la5	*ba1
+拊	62CA	A	hu2
+拋	62CB	AB	pha1	phau1	*phann1
+拌	62CC	A	puann7
+拍	62CD	A	phah4	phik4
+拎	62CE	A	ling5
+拐	62D0	AB	kuai2	kuainn7	*kuainn2	*kuai7	*kuainnh4	*kuaih4
+拑	62D1	A	khinn5
+拒	62D2	A	ku7	ki7
+拓	62D3	A	thok4
+拔	62D4	AB	pueh8	puat8	puah8	*puih8	*puannh8	*pue7
+拖	62D6	A	thua1
+拗	62D7	AB	au2	*aunn2
+拘	62D8	A	khu1
+拙	62D9	A	tsuat4
+拚	62DA	A	piann3
+招	62DB	A	tsio1	tsiau1
+拜	62DC	A	pai3
+括	62EC	A	kuat4	kuah4
+拭	62ED	A	tshit4
+拯	62EF	A	tsin2
+拱	62F1	A	kiong2
+拳	62F3	A	kun5	kuan5
+拶	62F6	B	*suan2
+拷	62F7	B	*kho2
+拹	62F9	A	hiap8
+拼	62FC	A	phing1
+拾	62FE	A	sip8
+拿	62FF	A	na2
+持	6301	A	tshi5	ti5
+挂	6302	A	kui3
+挃	6303	AB	tih8	*tinnh8
+指	6307	AB	tsi2	tsing2	tsainn2	ki2	*tsng2	*tsuinn2	*tsai2	*tsin2	*tsan2
+挈	6308	A	kheh8
+按	6309	A	an2	an3
+挌	630C	A	keh4
+挐	6310	A	ju5	lu5
+挑	6311	A	thio1	thiau1	thiau2
+挓	6313	A	tha3
+挔	6314	A	hiannh4
+挕	6315	A	hinn3
+挖	6316	A	oo2	ue2	uat4
+挨	6328	A	e1	ue1	ai1
+挩	6329	A	thuah4
+挫	632B	A	tsho3
+振	632F	A	tin2	tsin2
+挲	6332	A	so1
+挵	6335	A	long3
+挹	6339	A	ip4
+挺	633A	A	thann2	thing2
+挼	633C	AB	jue5	le5	*je5
+挽	633D	A	ban2
+挾	633E	A	giap8	ngeh8
+捀	6340	A	phang5
+捅	6345	A	thong2
+捆	6346	A	khun2
+捉	6349	A	tshiok4
+捋	634B	AB	luah8	luah4	*lua7	*luaih8
+捌	634C	AB	bat4	*pat4
+捎	634E	A	sa1
+捏	634F	A	tenn7	liap8	liap4	tinn7
+捐	6350	A	kuan1
+捒	6352	AB	sak4	*sat4
+捔	6354	A	kak8
+捕	6355	A	poo2
+捗	6357	AB	poo5	*pu1	*po5	*poo7
+捘	6358	A	tsun7
+捙	6359	A	tshia1
+捥	6365	AB	ng2	*uinn2	*ainn2
+捧	6367	A	phong2
+捨	6368	A	sia2
+捲	6372	AB	kng2	*kuinn2
+捶	6376	A	tui5
+捷	6377	A	tsiap8	tsiat8
+捻	637B	A	liam3	liam7
+捽	637D	AB	sut4	*tsut8	*sut8
+捾	637E	A	kuann7
+掀	6380	A	hian1
+掂	6382	A	tim3
+掃	6383	A	sau3	so3
+掇	6387	A	tuah4	tuah8
+授	6388	A	siu7
+掉	6389	A	tiau7
+掌	638C	AB	tsiong2	tsiunn2	tsiang2	*tsionn2
+排	6392	A	pai5
+掔	6394	A	khian1
+掖	6396	A	ia7
+掘	6398	A	kut8
+掙	6399	A	tsiann7
+掛	639B	A	kua3	khua3
+掜	639C	A	tau1
+掠	63A0	A	liah8	liok8
+採	63A1	A	tshai2
+探	63A2	A	tham3	than3
+掣	63A3	A	tshuah4	tshiat4
+接	63A5	A	tsiap4	tsih4
+控	63A7	A	khong3	khang3
+推	63A8	A	thui1	the1	tshui1
+掩	63A9	AB	ng1	am1	iam2	om1	*uinn1
+措	63AA	A	tshoo3
+掮	63AE	AB	khainn1	*khainn2
+掰	63B0	AB	pue2	*pe2
+揀	63C0	AB	king2	kan2	*kainn2
+揆	63C6	B	*kui5	*pui5
+揈	63C8	A	hong1
+揉	63C9	A	jiu5	liu5
+揌	63CC	A	sai1
+揍	63CD	A	bok4
+描	63CF	A	bio5	biau5
+提	63D0	AB	theh8	the5	*the7	*thueh8	*eh8
+插	63D2	A	tshah4	tshap4
+揙	63D9	B	*pinn1
+揚	63DA	A	iong5
+換	63DB	AB	uann7	*huan7
+揜	63DC	A	iap4
+握	63E1	AB	ak4	ok4	ap4	*at4
+揣	63E3	A	tshue7	tshe7
+揤	63E4	AB	tshih8	*lih8	*tshi7	*jih8	*ji7
+揫	63EB	A	tshiu5
+揬	63EC	AB	tuh8	*tuh4	*tu7
+揭	63ED	A	khiat4	kiat4
+揮	63EE	A	hui1
+揲	63F2	A	tiap8
+援	63F4	A	uan7
+揹	63F9	AB	phainn7	*pe7
+揻	63FB	A	ui1
+搉	6409	B	*kha3
+損	640D	AB	sng2	sun2	*suinn2
+搏	640F	A	phok4
+搐	6410	A	tiuh4
+搖	6416	AB	io5	iau5	*oo5	*oo1
+搙	6419	A	jiok8	liok8
+搜	641C	A	tshiau1	soo1
+搝	641D	AB	khiu2	*giu2
+搟	641F	A	hian2
+搢	6422	A	tsinn3
+搣	6423	A	me1	mi1
+搤	6424	A	iah4
+搥	6425	B	*tui5
+搦	6426	A	lak8
+搧	6427	A	sian3	sam3
+搩	6429	A	kiat4
+搪	642A	A	tng7
+搬	642C	A	puann1	puan1
+搭	642D	A	tah4	tap4	ta7
+搵	6435	A	un3
+搶	6436	AB	tshiunn2	tshiong2	*tshionn2
+摁	6441	A	hmh4
+摃	6443	A	kong3
+摒	6452	A	piann3
+摔	6454	A	siak4	siang3
+摖	6456	A	tshe3	tshue3
+摘	6458	A	tiah4	tik4
+摠	6460	A	tsang2
+摧	6467	A	tshui1
+摩	6469	A	moo5
+摯	646F	A	tsi3
+摳	6473	A	khaunnh8
+摵	6475	A	tshik8
+摸	6478	A	bong1	moo1	boo1
+摹	6479	A	boo7	boo5
+摺	647A	AB	tsih4	*tsi2
+摻	647B	A	tsham1	tsham3
+撆	6486	A	pih4
+撇	6487	A	phiat4
+撈	6488	AB	hoo5	*lau7
+撋	648B	A	nua2
+撏	648F	A	jim5	lim5
+撐	6490	AB	the1	*thenn1
+撒	6492	A	suah4	sat4
+撓	6493	A	ngiau2
+撙	6499	A	tsun2
+撚	649A	A	lian2
+撞	649E	A	tong7
+撟	649F	A	kiau7
+撠	64A0	AB	giah4	*kiah4
+撤	64A4	A	thiat4
+撥	64A5	A	puah4	puat4
+撨	64A8	A	tshiau5	tshau5
+撩	64A9	A	lio5	liau5
+撫	64AB	A	bu2	hu1	hu2
+撬	64AC	A	kiau7
+播	64AD	AB	poo3	*po3
+撮	64AE	A	tshok4	tsuat4
+撰	64B0	A	tsuan7
+撲	64B2	B	*phok4
+撼	64BC	A	ham2
+擁	64C1	A	iong2
+擂	64C2	A	lui5
+擅	64C5	A	sian7
+擇	64C7	A	toh8	tik8
+擉	64C9	AB	tiak8	*thak4	*tiak4	*tak4	*tak8
+擊	64CA	A	kik4
+擋	64CB	A	tong3
+操	64CD	AB	tshau1	tsho1	tsho3	*tshiau1
+擎	64CE	A	king1	khing5
+擒	64D2	A	khim5
+擔	64D4	A	tann1	tann3	tam1
+擗	64D7	AB	phiak8	*phiak4	*piak8	*phiang1
+擘	64D8	A	peh4
+據	64DA	A	ki3	ku3
+擛	64DB	A	iat8
+擠	64E0	A	tsik4
+擢	64E2	A	tioh4
+擤	64E4	AB	tshing3	*tshng3	*sng3
+擦	64E6	A	tshat4
+擬	64EC	A	gi2
+擲	64F2	A	tan3
+擴	64F4	AB	khok4	*phok4
+擷	64F7	B	*khiat4
+擸	64F8	A	ba7
+擺	64FA	AB	pai2	*painn2
+擽	64FD	AB	ngiau1	*iau1
+擾	64FE	A	jiau2	liau2
+攀	6500	A	phan1
+攄	6504	A	lu1
+攆	6506	B	*lian2
+攏	650F	A	long2	lang2
+攑	6511	AB	giah8	*kiah8
+攔	6514	A	ann5	nua5	lan5
+攕	6515	A	tshiam2	tshiam1
+攘	6518	B	*giang7	*jiang7
+攜	651C	A	he5
+攝	651D	A	liap4
+攢	6522	A	tshuan5
+攤	6524	A	thuann1	than1
+攪	652A	A	kiau2
+攬	652C	A	lam2
+支	652F	A	tsi1	ki1
+攲	6532	B	*khi1
+收	6536	A	siu1
+改	6539	A	kai2
+攻	653B	A	kong1
+放	653E	A	pang3	hong3
+政	653F	A	tsing3
+故	6545	A	koo3
+敆	6546	A	kap4
+效	6548	A	hau7
+敉	6549	B	*bi2
+敏	654F	A	bin2
+救	6551	A	kiu3
+敗	6557	A	pai7
+敘	6558	A	su7
+教	6559	A	kau3	ka3	kah4
+敝	655D	A	pe3	pe7
+敢	6562	AB	kam2	kann2	*kiam2	*kan2	*ka2
+散	6563	A	san3	suann3	suann2	san2
+敦	6566	A	tun1
+敧	6567	A	khi1
+敨	6568	A	thau2
+敬	656C	A	king3
+敱	6571	A	khainn2
+敲	6572	A	kha3	khau1
+整	6574	A	tsing2
+敵	6575	A	tik8
+敷	6577	A	hu1
+數	6578	A	siau3	soo3
+斂	6582	A	liam2
+斃	6583	A	pe7
+文	6587	AB	bun5	*mui5
+斌	658C	A	pin1
+斐	6590	A	hui2	hui1
+斑	6591	AB	pan1	*pian1
+斗	6597	A	tau2	too2
+料	6599	A	liau7
+斜	659C	A	tshuah8	tshia5	sia5
+斟	659F	A	tsim1	thin5
+斡	65A1	A	uat4
+斤	65A4	A	kin1	kun1
+斥	65A5	A	thik4
+斧	65A7	AB	poo2	hu2	*pu2
+斬	65AC	A	tsann2	tsam2
+斯	65AF	A	su1	suh4
+新	65B0	A	sin1
+斷	65B7	AB	tng7	tuan7	tuan3	*tuinn7
+方	65B9	AB	hong1	hng1	png1	*puinn1
+於	65BC	A	i5
+施	65BD	A	si1	si3
+旁	65C1	A	pong5
+旅	65C5	A	li2	lu2
+旋	65CB	AB	suan1	tsng7	suan5	*tsuinn7
+族	65CF	A	tsok8
+旗	65D7	A	ki5
+既	65E2	A	ki3
+日	65E5	AB	jit8	lit8	lit80	jit80	*git8
+旦	65E6	A	tuann3	tan3
+旨	65E8	A	tsi2
+早	65E9	A	tsa2	tsai2
+旬	65EC	A	sun5
+旭	65ED	A	hiok4
+旱	65F1	A	huann7	uann7	han7
+旺	65FA	A	ong7
+昂	6602	A	gong5
+昆	6606	A	khun1
+昇	6607	A	sing1
+昊	660A	A	ho7
+昌	660C	A	tshiong1
+明	660E	AB	bing5	bin5	me5	mia5	*mi5	*mua5	*ma5
+昏	660F	AB	hng1	hun7	hun1	*huinn1
+易	6613	A	ik8	iah8	i7
+昔	6614	A	sik4
+星	661F	A	tshenn1	tshinn1	san1	sing1
+映	6620	A	ing3	iong3
+春	6625	AB	tshun1	*tshing1
+昧	6627	A	mai7
+昨	6628	AB	tsa1	tsoh8	*tsah8	*tsoo1
+昭	662D	A	tsiau1
+是	662F	AB	si7	si1	si70	*tsi7	*su7
+昱	6631	A	iok8
+晁	6641	A	tiau5
+時	6642	A	si5	si50
+晃	6643	AB	huann2	*hong2
+晉	6649	A	tsin3
+晏	664F	A	uann3	an3
+晚	665A	A	mng2	buan2
+晝	665D	A	tau3	tiu3
+晟	665F	A	tshiann5	sing7
+晡	6661	A	poo1
+晨	6668	A	sin5
+晬	666C	A	tse3
+普	666E	A	phoo2	puh4
+景	666F	A	king2
+晴	6674	A	tsing5	tsenn5
+晶	6676	A	tsinn1	tsing1
+智	667A	A	ti3
+晾	667E	AB	ne5	*ni5
+暇	6687	A	ha7
+暈	6688	AB	ng7	un7	*hun7
+暉	6689	A	hui1
+暑	6691	A	su2
+暖	6696	A	luan2
+暗	6697	A	am3
+暝	669D	A	me5	mi5
+暢	66A2	A	thiong3
+暨	66A8	A	ki3
+暫	66AB	A	tsiam7
+暮	66AE	A	boo7
+暱	66B1	A	lik8	lit8
+暴	66B4	A	po7	pok4	pok8
+暸	66B8	B	*liau5
+曆	66C6	AB	lik8	lah8	*la7
+曉	66C9	AB	hiau2	*hiang2
+曖	66D6	A	ai3
+曜	66DC	A	iau7
+曝	66DD	A	phak8	phok8
+曠	66E0	A	khong3
+曰	66F0	A	uat8
+曲	66F2	A	khiau1	khik4	khiok4
+更	66F4	A	kenn1	king1	kinn1	king3
+曷	66F7	AB	ah8	*iah8
+書	66F8	AB	su1	tsu1	*si1
+曹	66F9	A	tso5
+曼	66FC	A	ban7
+曾	66FE	A	tsing5	tsan1	tsing1
+替	66FF	A	the3	thue3
+最	6700	A	tsue3
+會	6703	AB	e7	hue7	he7	kue3	*ue7
+月	6708	AB	gueh8	geh8	guat8	geh80	gueh80	*gue7
+有	6709	A	u7	iu2
+朋	670B	A	ping5
+服	670D	A	hok8
+朒	6712	AB	tsut4	*lut4
+朔	6714	A	sok4
+朕	6715	A	tim7
+朗	6717	A	long2	lang2
+望	671B	A	bang7	bong7
+朝	671D	A	tiau5	tiau1
+期	671F	A	ki5	ki1
+木	6728	A	bok8	bak8
+未	672A	A	bue7	bi7	be7
+末	672B	AB	buah8	buat8	*buah4	*bua7
+本	672C	A	pun2	png2
+札	672D	A	tsat4
+朱	6731	A	tsu1
+朴	6734	A	phoh4
+朽	673D	A	hiu2
+杆	6746	A	kan1	kuann1	kuainn1
+杉	6749	A	sam1
+李	674E	A	li2
+杏	674F	A	hing7
+材	6750	AB	tsai5	*tshai5
+村	6751	A	tshun1	tshuan1
+杓	6753	AB	siah8	*tshia7	*sia7
+杖	6756	A	thng7	tiong7
+杙	6759	A	khit8
+杜	675C	AB	too7	*tua7
+杞	675E	A	ki2
+束	675F	A	sok4
+杭	676D	A	hang5
+杮	676E	AB	phue3	*phe3
+杯	676F	A	pue1
+杰	6770	A	kiat8
+東	6771	A	tang1	tong1
+杴	6774	B	*hiam1
+杵	6775	A	thu2
+杷	6777	A	pe5
+松	677E	A	siong5	tshing5	song2
+板	677F	A	pan2	pang1
+枇	6787	AB	pi5	*gi5	*khi5	*ti5	*pinn5
+枉	6789	A	ong2
+枋	678B	A	pang1
+析	6790	A	sik4
+枕	6795	A	tsim2
+林	6797	AB	na5	lim5	na2	*nia2	*nai5
+果	679C	A	ko2	kue2	ke2
+枝	679D	A	ki1	tsi1
+枯	67AF	A	koo1
+枴	67B4	A	kuai2	kuainn2
+枵	67B5	A	iau1
+架	67B6	A	ke3	khue3	ka3	khe3
+枷	67B7	AB	ke5	kha1	ka1	*kue5	*ke2
+枸	67B8	A	koo2
+柄	67C4	A	penn3	pinn3	ping3
+柏	67CF	A	pik4	peh4
+某	67D0	AB	boo2	*moo2
+柑	67D1	A	kam1
+染	67D3	A	ni2	jiam2	liam2
+柔	67D4	A	jiu5	liu5
+柙	67D9	A	kah4
+柚	67DA	A	iu7
+柝	67DD	A	khok8
+查	67E5	AB	tsa1	tsha5	*ta1
+柩	67E9	A	kiu7
+柫	67EB	AB	put4	*kut4
+柬	67EC	A	kan2
+柯	67EF	A	kua1	kho1
+柱	67F1	A	thiau7	tsu7
+柳	67F3	A	liu2
+柴	67F4	AB	tsha5	*tshai5	*sa5
+柵	67F5	A	sa1	tshik4
+柺	67FA	B	*kuainn2	*kuai2
+柿	67FF	A	khi7
+栓	6813	A	sng1	tshng1
+栗	6817	A	lik8	lat8
+校	6821	A	hau7	kau3
+株	682A	A	tu1	tsu1
+栱	6831	AB	kong5	kong1	kong2	*kiong2
+核	6838	A	hik8	hut8	hat8
+根	6839	A	kin1	kun1
+格	683C	A	keh4	kik4	ga1
+栽	683D	A	tsai1
+栿	683F	A	phak8	hok8
+桀	6840	A	kiat8
+桂	6842	A	kui3
+桃	6843	A	tho5	to5
+桅	6845	A	ui5
+框	6846	A	khing1	khong1
+案	6848	A	an3	uann3
+桌	684C	AB	toh4	*tooh4
+桐	6850	A	tong5	tang5
+桑	6851	A	sng1	song1	sang2
+桔	6854	AB	kiat4	*kit4
+桮	686E	AB	pue1	pe1	*pue7
+桱	6871	A	kenn3	kinn3
+桶	6876	A	thang2
+桷	6877	A	kak4
+桸	6878	A	hia1
+桿	687F	A	kuainn2
+梁	6881	AB	niu5	*nioo5	*liong5
+梅	6885	AB	mue5	mui5	m5	bue5	*muai5
+梓	6893	A	tsu2
+梔	6894	A	ki1
+梗	6897	AB	king2	kenn2	*kuinn2
+梘	6898	A	king2
+條	689D	A	tiau5	liau5
+梟	689F	A	hiau1
+梢	68A2	A	sau1
+梧	68A7	A	ngoo5	goo5
+梨	68A8	A	lai5	le5
+梭	68AD	A	so1
+梯	68AF	A	thui1	the1
+械	68B0	AB	hai7	*kai3	*hai5
+梳	68B3	A	se1	sue1
+梵	68B5	A	huan7
+棄	68C4	A	khi3
+棉	68C9	A	mi5	bian5
+棋	68CB	A	ki5
+棍	68CD	A	kun3
+棑	68D1	A	pai5
+棒	68D2	A	pang7
+棕	68D5	A	tsang1
+棗	68D7	A	tso2
+棚	68DA	A	penn5	pinn5	ping5
+棟	68DF	A	tong3	tang3
+棠	68E0	A	tong5
+棧	68E7	AB	tsan3	*tsian3
+森	68EE	AB	sim1	*som1
+棰	68F0	A	tshe5	tshue5
+棲	68F2	A	tshe1
+棺	68FA	A	kuan1	kuann1
+椅	6905	A	i2
+植	690D	AB	sit8	tit8	*tsit8
+椏	690F	AB	ue1	*uainn7
+椒	6912	A	tsio1	tsiau1
+椪	692A	A	phong3
+椰	6930	A	ia5
+椹	6939	B	*sui5
+楂	6942	B	*tsa1
+楊	694A	AB	iunn5	iong5	tshiunn5	*ionn5	*tshiu5
+楓	6953	A	png1	hong1
+楔	6954	AB	seh4	*sueh4
+楗	6957	AB	king7	*kainn7	*kan7
+楚	695A	A	tsho2	tshoo2
+楝	695D	A	ling7	lian7
+楞	695E	A	gong5
+楠	6960	A	lam5
+楣	6963	A	bai5
+楦	6966	A	hun3
+楨	6968	B	*tsing1
+楬	696C	A	at4
+業	696D	A	giap8
+極	6975	A	kik8
+楷	6977	A	khai2
+楹	6979	AB	enn5	ing5	*inn5
+概	6982	A	kai3	khai3
+榆	6986	A	liu5	jiu5
+榔	6994	A	long5	nng5
+榕	6995	AB	tshing5	iong5	*tsing5	*siong5
+榛	699B	A	tsin1
+榜	699C	A	png2	pong2
+榨	69A8	A	tsa3
+榫	69AB	A	sun2
+榮	69AE	A	ing5
+榴	69B4	A	liu5
+榻	69BB	A	thap4	thah4
+槃	69C3	B	*phuan5
+槊	69CA	B	*sok8
+構	69CB	A	koo3
+槌	69CC	A	thui5
+槍	69CD	AB	tshiunn1	*tshionn1
+槐	69D0	A	huai5
+槓	69D3	AB	kng3	khong5	*kong3
+槔	69D4	A	oo1
+槤	69E4	A	lian5
+槳	69F3	AB	tsiunn2	*tsionn2
+槺	69FA	A	khong1
+槽	69FD	A	tso5
+樂	6A02	A	lok8	gak8	ngau7
+樊	6A0A	A	han5	huan5
+樑	6A11	AB	niu5	liong5	*nioo5
+樓	6A13	AB	lau5	*loo5
+標	6A19	A	piau1	pio1	phiau1
+樞	6A1E	AB	tshu1	*su1
+樟	6A1F	AB	tsiunn1	tsiong1	*tsionn1
+樠	6A20	A	mia5
+模	6A21	A	boo5
+樣	6A23	AB	iunn7	iong7	*ionn7
+樵	6A35	A	tsiau5
+樸	6A38	A	phoh4	phok4
+樹	6A39	A	tshiu7	su7
+樺	6A3A	A	hua7	hua5
+樽	6A3D	B	*tsun1
+橂	6A42	AB	ting7	*tan7	*tainn7
+橄	6A44	A	kan1	kann1	kam2
+橋	6A4B	A	kio5	kiau5
+橐	6A50	A	lok4	lop4	lak4
+橙	6A59	B	*ting5	*tshiang5
+橛	6A5B	A	kueh8
+機	6A5F	AB	ki1	kui1	*ke1
+橫	6A6B	AB	huainn5	huinn5	hing5	*huenn5
+檀	6A80	A	tuann5	tan5
+檔	6A94	A	tong2	tong3
+檜	6A9C	A	kue3
+檠	6AA0	A	kiann5
+檢	6AA2	A	kiam2
+檣	6AA3	B	*tshiong5
+檨	6AA8	A	suainn7
+檫	6AAB	A	tshat4
+檬	6AAC	A	bong2
+檯	6AAF	A	tai5
+檳	6AB3	AB	pin1	*pun1
+檸	6AB8	A	le5
+櫃	6AC3	A	kui7
+櫓	6AD3	A	loo2
+櫛	6ADB	B	*tsiat4
+櫞	6ADE	AB	inn5	*ian5
+櫥	6AE5	A	tu5
+櫳	6AF3	A	lang1	long5
+櫻	6AFB	A	ing1
+櫼	6AFC	A	tsinn1
+欄	6B04	A	nua5	lan5
+欉	6B09	A	tsang5
+權	6B0A	A	khuan5	kuan5
+欖	6B16	A	na2	lam2
+欠	6B20	A	khiam3
+次	6B21	A	tshu3
+欣	6B23	A	him1
+欱	6B31	AB	hap4	*hop4
+欲	6B32	AB	beh4	bueh4	iok8	*boh4
+欶	6B36	A	suh4
+欸	6B38	A	eh4	eh40
+欹	6B39	A	khia1
+欺	6B3A	A	khi1
+欽	6B3D	A	khim1
+款	6B3E	A	khuan2	khuann2
+歁	6B41	A	kham2
+歆	6B46	A	him1
+歇	6B47	AB	hioh4	*hennh4	*heh4
+歉	6B49	AB	khiam3	khiam1	*khiam2
+歌	6B4C	AB	kua1	ko1	*kuai1
+歎	6B4E	A	than3
+歐	6B50	A	au1	io1
+歕	6B55	A	pun5
+歡	6B61	A	huann1	huan1
+止	6B62	A	tsi2
+正	6B63	A	tsiann3	tsing3	tsiann1
+此	6B64	AB	tshu2	*tsiunn3	*tsu2
+步	6B65	A	poo7
+武	6B66	A	bu2
+歧	6B67	A	ki5
+歪	6B6A	A	uai1	uainn1
+歲	6B72	A	hue3	he3	sue3
+歷	6B77	A	lik8
+歸	6B78	A	kui1
+歹	6B79	A	phainn2	phai2	tai2
+死	6B7B	A	si2	si20	su2
+殃	6B83	A	iong1
+殉	6B89	A	sun5
+殊	6B8A	A	su5
+殕	6B95	A	phu2
+殖	6B96	A	sit8	sik8
+殗	6B97	A	gian7
+殘	6B98	A	tsan5	tshan5	tsuann5
+殭	6BAD	AB	khiong1	*kiong1
+殮	6BAE	A	liam7
+殯	6BAF	A	pin1
+段	6BB5	A	tuann7	tuan7
+殷	6BB7	A	un5	in1	un1
+殺	6BBA	A	sat4
+殼	6BBC	A	khak4	khok4
+殿	6BBF	A	tian7
+毀	6BC0	A	hui2
+毅	6BC5	A	gi7	ge7
+毋	6BCB	A	m7
+母	6BCD	AB	bu2	bo2	bio2	*boo2
+每	6BCF	A	mui2
+毒	6BD2	A	tok8	thau7	tak8
+比	6BD4	AB	pi2	*phi2
+毛	6BDB	AB	mng5	moo5	moo1	*bun5	*mi5	*mng1
+毫	6BEB	A	ho5	hoo5
+毬	6BEC	AB	kiu5	*khiu5
+毯	6BEF	A	than2
+毽	6BFD	A	kian3
+毿	6BFF	A	sam3
+氅	6C05	A	tshang2
+氈	6C08	A	tsinn1
+氏	6C0F	A	si7	si70
+民	6C11	A	bin5
+氓	6C13	B	*bin5
+氛	6C1B	A	hun1
+氣	6C23	A	khi3	khui3
+氧	6C27	A	iong2
+水	6C34	A	tsui2	sui2
+永	6C38	A	ing2
+汁	6C41	AB	tsiap4	*tsap4
+求	6C42	A	kiu5
+汐	6C50	A	sip8	sik8
+汗	6C57	A	kuann7	han7
+汙	6C59	AB	u1	u3	*u2
+汛	6C5B	B	*sin3
+江	6C5F	A	kang1	kang2
+池	6C60	A	ti5
+污	6C61	A	u1
+汨	6C68	B	*bik8
+汪	6C6A	AB	ong1	*nauh8	*ngau2	*hom2	*haunnh8
+汫	6C6B	A	tsiann2
+汰	6C70	A	thua7	thai3
+汴	6C74	A	pian7	pan7
+決	6C7A	A	kuat4
+汽	6C7D	A	khi3
+沂	6C82	B	*kin5
+沃	6C83	A	ak4
+沈	6C88	A	sim2
+沉	6C89	A	tim5	tiam5
+沌	6C8C	A	tun7
+沐	6C90	A	bak4	bok8
+沒	6C92	A	but8
+沓	6C93	A	tauh8	tap8
+沕	6C95	A	bit8
+沖	6C96	A	tshiang5	tshiong1
+沙	6C99	AB	sua1	sa1	se1	*sie1
+沛	6C9B	A	phai3
+沢	6CA2	A	tshioh4
+沫	6CAB	A	phueh8	pheh8
+沬	6CAC	A	bi7
+河	6CB3	AB	ho5	*oo5
+沸	6CB8	A	hui3
+油	6CB9	A	iu5
+治	6CBB	A	ti7
+沼	6CBC	AB	ku7	tsau1	*tsiau2
+沽	6CBD	B	*koo1
+沾	6CBE	A	tsam1
+沿	6CBF	A	ian5
+況	6CC1	A	hong2
+泄	6CC4	A	tshua7	siat4
+泅	6CC5	A	siu5
+泉	6CC9	A	tsuann5	tsuan5
+泊	6CCA	A	phik4	pok8
+泌	6CCC	A	pi3
+泏	6CCF	A	tsuah4	tsuat4	tsuh4
+泓	6CD3	A	hong5
+泔	6CD4	A	am2
+法	6CD5	A	huat4
+泛	6CDB	AB	huan3	huan7	*ham3
+泡	6CE1	AB	phau3	pho1	phok8	pho3	*phau1
+波	6CE2	A	pho1
+泣	6CE3	A	khip4
+泥	6CE5	A	ni5
+注	6CE8	A	tsu3	tu3
+泮	6CEE	B	*phuan3
+泯	6CEF	B	*bin2
+泰	6CF0	A	thai3
+泱	6CF1	A	iann1	iong1
+泳	6CF3	A	ing2
+泵	6CF5	A	pong7
+洄	6D04	A	hue5
+洋	6D0B	AB	iunn5	iong5	*ionn5
+洒	6D12	A	se3
+洗	6D17	A	se2	sue2
+洘	6D18	AB	kho2	*khoo2	*kho3
+洛	6D1B	A	lok8	lok4
+洞	6D1E	A	tong7
+津	6D25	A	tin1	tsin1
+洩	6D29	AB	siap8	*siat4
+洪	6D2A	A	ang5	hong5
+洲	6D32	A	tsiu1
+活	6D3B	AB	uah8	huat8	*uat8
+派	6D3E	A	phai3
+流	6D41	A	lau5	liu5
+浙	6D59	A	tsiat4
+浞	6D5E	A	tshiok8
+浡	6D61	A	phuh8	phu7
+浣	6D63	B	*uan7
+浦	6D66	AB	phoo2	*phu1	*phu2	*phuh8	*phuh4
+浩	6D69	A	ho7
+浪	6D6A	A	long7	lang5
+浮	6D6E	A	phu5	hu5
+浯	6D6F	B	*ngoo5
+浴	6D74	A	ik8	iok8
+海	6D77	A	hai2
+浸	6D78	AB	tsim3	*tsing3
+涂	6D82	A	thoo5	too5
+涅	6D85	B	*liap4
+消	6D88	A	siau1
+涉	6D89	A	siap8
+涎	6D8E	A	sian5
+涓	6D93	B	*kuan1
+涗	6D97	A	sue3	se3
+涯	6DAF	A	gai5
+液	6DB2	A	sioh8	ik8
+涵	6DB5	A	am5	ham5
+涸	6DB8	A	khok4
+涼	6DBC	AB	liang5	niu5	*ling5	*liong5
+淇	6DC7	A	ki5
+淋	6DCB	A	lam5	lim5
+淑	6DD1	A	siok4
+淒	6DD2	A	tshe1
+淘	6DD8	A	to5
+淚	6DDA	A	lui7
+淝	6DDD	B	*hui5
+淡	6DE1	A	tam7	tann7
+淨	6DE8	A	tsing7
+淪	6DEA	A	lun5
+淫	6DEB	A	im5
+淮	6DEE	A	huai5
+深	6DF1	A	tshim1
+淵	6DF5	A	ian1
+混	6DF7	A	hun7
+淹	6DF9	A	im1
+淺	6DFA	A	tshian2	khin2
+添	6DFB	A	thiam1	thinn1
+清	6E05	AB	tshing1	tshinn1	*tshuinn1
+減	6E1B	A	kiam2
+渝	6E1D	A	lu5	u5	ju5
+渠	6E20	B	*ku5
+渡	6E21	A	too7	tau7
+渣	6E23	A	tse1
+渧	6E27	A	te3
+測	6E2C	A	tshik4
+渭	6E2D	B	*ui7
+港	6E2F	A	kang2
+渴	6E34	A	khuah4	khat4
+游	6E38	A	iu5
+渺	6E3A	A	biau2
+渾	6E3E	A	hun5
+湄	6E44	B	*bi5
+湖	6E56	AB	oo5	*hoo5	*ngoo5
+湘	6E58	A	siong1
+湠	6E60	A	thuann3
+湢	6E62	A	pih4
+湧	6E67	A	ing2	iong2
+湮	6E6E	B	*ian1
+湯	6E6F	A	thng1	thong1
+湳	6E73	A	lam3
+溉	6E89	A	kai3
+源	6E90	A	guan5
+準	6E96	A	tsun2
+溜	6E9C	A	liu1	liu3
+溝	6E9D	A	kau1	koo1
+溡	6EA1	A	tshi5
+溢	6EA2	A	ik4
+溪	6EAA	A	khe1	khue1	khenn1
+溫	6EAB	A	un1
+溯	6EAF	A	soo3
+溶	6EB6	AB	iunn5	iong5	*ionn5
+溺	6EBA	A	lik8
+溼	6EBC	A	sip4
+滂	6EC2	AB	phong7	*pong7
+滄	6EC4	A	tshong1
+滅	6EC5	A	biat8
+滇	6EC7	A	tinn7	tian1
+滋	6ECB	A	tsu1
+滑	6ED1	A	kut8
+滒	6ED2	A	ko7
+滓	6ED3	A	tai2	lai2	tsainn2
+滬	6EEC	A	hoo7
+滯	6EEF	A	tu3	ti7
+滲	6EF2	A	siam3
+滴	6EF4	A	tih4	tik4
+滷	6EF7	A	loo2
+滸	6EF8	A	hoo2
+滾	6EFE	A	kun2
+滿	6EFF	A	mua2	buan2
+漁	6F01	A	hi5	hu5	gu5
+漂	6F02	AB	phio3	phiau1	phiau3	*pio1
+漆	6F06	A	tshat4
+漉	6F09	A	lok8	lok4
+漏	6F0F	A	lau7	loo7
+演	6F14	A	ian2
+漖	6F16	A	ka3
+漚	6F1A	A	au3	au1	au2
+漠	6F20	AB	bok8	*boo5
+漢	6F22	A	han3	han7
+漩	6F29	AB	suan7	*suan1
+漫	6F2B	A	ban7
+漱	6F31	B	*suah4
+漲	6F32	AB	tiunn3	tiong3	*tionn3
+漳	6F33	A	tsiang1	tsiong1
+漸	6F38	A	tsiam7
+漾	6F3E	B	*iong7
+漿	6F3F	AB	tsiunn1	tsiong1	*tsionn1
+潑	6F51	A	phuah4	phuat4
+潔	6F54	A	kiat4
+潘	6F58	A	phun1	phuann1	phuan1
+潛	6F5B	A	tsiam5
+潟	6F5F	B	*sik4
+潢	6F62	A	hong5
+潤	6F64	A	jun7	lun7
+潦	6F66	A	lo2
+潭	6F6D	A	tham5
+潮	6F6E	A	tiau5	tiau1	tio5
+潰	6F70	AB	khui3	*hui7	*hui3
+潲	6F72	A	siau5
+潺	6F7A	A	tshan1
+澀	6F80	A	siap4
+澄	6F84	A	ting5
+澈	6F88	A	thiat4
+澍	6F8D	A	tshu7
+澎	6F8E	A	phenn5	phinn5
+澗	6F97	AB	kan2	*kan3
+澡	6FA1	A	tso2
+澤	6FA4	A	tik8
+澩	6FA9	A	haunnh8
+澳	6FB3	A	o3	u3
+澹	6FB9	A	tam5
+激	6FC0	AB	kik4	*kik8	*khik4
+濁	6FC1	A	lo5	tok8	tak8
+濃	6FC3	A	long5	long1
+濆	6FC6	A	bun3
+濛	6FDB	B	*bong5
+濟	6FDF	A	tse7	tse3	tsue7
+濤	6FE4	A	too5	to5
+濫	6FEB	A	lam7
+濱	6FF1	A	pin1
+濺	6FFA	A	tsuann7
+濾	6FFE	A	li7
+瀆	7006	B	*tok8
+瀉	7009	A	sia3
+瀑	7011	B	*pok8	*phok8
+瀕	7015	B	*pin5
+瀘	7018	A	lu7
+瀚	701A	A	han7
+瀛	701B	B	*ing5
+瀟	701F	A	siau1
+瀧	7027	A	liong5
+瀨	7028	A	lua7
+瀳	7033	A	tshinn5
+瀾	703E	A	nua7	lan5	lian5
+灇	7047	A	tsang5
+灌	704C	A	kuan3
+灑	7051	A	sa2
+灘	7058	A	thuann1	than1
+灣	7063	A	uan5	uan1
+火	706B	A	hue2	he2	honn2
+灰	7070	AB	hue1	*he1
+灶	7076	A	tsau3	tso3
+灸	7078	A	ku3
+災	707D	A	tsai1	tse1
+炊	708A	A	tshue1	tshe1
+炎	708E	A	iam7
+炒	7092	AB	tsha2	*tshau2
+炕	7095	A	khong3
+炙	7099	A	tsia3
+炤	70A4	A	tshio7
+炫	70AB	A	hian7
+炭	70AD	A	thuann3
+炮	70AE	A	phau3
+炯	70AF	B	*king2
+炰	70B0	A	pu5
+炱	70B1	A	te1
+炳	70B3	A	ping2
+炸	70B8	AB	tsa3	tsuann3	tsiah8	*tshia1	*tsah4
+為	70BA	A	ui7	ui5
+烈	70C8	A	liat8
+烌	70CC	A	hu1
+烏	70CF	A	oo1	u1
+烘	70D8	A	hang1	hong7	hong1
+烙	70D9	A	lo7	lok8
+烤	70E4	B	*kho2
+烰	70F0	A	phu5
+烹	70F9	A	phing1
+烽	70FD	B	*hong1
+焐	7110	A	u3
+焗	7117	A	kok8
+焙	7119	AB	pue7	*pe7
+焚	711A	A	hun5
+焠	7120	AB	tshuh4	*tshui3
+無	7121	A	bo5	bu5	bo50
+焦	7126	AB	ta1	na1	tsiau1	*tann1
+焰	7130	A	iam7
+焱	7131	A	iann7
+然	7136	A	jian5	lian5
+煉	7149	A	lian7
+煌	714C	A	hong5
+煎	714E	A	tsian1	tsuann1
+煏	714F	A	piak4
+煖	7156	B	*luan2
+煙	7159	A	ian1
+煞	715E	A	suah4	sannh4	sat4
+煠	7160	AB	sah8	*sah4	*sa7
+煡	7161	A	khit8
+煤	7164	A	mue5
+煥	7165	A	huan3
+照	7167	A	tsiau3	tsio3
+煨	7168	A	ue1
+煩	7169	A	huan5
+煬	716C	A	iang7	iong5
+煮	716E	AB	tsu2	*tsi2
+煽	717D	A	sian3
+熁	7181	AB	hannh4	*hah4
+熄	7184	A	sit4
+熇	7187	A	ho1
+熊	718A	A	him5
+熏	718F	A	hun1
+熔	7194	A	iunn5	iong5
+熗	7197	A	tshing3
+熙	7199	B	*hi1
+熟	719F	A	sik8	siok8
+熥	71A5	AB	thng7	thang1	*lang1	*thuinn7
+熨	71A8	A	ut4
+熬	71AC	A	go5
+熱	71B1	AB	jiat8	juah8	liat8	luah8	*jua7
+熹	71B9	B	*hi1
+燃	71C3	A	hiann5	jian5	lian5
+燄	71C4	A	iam7
+燈	71C8	A	ting1
+燉	71C9	A	tun7
+燒	71D2	A	sio1
+燕	71D5	A	ian3	inn3	ian1
+燖	71D6	A	tim7
+燙	71D9	A	thng3
+燜	71DC	A	bun7
+營	71DF	A	iann5	ing5
+燥	71E5	A	so3
+燦	71E6	A	tshan3
+燭	71ED	A	tsik4	tsiok4
+爁	7201	AB	nah4	*na3
+爆	7206	A	pok8
+爍	720D	AB	sih4	*sinnh4
+爐	7210	A	loo5
+爛	721B	A	nua7	lan7
+爪	722A	AB	jiau2	niau2	liau2	*giau2
+爬	722C	A	pe5
+爭	722D	A	tsing1	tsenn1	tsinn1
+爵	7235	A	tsiok4	tsik4
+父	7236	A	hu7
+爸	7238	AB	pe7	pah4	pa5	*pa1	*pa2
+爹	7239	A	tia1
+爺	723A	A	ia5
+爻	723B	A	ngau5
+爽	723D	A	song2	sng2
+爾	723E	AB	nia7	ni7	*ni2
+爿	723F	AB	ping5	*pin5
+牆	7246	AB	tshiunn5	*tshiong5	*tshionn5
+片	7247	A	phinn3	phian3
+版	7248	A	pan2
+牌	724C	A	pai5
+牒	7252	A	tiap8
+牘	7258	A	tok8
+牙	7259	A	ge5	ga5
+牚	725A	AB	thenn3	thinn3	*thi3
+牛	725B	A	gu5	giu5
+牟	725F	A	boo5
+牡	7261	A	boo2
+牢	7262	A	tiau5	lo5
+牧	7267	A	bok8
+物	7269	AB	mih8	mih4	but8	mngh8	*mi7	*mi2	*mng7	*bin3
+牯	726F	B	*koo2
+牲	7272	A	sing1	senn1	sinn1
+特	7279	A	tik8
+牽	727D	A	khan1	khian1
+犀	7280	A	sai1	se1
+犁	7281	AB	le5	*lue5
+犅	7285	A	kang2
+犒	7292	A	kho3
+犢	72A2	A	tok8
+犧	72A7	A	hi1
+犬	72AC	A	khian2
+犯	72AF	A	huan7
+狀	72C0	A	tsiong7	tsong7	tsng7
+狂	72C2	A	kong5
+狄	72C4	A	tik8
+狎	72CE	A	ap8
+狐	72D0	A	hoo5
+狗	72D7	A	kau2	koo2
+狡	72E1	A	kau2
+狩	72E9	B	*siu3
+狸	72F8	A	li5
+狹	72F9	AB	eh8	hiap8	ueh8	*e7
+狼	72FC	AB	long5	*liong5
+狽	72FD	A	pue7
+猊	730A	A	li5	ji5
+猌	730C	A	gin7
+猖	7316	A	tshiong1
+猛	731B	A	me2	bing2
+猜	731C	A	tshai1
+猩	7329	A	sing1
+猫	732B	A	ba5
+猴	7334	A	kau5
+猶	7336	AB	iau2	iu1	iu5	*a2	*ia2	*iah4	*ah4
+猾	733E	A	kut8
+猿	733F	B	*uan5
+獄	7344	A	gak8	gik8
+獅	7345	A	sai1
+獎	734E	A	tsiong2	tsiang2
+獠	7360	A	liau5
+獨	7368	A	tok8	tak8
+獲	7372	B	*hik8
+獵	7375	A	lah8	liap8
+獸	7378	A	siu3
+獺	737A	A	thuah4
+獻	737B	A	hian3
+玄	7384	A	hian5
+率	7387	A	lut8	sut4
+玉	7389	A	giok8	gik8
+王	738B	A	ong5
+玩	73A9	A	uan2	guan2
+玫	73AB	A	mui5
+玲	73B2	A	lin1	ling5	lin5
+玻	73BB	A	po1
+珊	73CA	AB	suan1	*san1
+珍	73CD	A	tin1	tsin1
+珞	73DE	A	lok8
+珠	73E0	A	tsu1
+班	73ED	A	pan1
+珮	73EE	A	pue3
+現	73FE	A	hian7	hian3
+球	7403	A	kiu5	khiu5
+理	7406	A	li2
+琉	7409	A	liu5
+琢	7422	A	tok4
+琦	7426	A	ki5
+琪	742A	A	ki5
+琳	7433	A	lim5
+琴	7434	A	khim5
+琵	7435	A	pi5
+琶	7436	A	pe5	pa5
+琺	743A	B	*huat4
+瑄	7444	B	*suan1
+瑋	744B	A	ui2
+瑕	7455	A	ha5
+瑙	7459	A	lo2
+瑚	745A	AB	oo5	*loo5
+瑛	745B	A	ing1
+瑜	745C	A	ju5	lu5	u5
+瑞	745E	A	sui7	tsui2
+瑟	745F	A	sik4	sit4
+瑠	7460	B	*liu5
+瑣	7463	A	so2
+瑤	7464	A	iau5
+瑩	7469	A	ing5
+瑪	746A	A	ma2	be2
+瑯	746F	A	long1	long5
+瑰	7470	A	kui3
+璃	7483	A	le5	li5
+璇	7487	A	suan7
+璋	748B	A	tsiong1
+璜	749C	B	*hong5
+璞	749E	A	phok4	phoh4
+環	74B0	A	khuan5	huan5
+璿	74BF	A	suan5
+瓊	74CA	A	khing5	khiong5
+瓜	74DC	A	kue1	kua1
+瓠	74E0	B	*pu5	*pui5
+瓢	74E2	A	phio5
+瓣	74E3	AB	ban7	*pan7
+瓤	74E4	AB	nng5	liong5	jiong5	*nng7
+瓦	74E6	AB	hia7	ua2	*hua7	*hau7
+瓶	74F6	A	pan5
+瓷	74F7	A	hui5
+甄	7504	A	tsin1
+甌	750C	A	au1
+甍	750D	A	bong3
+甓	7513	A	phiah8
+甕	7515	A	ang3	penn5
+甘	7518	AB	kam1	*lam1
+甚	751A	A	sim7
+甜	751C	A	tinn1
+生	751F	A	sing1	senn1	sinn1	tshenn1	tshinn1
+產	7522	A	san2
+甥	7525	A	sing1
+甦	7526	A	soo1
+用	7528	A	iong7	ing7
+甪	752A	A	lut4
+甫	752B	A	hu2
+甭	752D	A	bang3
+田	7530	AB	tshan5	tian5	tian7	*ian5
+由	7531	A	iu5
+甲	7532	A	kah4	kap4
+申	7533	A	sin1
+男	7537	A	lam5
+甸	7538	B	*tian7
+町	753A	A	ting1
+界	754C	A	ke3	kai3	kue3
+畏	754F	A	ui3
+畔	7554	A	puan7
+留	7559	A	lau5	liu5
+畚	755A	A	pun3	pun7
+畜	755C	A	thik4	thiok4
+畝	755D	A	boo2
+畢	7562	A	pit4
+略	7565	A	lioh8	liok8
+番	756A	AB	huan1	han1	*an1
+畫	756B	AB	ue7	*ui7
+異	7570	AB	i7	*inn7
+當	7576	A	tang3	tng1	tong1	tang1	tong3	tng3
+疆	7586	A	kiong1
+疇	7587	B	*tiu5
+疊	758A	A	thah8	thiap8	thiap4
+疏	758F	A	soo1	se1	soo3
+疑	7591	A	gi5
+疔	7594	A	ting1
+疕	7595	A	phi2
+疤	75A4	A	pa1
+疥	75A5	A	ke3	kue3
+疧	75A7	A	khi5
+疫	75AB	A	ik8	iah8
+疱	75B1	A	pha7
+疲	75B2	A	phi5
+疳	75B3	A	kam1
+疵	75B5	A	tshu5
+疶	75B6	A	tshuah4
+疸	75B8	A	than2
+疹	75B9	A	tsin2
+疼	75BC	A	thiann3
+疾	75BE	A	tsit8	tsik8
+痀	75C0	A	ku1
+病	75C5	A	penn7	pinn7	ping7
+症	75C7	A	tsing3
+痔	75D4	A	ti7
+痕	75D5	A	hun5
+痘	75D8	A	too7	tau7
+痚	75DA	A	he1
+痛	75DB	A	thang3	thong3
+痞	75DE	A	phi2
+痟	75DF	A	siau2	siau1
+痠	75E0	A	sng1
+痡	75E1	A	poo5
+痢	75E2	A	li7
+痣	75E3	A	ki3
+痧	75E7	A	sua1
+痰	75F0	A	tham5
+痱	75F1	A	pui3
+痲	75F2	AB	mua5	*ma5	*ba5
+痴	75F4	A	tshi1
+痹	75F9	A	pi3
+痺	75FA	A	pi3
+痻	75FB	B	*in1	*un1	*hun1
+瘋	760B	AB	hong1	*huang1
+瘍	760D	A	iong5
+瘟	761F	A	un1
+瘡	7621	A	tshng1	tshong1
+瘤	7624	A	liu5
+瘦	7626	A	san2	soo2
+瘰	7630	AB	lui3	*li2	*bi2
+瘸	7638	AB	khue5	khe5	*khue1
+瘼	763C	AB	mooh8	*moo3	*moo7	*mooh4	*na3
+癀	7640	A	hong5
+療	7642	A	liau5
+癆	7646	A	lo5
+癉	7649	A	tan1
+癌	764C	A	gam5
+癖	7656	AB	phiah4	phiah8	*phia7
+癗	7657	A	lui5
+癜	765C	AB	tio7	*tio3
+癡	7661	A	tshi1
+癢	7662	AB	tsiunn7	iong2	*tsionn7
+癧	7667	B	*lat8
+癩	7669	A	thai2
+癬	766C	A	sian2
+癮	766E	A	gian3	in2
+癰	7670	A	ing1
+癲	7672	A	tian1
+癸	7678	AB	kui2	*kui3
+登	767B	A	ting1
+發	767C	A	huat4	puh4	huat8
+白	767D	AB	peh8	pik8	*pe7	*pueh8
+百	767E	A	pah4	peh4	pik4
+皂	7682	A	tso7
+的	7684	A	e5	e50	tik4	tik8
+皆	7686	A	kai1
+皇	7687	A	hong5
+皎	768E	B	*kiau2
+皓	7693	A	hoo7	ho7
+皙	7699	B	*sik4
+皮	76AE	A	phue5	phe5	phi5	pi5
+皺	76BA	A	jiau5	liau5
+盃	76C3	B	*pue1
+盆	76C6	A	phun5
+盈	76C8	A	ing5
+益	76CA	A	ik4	iah4
+盍	76CD	A	khah4
+盒	76D2	A	ap8	ah8
+盔	76D4	A	khue1
+盛	76DB	A	sing7	siann7
+盜	76DC	A	to7
+盞	76DE	A	tsuann2	tsan2
+盟	76DF	A	bing5
+盡	76E1	AB	tsin7	*tsin3
+監	76E3	AB	kam3	kann1	kam1	*ka1
+盤	76E4	A	puann5	phuan5	puan5
+盦	76E6	B	*am5
+盧	76E7	A	loo5
+盪	76EA	A	tng7	tong7
+目	76EE	AB	bak8	bok8	*bui1
+盯	76EF	B	*ting3
+盲	76F2	A	me5	bong5	moo5	mi5
+直	76F4	A	tit8
+相	76F8	AB	sio1	siong1	siong3	sann1	siunn3	siunn1	*siong7	*siang1	*sionn1	*siu1	*siang3	*sionn3
+盹	76F9	A	tuh4
+盼	76FC	A	phan3
+盾	76FE	A	tun2
+省	7701	A	sing2
+眉	7709	A	bai5	bi5
+看	770B	A	khuann3	khan3	khuan3
+真	771F	A	tsin1
+眠	7720	AB	bin5	bian5	*mng5	*mi5
+眨	7728	A	tshap8
+眩	7729	A	hin5
+眯	772F	A	bi5
+眵	7735	A	tshuh4
+眷	7737	A	kuan3
+眼	773C	AB	gan2	ging2	*king2	*ngai2
+眾	773E	A	tsiong3	tsing3
+着	7740	A	tioh8
+睏	774F	A	khun3
+睚	775A	A	kainn5
+睛	775B	A	tsing1
+睡	7761	AB	tsue7	sui7	*tse7
+督	7763	A	tok4
+睦	7766	A	bok8
+睨	7768	AB	gin5	*gun5
+睫	776B	AB	tsiah4	*tsiap8
+睭	776D	A	tsiu1
+睹	7779	A	too2
+睿	777F	B	*jue7
+瞅	7785	A	tshiu1
+瞌	778C	A	kheh4	ka1	khueh4
+瞞	779E	A	mua5
+瞪	77AA	A	tenn3	tinn3
+瞬	77AC	A	sun3
+瞭	77AD	A	liau5	lio2	liau2
+瞳	77B3	A	tong5
+瞻	77BB	A	tsiam1
+瞿	77BF	A	khu5
+矇	77C7	A	bong5
+矛	77DB	A	mau5	moo5
+矜	77DC	A	khim1	king1
+矢	77E2	A	si2
+矣	77E3	AB	ah40	*ah4
+知	77E5	A	tsai1	ti1
+矩	77E9	A	ki2	ku2
+短	77ED	A	te2	tuan2
+矮	77EE	A	e2	ue2
+矯	77EF	A	kiau2
+石	77F3	AB	tsioh8	sik8	siah8	sih8	*tsio7	*sia7
+矸	77F8	A	kan1
+砂	7802	A	sua1	se1
+砃	7803	B	*tan1
+砉	7809	A	huah4
+砌	780C	A	kih4
+砍	780D	A	kham2
+砒	7812	AB	phi1	*phinn5
+研	7814	AB	gian2	ging2	*ngai2	*ngui2	*gan2
+砛	781B	A	gim5
+砣	7823	B	*too5	*to5
+砧	7827	A	tiam1
+砰	7830	B	*phing1
+砲	7832	A	phau3
+破	7834	A	phua3	pho3
+硃	7843	A	tsu1
+硐	7850	A	tong7
+硓	7853	A	loo2
+硝	785D	A	siau1
+硞	785E	A	khok8	khok4
+硩	7869	A	teh4
+硫	786B	A	liu5
+硬	786C	A	nge7	ngi7	ging7
+硯	786F	A	hinn7
+硼	787C	AB	phing5	*ping5
+硿	787F	A	kng2
+碇	7887	AB	tiann7	ting7	*tiann3
+碉	7889	B	*tiau1
+碌	788C	A	lok8	lik8
+碎	788E	A	tshui3
+碑	7891	A	pi1
+碓	7893	A	tui3
+碖	7896	A	lun2
+碗	7897	AB	uann2	*uainn2
+碟	789F	A	tiap8	tih8
+碡	78A1	A	tak8
+碣	78A3	A	khat4	khiat4
+碧	78A7	A	phik4
+碩	78A9	A	sik8	sik4
+碭	78AD	A	thng7
+碰	78B0	A	pong7	phong3
+碳	78B3	A	thuann3
+確	78BA	A	khak4	khiak8
+碼	78BC	A	be2	ma2
+碾	78BE	A	lian2
+磁	78C1	A	tsu5
+磅	78C5	AB	pong7	*phong2
+磊	78CA	A	lui2
+磋	78CB	A	tsho1
+磐	78D0	A	puann5	phuan5
+磕	78D5	A	khap8
+磚	78DA	AB	tsng1	tsuan1	*tsuinn1
+磟	78DF	A	lak8
+磨	78E8	A	bua5	bo7	moo5
+磯	78EF	B	*ki1
+磺	78FA	AB	hong5	*ng5
+礁	7901	A	ta1	tann1	tsiau1
+礎	790E	A	tshoo2
+礐	7910	A	hak8
+礓	7913	B	*kiang1
+礙	7919	AB	gai7	*ngai7
+礤	7924	A	tshuah4
+礦	7926	A	khong3
+礪	792A	A	le3
+礫	792B	B	*lik8
+礬	792C	A	huan5
+礱	7931	A	lang5
+示	793A	A	si7
+社	793E	A	sia7
+祀	7940	A	tshai7	su7	sai7
+祈	7948	A	ki5
+祉	7949	A	tsi2
+祐	7950	A	iu7
+祕	7955	A	pi3
+祖	7956	A	tsoo2
+祚	795A	A	tsa3
+祛	795B	B	*kia7
+祝	795D	A	tsiok4
+神	795E	A	sin5
+祟	795F	A	sui1	sui7
+祠	7960	A	su5	si7
+祥	7965	A	siong5
+祧	7967	A	thiau7
+票	7968	A	phio3	phiau3
+祭	796D	A	tse3
+祹	7979	B	*to5
+祺	797A	A	ki5
+祿	797F	A	lok8
+禁	7981	A	kim3
+禍	798D	A	ho7	e7
+禎	798E	A	tsing1
+福	798F	A	hok4
+禦	79A6	A	gu7
+禧	79A7	A	hi1
+禪	79AA	AB	sian5	sian7	*siam5
+禮	79AE	A	le2
+禱	79B1	A	to2
+禹	79B9	A	u2
+禽	79BD	A	khim5
+禾	79BE	A	ho5
+禿	79BF	A	thuh4	thut4
+秀	79C0	A	siu3
+私	79C1	A	su1	sai1	si1
+秉	79C9	A	ping2
+秋	79CB	AB	tshiu1	*tshio1
+科	79D1	A	kho1
+秒	79D2	A	bio2	biau2
+秘	79D8	A	pi3
+租	79DF	A	tsoo1
+秤	79E4	A	tshin3	ping5
+秦	79E6	A	tsin5
+秧	79E7	A	ng1	iong1	iang1
+秩	79E9	A	tiat8
+秪	79EA	A	te1
+秫	79EB	A	tsut8
+秮	79EE	A	tai1
+移	79FB	A	i5
+稀	7A00	A	hi1
+稅	7A05	A	sue3	se3
+稈	7A08	AB	kuainn2	*kuinn2
+程	7A0B	A	ting5	thing5	thiann5
+稗	7A17	A	phue7	phe7
+稚	7A1A	A	ti7
+稜	7A1C	A	ling5	ling7
+稟	7A1F	A	pin2
+稠	7A20	AB	tiu5	*khit4
+種	7A2E	A	tsiong2	tsing2	tsing3	tsiong3
+稱	7A31	A	tshing1
+稷	7A37	A	tsik4
+稻	7A3B	A	tiu7	to7
+稼	7A3C	B	*ka3
+稽	7A3D	A	khe1
+稿	7A3F	A	ko2
+穀	7A40	A	kok4
+穆	7A46	A	bok8
+穌	7A4C	A	soo1
+積	7A4D	A	tsik4
+穎	7A4E	A	inn2
+穗	7A57	A	sui7	bue2
+穡	7A61	A	sit4	sik4
+穢	7A62	A	ue3	e3
+穩	7A69	A	un2
+穫	7A6B	A	hik8
+穴	7A74	A	hiat8
+究	7A76	A	kiu3
+穹	7A79	A	kiong1
+空	7A7A	A	khang1	khong1	khong3	khang3
+穿	7A7F	AB	tshing7	tshng1	tshuan1	*tshuinn1	*tshiong7
+突	7A81	AB	tut8	*thut8
+窄	7A84	A	tsik4
+窈	7A88	A	iau2
+窒	7A92	A	that4
+窕	7A95	A	thiau2
+窗	7A97	A	thang1	tshong1
+窘	7A98	A	khun2
+窞	7A9E	A	tham7
+窟	7A9F	A	khut4
+窣	7AA3	A	sut8
+窩	7AA9	A	o1
+窮	7AAE	AB	khing5	king5	kiong5	*khing1
+窯	7AAF	A	io5
+窵	7AB5	A	tiau3
+窸	7AB8	A	si7	si1	sih8
+窺	7ABA	A	khui1
+竄	7AC4	AB	tshuan3	*tshng3
+竅	7AC5	A	khiau3	khio3
+竇	7AC7	A	too7
+竊	7ACA	A	tshiap4	tshiat4
+立	7ACB	A	lip8
+站	7AD9	A	tsam7
+竟	7ADF	A	king3
+章	7AE0	AB	tsiong1	tsiunn1	*tsionn1
+童	7AE5	A	tang5	tong5
+竭	7AED	A	kiat8
+端	7AEF	A	tuan1	tuann1
+競	7AF6	AB	king7	*king3
+竹	7AF9	A	tik4	tiok4
+竺	7AFA	A	tiok4
+竿	7AFF	A	kan1	kuann1
+笆	7B06	A	pa1
+笈	7B08	A	kip8
+笊	7B0A	B	*tsua2
+笑	7B11	A	tshio3	siau3	tshiau3
+笒	7B12	A	giam2	gim2
+笙	7B19	A	sing1
+笛	7B1B	A	tat8	tik8
+笠	7B20	AB	leh8	lip8	lueh8	*le7
+符	7B26	A	hu5
+笨	7B28	A	pun7	pun3
+第	7B2C	A	te7
+笱	7B31	A	ko5
+筅	7B45	AB	tshing2	*tshainn2	*tshan2
+筆	7B46	A	pit4
+等	7B49	A	tan2	ting2
+筊	7B4A	A	kiau2
+筋	7B4B	A	kin1	kun1
+筍	7B4D	A	sun2
+筐	7B50	A	khing1	khong1
+筒	7B52	A	tang5	tong5
+答	7B54	A	tap4	tah4
+策	7B56	A	tshik4
+筠	7B60	A	un5
+筧	7B67	A	khio3	king2	kian2
+筩	7B69	B	*thang7
+筵	7B75	A	ian5
+箅	7B85	A	pin2
+箋	7B8B	A	tsian1
+箍	7B8D	A	khoo1
+箏	7B8F	A	tsing1
+箔	7B94	A	poh8
+箕	7B95	A	ki1
+算	7B97	AB	sng3	suan3	*suinn3
+箠	7BA0	A	tshue5	tshe5	sui5
+管	7BA1	AB	kuan2	kong2	kng2	*kuinn2
+箬	7BAC	A	hah8
+箭	7BAD	A	tsinn3	tsian3
+箱	7BB1	AB	siunn1	siong1	*sionn1
+箴	7BB4	A	tsim1
+箸	7BB8	A	ti7	tu7
+節	7BC0	A	tseh4	tsat4	tsiat4	tsueh4
+範	7BC4	A	pan7	huan7
+篇	7BC7	A	phinn1	phian1
+築	7BC9	A	tiok8
+篋	7BCB	A	kheh4
+篙	7BD9	A	ko1
+篠	7BE0	A	siau2	siau7
+篡	7BE1	A	tshuan3
+篤	7BE4	A	tau2	tok4	tauh4
+篦	7BE6	A	pin3
+篩	7BE9	A	thai1
+篱	7BF1	AB	le7	lue7	*li5
+篷	7BF7	AB	phang5	pong5	hong5	*phong5
+篾	7BFE	AB	bih8	biat8	*bi7
+簇	7C07	A	tshok4
+簡	7C21	A	kan2
+簪	7C2A	A	tsiam1
+簫	7C2B	A	siau1
+簷	7C37	A	tsinn5	liam5
+簸	7C38	AB	pua3	*puann3
+簽	7C3D	A	tshiam1
+簾	7C3E	A	li5	ni5	liam5
+簿	7C3F	A	phoo7	phok8
+籃	7C43	A	na5	lam5
+籌	7C4C	A	tiu5
+籍	7C4D	A	tsik8
+籐	7C50	A	tin5
+籗	7C57	A	khah4
+籠	7C60	A	lang2	lam1	long5	lang5	lang7	lang1	long2
+籤	7C64	A	tshiam1
+籬	7C6C	A	li5
+籮	7C6E	A	lua5	lo5
+籲	7C72	A	iok8
+米	7C73	A	bi2
+粅	7C85	A	but4
+粉	7C89	A	hun2
+粒	7C92	A	liap8
+粕	7C95	A	phoh4	phok4
+粗	7C97	AB	tshoo1	*thoo1	*tshio1
+粘	7C98	B	*liam5
+粞	7C9E	A	tshe3	tshue3
+粟	7C9F	A	tshik4	siok4
+粧	7CA7	A	tsng1	tsong1
+粩	7CA9	A	lau2
+粱	7CB1	AB	liang5	*liong5
+粹	7CB9	A	tshui3
+粽	7CBD	A	tsang3
+精	7CBE	A	tsing1	tsiann1	tsinn1
+粿	7CBF	AB	kue2	ke2	*kue1
+糊	7CCA	A	koo5	hoo5
+糋	7CCB	A	tsinn3
+糍	7CCD	A	tsi5
+糕	7CD5	A	ko1
+糖	7CD6	A	thng5
+糙	7CD9	A	tsho3
+糜	7CDC	AB	mue5	be5	mi1	*muai5	*mai1
+糝	7CDD	A	sam2
+糞	7CDE	A	pun3	hun3
+糟	7CDF	A	tsau1
+糠	7CE0	A	khng1	khong1
+糧	7CE7	AB	niu5	*nioo5
+糰	7CF0	B	*thuan5
+糴	7CF4	AB	tiah8	tik8	*tia7	*tiak8
+糶	7CF6	A	thio3	thiau3
+系	7CFB	A	he7
+糾	7CFE	A	kiu3
+紀	7D00	A	ki3	ki2	khi2
+紂	7D02	A	tiu7
+約	7D04	A	iok4
+紅	7D05	AB	ang5	hong5	*a5
+紋	7D0B	A	bun5
+納	7D0D	A	lap8
+紐	7D10	A	liu2
+純	7D14	A	sun5
+紗	7D17	AB	se1	sa1	*sua1
+紙	7D19	A	tsua2
+級	7D1A	A	kip4
+紛	7D1B	A	hun1
+素	7D20	A	soo3
+紡	7D21	A	phang2	hong2
+索	7D22	A	soh4	sik4
+紩	7D29	A	thinn7
+紫	7D2B	A	tsi2
+紬	7D2C	A	thiu1
+紮	7D2E	A	tsah4	tsat4	tsap4
+累	7D2F	A	lui7	lui2
+細	7D30	A	se3	sue3
+紲	7D32	A	sua3
+紳	7D33	A	sin1
+紹	7D39	A	siau7
+紺	7D3A	A	khong2
+紽	7D3D	B	*to5
+終	7D42	A	tsiong1
+絃	7D43	A	hian5
+組	7D44	A	tsoo1
+絆	7D46	A	puann3	puan3
+結	7D50	A	kiat4	kat4
+絕	7D55	A	tsuat8	tseh8
+絚	7D5A	A	an5
+絞	7D5E	A	ka2	kau2
+絡	7D61	A	le1	lok8	loh8
+絢	7D62	A	hian3	sun5
+給	7D66	A	kip4
+絨	7D68	A	jiong5	liong5
+絪	7D6A	A	in1
+絮	7D6E	A	su3
+統	7D71	A	thong2
+絲	7D72	A	si1
+絳	7D73	A	kong3
+絹	7D79	A	kin3
+綁	7D81	A	pang2
+經	7D93	A	king1	kenn1	kinn1
+綜	7D9C	A	tsong1	tsong3
+綠	7DA0	A	lik8	liok8
+綢	7DA2	A	tiu5
+維	7DAD	A	ui5	i5
+綰	7DB0	A	kuann7
+綱	7DB1	A	kong1
+網	7DB2	A	bang7	bong2
+綴	7DB4	AB	tue3	te3	tuat4	*tsue3
+綵	7DB5	A	tshai2
+綸	7DB8	A	kuan1	lun5
+綹	7DB9	A	liu2
+綺	7DBA	A	khi2
+綽	7DBD	A	tshiok4
+綾	7DBE	A	ling5
+綿	7DBF	A	mi5	bian5
+緊	7DCA	A	kin2
+緒	7DD2	AB	su7	*su5
+線	7DDA	AB	suann3	*sian3
+緝	7DDD	A	tsip8	tship4
+緞	7DDE	A	tuan7
+緟	7DDF	A	thong7
+締	7DE0	A	te3
+緣	7DE3	A	ian5
+編	7DE8	A	pian1	pinn1
+緩	7DE9	A	uan7
+緬	7DEC	B	*bian2
+緯	7DEF	AB	ui7	*hui7
+練	7DF4	A	lian7
+緻	7DFB	A	ti3	ti7
+縋	7E0B	A	lui7
+縐	7E10	A	tso3
+縒	7E12	A	tsuah8
+縖	7E16	A	ha5
+縛	7E1B	A	pak8
+縣	7E23	AB	kuan7	*kuinn7	*kuainn7
+縫	7E2B	A	phang7	pang5	hong5
+縭	7E2D	A	li1	li5
+縮	7E2E	A	sok4	siok4
+縱	7E31	A	tshiong2	tshiong3	tshiong1
+總	7E3D	A	tsong2	tsang2
+績	7E3E	A	tsik4	tseh4
+繁	7E41	A	huan5
+繃	7E43	A	penn1	pinn1
+繆	7E46	A	biu7
+繏	7E4F	A	sng3
+繐	7E50	A	sui1
+織	7E54	A	tsit4
+繚	7E5A	A	liau7
+繞	7E5E	A	jiau3	liau3
+繡	7E61	A	siu3
+繩	7E69	A	tsin5	sing5
+繪	7E6A	A	hue7
+繫	7E6B	A	he7
+繭	7E6D	AB	kian2	king2	*kan2
+繳	7E73	A	kiau2
+繼	7E7C	A	ke3
+續	7E8C	A	siok8
+纏	7E8F	A	tinn5	tian5
+纓	7E93	A	inn1	iann1	ing1	enn1
+纖	7E96	AB	siam1	*tshiam1
+纜	7E9C	A	lam2	lam7
+缸	7F38	A	kng1	kong1
+缺	7F3A	A	khih4	khueh4	khuat4	kheh4
+缽	7F3D	A	puah4	puat4
+缾	7F3E	B	*phiann1
+罅	7F45	B	*ha3
+罈	7F48	A	tham5
+罐	7F50	A	kuan3
+罔	7F54	A	bong2
+罕	7F55	A	han2
+罟	7F5F	A	koo1
+罨	7F68	AB	am1	*lam1
+罩	7F69	A	ta3	tau3
+罪	7F6A	A	tsue7	tse7
+置	7F6E	A	ti3
+罰	7F70	A	huat8
+署	7F72	A	su2	su7
+罵	7F75	AB	me7	ma7	ma2	ma5	*mi7
+罷	7F77	A	pa7
+罾	7F7E	A	tsan1
+羅	7F85	A	lo5	lo2
+羊	7F8A	AB	iunn5	iong5	*ionn5
+羌	7F8C	AB	kiunn1	kiong1	*kionn1
+美	7F8E	A	bi2	bue2	be2	bi1
+羓	7F93	A	pa1
+羔	7F94	A	ko1
+羞	7F9E	A	tshiu1	siu1
+群	7FA4	A	kun5
+羨	7FA8	A	sian7
+義	7FA9	A	gi7
+羯	7FAF	A	kiat4
+羲	7FB2	B	*hi1
+羶	7FB6	A	hian3
+羹	7FB9	A	kenn1	kinn1	king1
+羽	7FBD	A	u2
+翁	7FC1	AB	ang1	ong1	*iang1
+翅	7FC5	A	tshi3
+翎	7FCE	A	ling7
+習	7FD2	A	sip8
+翔	7FD4	A	siong5
+翕	7FD5	A	hip4
+翟	7FDF	A	tik8
+翠	7FE0	A	tshui3
+翡	7FE1	A	hui2
+翦	7FE6	B	*tsian2
+翩	7FE9	A	phian1
+翰	7FF0	A	han7
+翱	7FF1	A	ko7
+翳	7FF3	A	i3	e3
+翸	7FF8	A	phun2
+翹	7FF9	A	khiau3
+翻	7FFB	A	huan1
+翼	7FFC	A	sit8	ik8
+耀	8000	A	iau7
+老	8001	A	lau7	lau2	lo2	noo2	loo7
+考	8003	AB	kho2	*khonn2
+者	8005	A	tsia2
+耆	8006	A	ki5
+而	800C	A	ji5	li5
+耍	800D	A	sng2
+耎	800E	AB	luan2	*juan2
+耐	8010	A	nai7
+耕	8015	A	king1
+耗	8017	B	*honn3
+耘	8018	A	un5
+耙	8019	A	pe5	pe7
+耞	801E	A	kinn2	kenn2
+耳	8033	AB	hinn7	hi7	ni2	*ji2	*mi2	*jinn2
+耶	8036	A	ia5
+耽	803D	AB	tann5	*tam1
+耿	803F	A	king2
+聆	8046	A	ling5
+聊	804A	A	liau5
+聖	8056	A	sing3	siann3
+聘	8058	A	phing3
+聚	805A	A	tsu7
+聞	805E	A	bun5
+聬	806C	AB	ang2	*ang3
+聯	806F	A	lian5
+聰	8070	A	tshong1
+聲	8072	A	siann1	sing1
+聳	8073	A	tshang3	sang2
+聶	8076	A	liap8
+職	8077	A	tsit4
+聽	807D	A	thiann1	thing3	thing1
+聾	807E	A	lang5	long5
+聿	807F	A	ut8
+肅	8085	A	siok4
+肆	8086	A	su3
+肇	8087	A	tiau7
+肉	8089	A	bah4	jiok8	liok8	hik8
+肋	808B	A	lik8
+肌	808C	A	ki1
+肓	8093	AB	bong5	*hong5	*hong1
+肖	8096	A	siau3
+肘	8098	A	tiu2
+肚	809A	A	too2	too7
+肛	809B	A	kong1
+肝	809D	A	kuann1	kan1
+股	80A1	A	koo2
+肢	80A2	A	ki1
+肥	80A5	A	pui5	hui5
+肨	80A8	A	hang3
+肩	80A9	A	king1	kian1
+肭	80AD	A	leh4
+肯	80AF	A	khing2
+肱	80B1	A	kong1
+育	80B2	A	io1	iok8
+肴	80B4	A	ngau5
+肺	80BA	A	hi3
+胃	80C3	A	ui7
+背	80CC	A	pue7	pue3
+胎	80CE	A	thai1	the1
+胖	80D6	A	phang3
+胘	80D8	A	kian7
+胚	80DA	A	phue1	phe1
+胛	80DB	A	kah4
+胞	80DE	A	pau1
+胡	80E1	A	hoo5	oo5
+胭	80ED	A	ian1
+胮	80EE	A	hang3
+胰	80F0	AB	i5	*i1
+胱	80F1	A	kong1
+胳	80F3	AB	koh4	*kueh4	*kuih4
+胴	80F4	AB	tang5	*lang1	*tang1
+胸	80F8	A	hing1	hiong1
+能	80FD	A	ling5
+胿	80FF	AB	kui1	kuai1	*kuainn1
+脂	8102	A	tsi1
+脅	8105	A	hiap8
+脆	8106	AB	tshe3	tshui3	*tshue3
+脇	8107	B	*hiap8
+脈	8108	AB	meh8	bik8	*beh8	*me7	*meh4	*be7
+脊	810A	A	tsiah4	tsit4	tsik4
+脣	8123	A	tun5
+脫	812B	A	thuat4	thut8	thut4	thuah4
+脬	812C	A	pha1
+脯	812F	AB	poo2	*poo5
+脰	8130	A	tau7
+脹	8139	AB	tiunn3	tiong3	*tionn3
+脽	813D	A	tsui1
+脾	813E	A	pi5	phi5
+腋	814B	A	ik8
+腌	814C	AB	a1	*am1
+腎	814E	A	sian7	sin7
+腐	8150	A	hu7	hu2
+腑	8151	A	hu2
+腔	8154	AB	khiunn1	tshiunn1	khiong1	khiang1	*khionn1	*tshionn1
+腕	8155	A	uann2	uan2
+腡	8161	A	le5
+腥	8165	AB	tshenn1	tshenn3	tshinn1	tshinn3	*tshe1
+腦	8166	A	nau2	lo2	noo2
+腩	8169	A	lam2
+腫	816B	A	tsing2
+腮	816E	A	tshi1
+腯	816F	B	*thun2
+腰	8170	A	io1	iau1
+腱	8171	A	kian3	kian7
+腳	8173	A	kioh4	kha1	kiok4
+腴	8174	B	*ju5
+腸	8178	AB	tng5	tshiang5	tiong5	tshian5	*liong5
+腹	8179	AB	pak4	hok4	*bak4	*bat4	*pat4	*phat4
+腿	817F	A	thui2
+膀	8180	AB	phong5	*pong5
+膁	8181	A	liam2
+膈	8188	A	keh4
+膋	818B	A	la5
+膎	818E	A	ke5	kue5
+膏	818F	AB	ko1	ko5	koo1	*ko7
+膚	819A	A	hu1
+膜	819C	A	mooh8
+膝	819D	A	sit4	tshik4
+膠	81A0	A	ka1
+膣	81A3	A	tsi1
+膨	81A8	A	phong3
+膩	81A9	A	ji7	li7
+膭	81AD	A	kui7
+膳	81B3	B	*sian7
+膽	81BD	A	tann2	tam2
+膿	81BF	A	lang5	long5
+臁	81C1	A	liam5
+臂	81C2	B	*pi3
+臆	81C6	AB	ioh4	ik4	*ip4
+臉	81C9	A	lian2	liam2
+臊	81CA	A	tsho1	tshau1
+臍	81CD	A	tsai5	tse5
+臏	81CF	B	*pin7
+臘	81D8	A	lah8	liap8
+臟	81DF	A	tsong7	tsng7
+臢	81E2	AB	tsa1	*tsam1
+臣	81E3	A	sin5
+臥	81E5	A	ngoo7
+臧	81E7	A	tsong1
+臨	81E8	AB	lim5	lim2	*liam5
+自	81EA	A	tsu7
+臭	81ED	A	tshau3
+至	81F3	A	tsi3
+致	81F4	A	ti3
+臺	81FA	A	tai5
+臼	81FC	A	khu7
+舀	8200	AB	iunn2	*ionn2	*io2
+舂	8202	A	tsing1
+舅	8205	A	ku7	kiu7
+與	8207	AB	u2	i2	*u7
+興	8208	A	hing1	hing3	hin1
+舉	8209	A	ki2	ku2
+舊	820A	A	ku7	kiu7
+舌	820C	AB	tsih8	siat8	*tsi7
+舍	820D	A	sia3
+舐	8210	AB	tsinn7	tsng7	*tsi7
+舒	8212	AB	tshu1	su1	soo1	*tshi1
+舖	8216	A	phoo3
+舜	821C	A	sun3
+舞	821E	A	bu2
+舟	821F	A	tsiu1
+舢	8222	A	sam1
+舨	8228	A	pan2
+航	822A	A	hang5
+般	822C	AB	puann1	pan1	*puan1
+舵	8235	A	tai7	tua7	to7
+舷	8237	A	hian5
+船	8239	A	tsun5
+舺	823A	A	kah4
+艇	8247	A	thing2
+艋	824B	A	bang2
+艙	8259	A	tshng1	tshong1
+艚	825A	A	tso5
+艦	8266	A	lam7	kam3
+良	826F	A	liong5
+艱	8271	A	kan1
+色	8272	A	sik4
+艷	8277	A	iam7
+艾	827E	A	ngai7	hiann7
+芋	828B	A	oo7	u7
+芍	828D	A	tsiok4
+芎	828E	A	kiong1
+芒	8292	AB	bong5	bang5	*bang1
+芙	8299	A	phu5	hu5
+芝	829D	A	tsi1
+芟	829F	AB	sing1	san1	*sng1
+芡	82A1	A	khian3	khiam3
+芥	82A5	A	kua3	kai3	ke3
+芫	82AB	AB	ian5	*ian1	*uan1	*uan5
+芬	82AC	A	hun1
+芭	82AD	A	pa1
+花	82B1	A	hue1	hua1
+芳	82B3	A	phang1	hong1
+芷	82B7	A	tsi2
+芸	82B8	B	*un5
+芹	82B9	A	khin5	khun5
+芽	82BD	AB	ge5	ga5	*be5	*le5
+苑	82D1	A	uan2
+苒	82D2	A	liam5	jiam5
+苓	82D3	A	ling5
+苔	82D4	AB	thi5	thai1	*ti5
+苗	82D7	A	biau5	miau5
+苛	82DB	A	kho5	kho1
+苞	82DE	A	poo5	pau1
+苟	82DF	A	koo2
+若	82E5	AB	na7	na2	liok8	jiok8	*a7	*lo7
+苦	82E6	A	khoo2	ku1
+苧	82E7	A	tue7	te7	thu2
+英	82F1	A	ing1
+苳	82F3	A	tang1
+苴	82F4	A	tsu7
+苻	82FB	A	hu5
+茂	8302	AB	boo7	om7	*am7
+范	8303	A	huan7
+茄	8304	A	ka1	kio5
+茅	8305	AB	hm5	mau5	*m5
+茈	8308	A	tsinn2
+茉	8309	A	buah8	bak8
+茫	832B	A	bong5	bang5
+茭	832D	A	ka1	kha1
+茯	832F	A	hok8
+茱	8331	A	tsu1
+茲	8332	B	*tsu1
+茵	8335	A	in1
+茶	8336	AB	te5	te1	*tsha5
+茸	8338	A	liong5	jiong5
+荀	8340	A	sun5
+荇	8347	A	hing7
+草	8349	A	tshau2	tsho2
+荊	834A	A	king1
+荍	834D	A	sio5
+荏	834F	A	lam2
+荐	8350	A	tsian3
+荒	8352	AB	hng1	hong1	*huinn1
+荔	8354	AB	nai7	*le7	*lai7
+荖	8356	A	lau2	lo2	lau7
+荳	8373	A	too7
+荷	8377	AB	ho5	hue5	ha5	*hoo1	*hu5	*hun5	*hoo5
+荽	837D	AB	sui1	*suinn1
+莆	8386	B	*poo5	*hu2
+莉	8389	AB	ni7	*li7
+莊	838A	A	tsng1	tsong1
+莎	838E	A	so1	sa1
+莒	8392	A	ki2
+莓	8393	A	m5	mui5
+莖	8396	AB	huainn5	king1	*huinn5
+莢	83A2	AB	ngeh4	*kueh4	*ngueh4	*gueh4
+莧	83A7	AB	hing7	*hang7
+莫	83AB	A	mai3	bok8	boh8
+莽	83BD	A	bong2
+莿	83BF	A	tshi3
+菁	83C1	A	tshenn1	tshinn1	tsing1
+菅	83C5	AB	kuann1	*kan1
+菇	83C7	A	koo1
+菊	83CA	A	kiok4	kak4
+菌	83CC	A	khun2
+菖	83D6	AB	tshiong1	*tshiang1
+菜	83DC	A	tshai3
+菝	83DD	AB	puat8	pat8	*put8
+菠	83E0	A	pe1	pue1	po1
+菡	83E1	B	*ham5
+菩	83E9	A	phoo5
+華	83EF	A	hua5	hua1	hua3	kah4
+菱	83F1	A	ling5
+菲	83F2	A	hui2	hui1
+菽	83FD	B	*siok4
+萄	8404	A	to5
+萊	840A	A	lai5
+萍	840D	A	phing5
+萎	840E	A	ui1	ui2
+萣	8423	A	tiann7
+萬	842C	A	ban7	bang2
+萱	8431	B	*suan1
+萵	8435	AB	e1	ue1	*meh4	*o1
+萼	843C	B	*gok8
+落	843D	AB	loh8	lau3	lak4	lok8	lauh8	loh4	loh80	*loo7	*lau7	*lo7
+葆	8446	B	*po2
+葉	8449	A	hioh8	iap8
+著	8457	AB	tioh8	toh8	tu3	tioh80	tiok8	*tio7	*to7
+葛	845B	A	kat4	kuah4
+葡	8461	AB	phu5	*pho5	*po5	*pu5	*phue5
+董	8463	A	tang2	tong2
+葩	8469	A	pha1
+葫	846B	A	hoo5	oo5
+葬	846C	A	tsong3
+葵	8475	AB	khue5	kui5	*khue1
+蒂	8482	A	ti3
+蒔	8494	B	*si5
+蒙	8499	A	bong5
+蒜	849C	A	suan3
+蒲	84B2	A	poo5
+蒸	84B8	A	tsing1
+蒼	84BC	A	tshong1
+蒿	84BF	A	o1
+蓁	84C1	A	tsin1
+蓄	84C4	A	hak4	thiok4
+蓆	84C6	AB	tshioh8	*tshio7
+蓉	84C9	A	iong5
+蓋	84CB	A	kai3	kua3	kah4	kap4
+蓑	84D1	A	sui1
+蓪	84EA	A	thong1
+蓬	84EC	A	phong7	pong7	hong5
+蓮	84EE	AB	lian5	lian1	lian2	*lan5	*liam2	*nai5
+蔀	8500	B	*poo7
+蔑	8511	A	biat8
+蔓	8513	A	mua7	ban7
+蔔	8514	B	*pok8
+蔗	8517	A	tsia3
+蔚	851A	A	ui3
+蔡	8521	A	tshua3
+蔣	8523	AB	tsiunn2	*tsionn2
+蔥	8525	A	tshang1
+蔫	852B	A	lian1
+蔬	852C	A	se1	soo1
+蔭	852D	A	im3	ng2
+蔽	853D	A	pe3
+蕃	8543	A	han1	huan1
+蕉	8549	A	tsio1	tsiau1
+蕊	854A	A	lui2
+蕎	854E	AB	gio7	*kio7	*kioh4	*jio7
+蕗	8557	AB	loo7	*la7	*noo7
+蕘	8558	A	gio5
+蕙	8559	B	*hui7
+蕨	8568	AB	kueh4	*keh4	*kue3	*ke3
+蕩	8569	A	tong7	tng7
+蕪	856A	B	*bu5
+蕭	856D	A	siau1	sio1
+蕳	8573	B	*kan1
+蕹	8579	A	ing3
+蕾	857E	A	le5	lui2
+薁	8581	A	o3
+薄	8584	AB	poh8	pok8	*po7
+薅	8585	A	khau1
+薇	8587	A	bi5
+薈	8588	A	hue7
+薏	858F	A	i3
+薐	8590	A	ling5
+薑	8591	AB	kiunn1	*kionn1
+薔	8594	A	tshiunn5
+薛	859B	A	sih4
+薟	859F	AB	hiam1	*hiang1
+薦	85A6	A	tsi3	tsian3
+薩	85A9	A	sat4
+薪	85AA	A	sin1
+薯	85AF	A	tsi5	tsu5
+薰	85B0	A	hun1
+薸	85B8	A	phio5
+薺	85BA	A	tsi5
+藃	85C3	AB	hiauh4	*hiau1
+藉	85C9	A	tsik4	tsioh4	tsiah4
+藍	85CD	A	na5	lam5
+藏	85CF	A	tshang3	tsong5	tsong7
+藐	85D0	A	biau2
+藕	85D5	AB	ngau7	*ngoo2
+藝	85DD	A	ge7
+藤	85E4	A	tin5	ting5
+藥	85E5	AB	ioh8	iok8	*io7
+藩	85E9	A	phuan1	huan1
+藹	85F9	A	ai2
+藺	85FA	A	lin7
+蘆	8606	A	loo5
+蘇	8607	A	soo1
+蘊	860A	A	un3
+蘋	860B	AB	phong5	phong7	*phing5
+蘑	8611	A	moo5
+蘭	862D	AB	lan5	lian5	lan2	*lian1
+蘿	863F	B	*lok8	*lo5
+虎	864E	A	hoo2	hu1
+虐	8650	A	gioh8	gik8	giok8
+虔	8654	A	khian5
+處	8655	A	tshu2	tshu3
+虛	865B	A	hi1	hu1
+虜	865C	A	loo2
+虞	865E	A	gu5
+號	865F	A	ho7	lo7
+虧	8667	A	khui1
+虫	866B	B	*hui2
+虯	866F	A	khiu5
+虱	8671	A	sat4
+虹	8679	AB	khing7	*hong5
+虼	867C	A	ka1
+蚊	868A	A	bang2	bun5
+蚋	868B	A	la7	lak8
+蚌	868C	AB	pang7	*bang7
+蚓	8693	AB	kun2	*un2	*kin2	*lun2
+蚣	86A3	A	kang1
+蚤	86A4	A	tsau2
+蚵	86B5	A	o5
+蚶	86B6	A	ham1
+蚻	86BB	AB	tsuah8	*tsua7
+蛀	86C0	A	tsiu3	tsu3
+蛄	86C4	A	koo1
+蛆	86C6	A	tshi1	tshu1
+蛇	86C7	A	tsua5	sia5
+蛉	86C9	B	*nih4
+蛋	86CB	AB	tan3	tuann1	*lua1	*nua1
+蛙	86D9	AB	ua1	*kue5
+蛚	86DA	B	*le1	*le7
+蛛	86DB	A	tu1
+蛟	86DF	A	kau1
+蛣	86E3	B	*kiat4
+蛤	86E4	A	kap4
+蛹	86F9	B	*iong2
+蛻	86FB	A	thui3
+蛾	86FE	A	iah8
+蜀	8700	A	siok8
+蜂	8702	A	phang1	hong1
+蜃	8703	B	*sin7
+蜅	8705	AB	poo1	*koo1
+蜈	8708	AB	gia5	ngoo5	goo5	*moo5
+蜊	870A	AB	la5	*lai5
+蜍	870D	AB	tsi5	*tsu5
+蜘	8718	A	ti1
+蜜	871C	A	bit8
+蜞	871E	A	khi5
+蜢	8722	AB	meh4	*nih4	*neh4	*ni1
+蜣	8723	B	*kiunn1
+蜷	8737	A	khun5
+蝒	8752	AB	bin7	*gun7	*bun7
+蝕	8755	AB	sih8	sit4	sik8	*si7	*sit8
+蝙	8759	B	*pian2
+蝛	875B	AB	bui1	*ui1
+蝝	875D	A	ian5
+蝟	875F	B	*ui7
+蝠	8760	B	*hok4
+蝦	8766	A	he5
+蝨	8768	A	sat4
+蝴	8774	A	oo5	hoo5
+蝶	8776	AB	iah8	tiap8	*ia7
+蝹	8779	A	un1
+蝻	877B	A	lam5
+螂	8782	B	*lang5	*bong5
+融	878D	A	iong5	hiong5
+螕	8795	A	pi1
+螟	879F	A	bing5
+螢	87A2	A	ing5	hing5
+螳	87B3	B	*tong5
+螺	87BA	A	le5	loo5
+螿	87BF	AB	tsiunn1	*tsionn1	*tsiong1
+蟀	87C0	AB	sut4	*sui3
+蟄	87C4	A	tit8
+蟊	87CA	B	*moo1
+蟋	87CB	AB	sih4	sik4	*tik4
+蟒	87D2	A	bong2	bang2
+蟧	87E7	A	la5
+蟬	87EC	A	sian5
+蟮	87EE	AB	sian7	*sin7	*sin5	*sin1
+蟯	87EF	A	ngiauh8	gio5	liau5	jiau5
+蟲	87F2	AB	thang5	thiong5	*ang5	*tang5	*lang5
+蟳	87F3	A	tsim5
+蟶	87F6	A	than1
+蟹	87F9	AB	he7	hai7	*hue7	*heh4
+蟻	87FB	A	hia7	gi2
+蟾	87FE	A	siam5
+蠅	8805	A	sin5
+蠍	880D	A	giat4
+蠐	8810	AB	tse5	*tshe5
+蠓	8813	A	bang2
+蠕	8815	A	lu5	lun3	ju5
+蠘	8818	A	tshih8
+蠟	881F	A	lah8	lap8
+蠢	8822	B	*tshun2
+蠳	8833	B	*ni1
+蠶	8836	A	tsham5	tham5	tshan5
+蠻	883B	A	ban5
+蠽	883D	B	*tsuah8	*tsua7
+血	8840	A	hueh4	huih4	hiat4
+行	884C	AB	kiann5	hing5	hang5	hing7	ling5	*nng7
+衍	884D	A	ian2
+術	8853	A	sut8
+街	8857	A	ke1	kue1
+衙	8859	A	ge5
+衛	885B	AB	ue7	ue2	*ui7
+衝	885D	A	tshiong1	tshong2	tshing3
+衡	8861	A	hing5
+衣	8863	A	i1	ui1
+表	8868	A	piau2	pio2
+衫	886B	A	sann1
+衰	8870	AB	sue1	*sui1
+衲	8872	A	lap8
+衷	8877	A	thiong1
+袁	8881	A	uan5
+袂	8882	A	be7	bue7
+袈	8888	A	ka1
+袋	888B	A	te7	tai7
+袍	888D	A	phau5
+袖	8896	A	siu3
+袚	889A	A	phuah8
+被	88AB	A	phue7	phe7	pi7
+袱	88B1	A	hok8
+裁	88C1	A	tshai5
+裂	88C2	A	lih8	liat8	liah4
+裊	88CA	B	*niau2
+裌	88CC	A	kiap4
+裏	88CF	A	li2
+裒	88D2	A	poo5
+裔	88D4	A	e3	i3
+裕	88D5	A	ju7	lu7
+裘	88D8	A	hiu5
+裙	88D9	A	kun5
+補	88DC	A	poo2
+裝	88DD	A	tsong1	tsng1
+裟	88DF	A	se1
+裡	88E1	A	li2	li20	nih40
+裱	88F1	A	piau2
+裴	88F4	A	pue5
+裹	88F9	A	ko2
+裼	88FC	AB	theh4	*thueh4
+製	88FD	A	tse3
+裾	88FE	A	ki1	ku1
+褂	8902	A	kua3
+複	8907	A	hok8
+褒	8912	A	po1
+褙	8919	A	pue3	pe3
+褚	891A	A	thu2
+褥	8925	A	liok8	jiok8
+褪	892A	AB	thng3	*thuinn3
+褫	892B	A	thi2
+褲	8932	A	khoo3
+襀	8940	A	tsioh4
+襄	8944	A	siong1
+襇	8947	AB	king2	*kan2
+襞	895E	A	phe2
+襟	895F	A	khim1
+襤	8964	A	lam5
+襪	896A	AB	bueh8	buat8	*beh8	*bue7
+襲	8972	A	sip8
+襻	897B	A	phan3
+西	897F	AB	se1	sai1	si1	*sie1
+要	8981	AB	iau3	iau1	*a2
+覆	8986	A	phak4	hok4
+見	898B	A	kian3	kinn3	kinn30
+規	898F	A	kui1
+覓	8993	AB	mai7	ba7	bik8	*bua5	*bua7
+覕	8995	A	bih4
+視	8996	A	si7
+親	89AA	AB	tshin1	tshinn1	tshenn1	*tshan1	*tshing1
+覲	89B2	B	*kin7
+覷	89B7	B	*tshuh4
+覺	89BA	A	kak4
+覽	89BD	A	lam2
+觀	89C0	A	kuan1	kuan3
+角	89D2	A	kak4
+觔	89D4	B	*kun1
+解	89E3	A	kai2	ke2
+觱	89F1	A	pi1
+觳	89F3	AB	khok4	*khok8	*khoo2	*phok4
+觸	89F8	AB	tak4	tshiok4	tshik4	*tak8	*siok8	*tau2
+言	8A00	AB	gian5	*gan5
+訂	8A02	A	ting7
+訃	8A03	A	hu3
+計	8A08	AB	ke3	ki3	*khe3	*khi3
+訊	8A0A	A	sin3
+討	8A0E	A	tho2
+訓	8A13	A	hun3
+訕	8A15	AB	suan7	*suan1
+託	8A17	A	thok4
+記	8A18	A	ki3
+訟	8A1F	A	siong7
+訣	8A23	A	kuat4
+訪	8A2A	A	hong2
+設	8A2D	A	siat4
+許	8A31	A	khoo2	hi2	hu2
+訴	8A34	A	soo3
+訶	8A36	B	*honn1
+診	8A3A	A	tsin2
+註	8A3B	A	tsu3
+詈	8A48	A	le2	lue2
+詐	8A50	A	tsa3
+詔	8A54	A	tsiau3
+評	8A55	A	phing5
+詞	8A5E	A	su5
+詢	8A62	A	sun5
+詣	8A63	A	ge7
+試	8A66	A	tshi3
+詩	8A69	A	si1
+詬	8A6C	A	kau7
+詭	8A6D	A	kui2	khui2
+詮	8A6E	A	tshuan1
+詰	8A70	A	khiat4
+話	8A71	A	ue7
+該	8A72	A	kai1
+詳	8A73	AB	siong5	*siang5
+詹	8A79	A	tsiam1
+詼	8A7C	A	khue1	khe1
+誅	8A85	B	*tu1
+誇	8A87	A	khua1
+誌	8A8C	A	tsi3
+認	8A8D	A	jin7	lin7
+誓	8A93	A	tsua7	se3	se7
+誕	8A95	A	tan3	tan7
+誘	8A98	A	iu2
+語	8A9E	A	gi2	gu2
+誠	8AA0	A	tsiann5	sing5
+誡	8AA1	A	kai3
+誣	8AA3	A	bu5
+誤	8AA4	AB	goo7	*ngoo7
+誦	8AA6	A	siong7
+誨	8AA8	B	*hue3
+說	8AAA	A	sueh4	suat4	seh4	sue3
+誰	8AB0	AB	tsui5	sui5	*tiang5	*tsia5	*tsui7	*siang5
+課	8AB2	AB	khue3	kho3	*khe3
+誹	8AB9	A	hui2
+誼	8ABC	A	gi5	gi7
+調	8ABF	A	tiau7	tiau5	tiau3	tiau1	thau5
+談	8AC7	A	tam5
+請	8ACB	A	tshiann2	tshing2
+諍	8ACD	A	tsenn3	tsinn3	tsing3
+諒	8AD2	A	liong7
+論	8AD6	A	lun7
+諜	8ADC	A	tiap8
+諞	8ADE	A	pian2
+諦	8AE6	A	te3
+諧	8AE7	A	hai5
+諭	8AED	A	lu7	ju7
+諮	8AEE	A	tsu1
+諱	8AF1	B	*hui3
+諳	8AF3	A	am1
+諷	8AF7	B	*hong2
+諸	8AF8	A	tsu1	ti1
+諺	8AFA	A	gan7
+諾	8AFE	AB	lok8	hioh40	hioh4	*hann3
+謀	8B00	AB	boo5	bio5	*moo5
+謂	8B02	AB	ui7	*ui3
+謄	8B04	A	thing5
+謊	8B0A	A	hong1	hong2
+謎	8B0E	AB	bi7	*be7	*bi5
+謔	8B14	A	gioh8	giok4
+謗	8B17	A	pong3
+謙	8B19	A	khiam1
+講	8B1B	A	kong2	kang2
+謝	8B1D	A	sia7	tsia7
+謠	8B20	A	iau5
+謬	8B2C	A	biu7
+謳	8B33	A	oo1
+謹	8B39	A	kin2
+謼	8B3C	A	hooh4
+譀	8B40	A	ham3
+譁	8B41	A	hua7
+證	8B49	A	tsing3
+譎	8B4E	A	khiat4
+譏	8B4F	A	ki1
+識	8B58	A	sik4
+譚	8B5A	A	tham5	tam5
+譜	8B5C	A	phoo2
+警	8B66	AB	king2	*king3
+譬	8B6C	A	phi3
+譯	8B6F	A	ik8
+議	8B70	A	gi7
+譴	8B74	A	khian3	khian2
+護	8B77	AB	hoo7	*loo7
+譽	8B7D	A	u7
+讀	8B80	A	thak8	thok8	tau7	too7
+變	8B8A	A	pian3	pinn3
+讓	8B93	AB	niu7	liong7	jiong7	*nioo7
+讖	8B96	A	tsham3
+讚	8B9A	A	tsan3	tsan2
+谷	8C37	A	kok4
+豆	8C46	A	tau7
+豈	8C48	A	khi2
+豉	8C49	AB	sinn7	*si7
+豋	8C4B	B	*ting1
+豍	8C4D	A	pi1
+豎	8C4E	A	su7
+豐	8C50	A	hong1	phong1
+豔	8C54	A	iam7
+豚	8C5A	A	thun5
+象	8C61	AB	siong7	tshiunn7	siunn7	siong3	siong2	*sin7	*sionn7	*tshionn7
+豪	8C6A	A	ho5
+豫	8C6B	A	u7
+豬	8C6C	A	ti1	tu1
+豸	8C78	A	thua7
+豹	8C79	A	pa3
+貂	8C82	A	tiau1
+貉	8C89	A	ho5
+貌	8C8C	A	mau7
+貓	8C93	A	niau1	ba5	bau5
+貝	8C9D	A	pue3
+貞	8C9E	A	tsing1
+負	8CA0	A	hu7
+財	8CA1	A	tsai5
+貢	8CA2	A	kong3
+貧	8CA7	AB	pin5	*pan5	*pun5	*pan7
+貨	8CA8	A	hue3	he3	honn3	ho3
+販	8CA9	AB	huan3	phuann3	*phua3
+貪	8CAA	A	tham1
+貫	8CAB	AB	kng3	kuan3	*kuinn3
+責	8CAC	A	tsik4
+貯	8CAF	A	te2	tue2	thu2
+貳	8CB3	A	li7	ji7
+貴	8CB4	A	kui3
+貶	8CB6	A	pian2
+買	8CB7	A	be2	bue2	mai2
+貸	8CB8	A	tai7
+貺	8CBA	AB	hing7	*han7
+費	8CBB	A	hui3	pi3
+貼	8CBC	AB	tah4	thiap4	*tiap8
+貿	8CBF	AB	bau7	boo7	*bauh8
+賀	8CC0	A	ho7
+賂	8CC2	A	loo7
+賄	8CC4	A	hue2
+資	8CC7	A	tsu1
+賈	8CC8	A	koo2	ka2
+賊	8CCA	A	tshat8	tsat8	tsik8
+賑	8CD1	A	tsin2
+賒	8CD2	A	sia1
+賓	8CD3	A	pin1
+賜	8CDC	A	su3
+賞	8CDE	AB	siunn2	siong2	*sionn2
+賠	8CE0	A	pue5	pe5
+賢	8CE2	A	hian5
+賣	8CE3	A	be7	bue7	mai7
+賤	8CE4	A	tsian7
+賦	8CE6	A	hu3
+質	8CEA	A	tsit4
+賭	8CED	A	too2
+賰	8CF0	A	tshun1
+賴	8CF4	AB	lua7	nai7	le7	*lai7
+賺	8CFA	A	tsuan2
+購	8CFC	A	koo3	kang2
+賽	8CFD	A	sai3	se3	sai2
+贅	8D05	A	tsue3
+贈	8D08	A	tsing7
+贊	8D0A	A	tsan3	tsan7
+贌	8D0C	A	pak8
+贏	8D0F	A	iann5	ing5
+贐	8D10	A	tsin7
+贓	8D13	A	tsong1	tsng1
+贖	8D16	A	siok8
+赤	8D64	AB	tshiah4	tshik4	*tsiah4
+赦	8D66	A	sia3
+赫	8D6B	B	*hik4
+走	8D70	A	tsau2	tsoo2
+赴	8D74	A	hu3
+起	8D77	A	khi2	ki1
+趁	8D81	A	than3
+超	8D85	A	tshiau1	thiau1
+越	8D8A	A	uat8
+趒	8D92	A	tio5
+趕	8D95	A	kuann2	a2
+趖	8D96	A	so5
+趙	8D99	A	tio7
+趣	8DA3	A	tshu3
+趨	8DA8	A	tshu1
+足	8DB3	AB	tsiok4	*tsok4
+趺	8DBA	AB	u1	*hu1
+趼	8DBC	A	lan1
+趾	8DBE	A	tsi2
+跂	8DC2	A	kue2	ke2
+跋	8DCB	AB	puah8	puat8	*pua7
+跌	8DCC	A	tiat8
+跍	8DCD	A	khu5
+跎	8DCE	A	to5
+跑	8DD1	A	phau2	phau5
+跔	8DD4	A	ku1
+跕	8DD5	A	liam1
+跙	8DD9	A	tshu7
+跛	8DDB	AB	pai2	*painn2
+距	8DDD	A	ku7	ki7
+跟	8DDF	A	kin1	kun1
+跡	8DE1	A	jiah4	liah4	tsiah4	tsik4
+跤	8DE4	AB	kha1	*kau1
+跨	8DE8	B	*khua3
+跩	8DE9	A	tsuainn7
+跪	8DEA	A	kui7
+路	8DEF	A	loo7
+跳	8DF3	A	thiau3
+踃	8E03	B	*sau1
+踅	8E05	A	seh8
+踏	8E0F	AB	tah8	tap8	*ta7
+踐	8E10	A	tsian7
+踔	8E14	A	tshik8
+踢	8E22	A	that4	thah4	thik4
+踩	8E29	A	tshai2
+踮	8E2E	AB	tiam3	*tam3
+踴	8E34	A	iong2
+蹁	8E41	AB	phin5	*phian5
+蹄	8E44	A	te5	tue5
+蹈	8E48	A	to7
+蹉	8E49	A	tsho1
+蹊	8E4A	A	khi1
+蹌	8E4C	AB	tshiang2	*tshing2
+蹓	8E53	A	lau1
+蹔	8E54	A	tsam3
+蹘	8E58	A	liau5
+蹛	8E5B	A	tua3
+蹟	8E5F	A	tsik4
+蹤	8E64	A	tsong1
+蹧	8E67	AB	tsau1	*tsiau1
+蹬	8E6C	A	tenn1	tinn1
+蹲	8E72	A	tsun1
+蹺	8E7A	A	khiau1
+蹽	8E7D	A	liau5
+躁	8E81	B	*so3
+躂	8E82	A	that4
+躄	8E84	AB	phih4	*phi7
+躇	8E87	A	tu5
+躊	8E8A	A	tiu5
+躍	8E8D	AB	iok8	*ik4
+躘	8E98	A	liong3	ling3
+躡	8EA1	A	neh4	nih4
+身	8EAB	AB	sin1	sian1	*sing1	*siang1	*hun1
+躬	8EAC	A	kiong1
+躼	8EBC	AB	lo3	*lio3
+躽	8EBD	A	nua3
+軀	8EC0	AB	khu1	su1	*siu1
+軁	8EC1	AB	nng3	nng1	*nui3
+車	8ECA	A	tshia1	ki1	ku1	tsha5
+軋	8ECB	A	kauh4
+軌	8ECC	A	kui2
+軍	8ECD	A	kun1
+軒	8ED2	A	ian1	hian1
+軟	8EDF	AB	nng2	luan2	*nui2
+軸	8EF8	A	tik8
+較	8F03	A	khah4	kau3	ka3	kah4
+載	8F09	A	tsai3	tsainn2
+輓	8F13	A	buan2
+輔	8F14	A	hu2	phoo2
+輕	8F15	A	khin1	khing1
+輛	8F1B	A	liong2	liong7
+輝	8F1D	A	hui1
+輦	8F26	AB	lian2	*lin2
+輩	8F29	A	pue3
+輪	8F2A	AB	lun5	lian2	lin1	*lian1	*lin2	*lun2
+輯	8F2F	A	tsip8	tship4
+輸	8F38	A	su1
+輻	8F3B	A	hok4
+輾	8F3E	AB	lian3	tian2	*lin3
+轄	8F44	A	hat4
+轆	8F46	A	lak4	lok8
+轉	8F49	AB	tng2	tsuan2	tsuan7	*tuinn2
+轍	8F4D	A	tiat8
+轎	8F4E	AB	kio7	kiau1	kiau7	*kioh4
+轟	8F5F	A	hong1
+辛	8F9B	A	sin1
+辜	8F9C	A	koo1
+辟	8F9F	A	phiah4	phik4
+辣	8FA3	AB	luah8	*lah8	*lua7
+辦	8FA6	A	pan7
+辨	8FA8	A	pian7
+辭	8FAD	A	si5	su5
+辮	8FAE	A	pinn7
+辯	8FAF	A	pian7
+辰	8FB0	A	sin5
+辱	8FB1	A	jiok8	liok8
+農	8FB2	A	long5
+迅	8FC5	A	sin3
+迌	8FCC	A	tho5
+迎	8FCE	A	ngia5	ging5	gia5
+近	8FD1	A	kin7	kun7
+迒	8FD2	AB	hann7	*ha5
+返	8FD4	A	tng2	huan2
+迢	8FE2	B	*tiau5
+迦	8FE6	AB	khia1	*kia1	*kiau1	*khiau1
+迪	8FEA	A	tik8
+迫	8FEB	A	pik4
+迭	8FED	A	tiat8
+述	8FF0	A	sut8
+迴	8FF4	A	hue5
+迵	8FF5	A	thang3
+迷	8FF7	A	be5
+迸	8FF8	A	piang3
+追	8FFD	A	tui1
+退	9000	AB	the3	*thue3
+送	9001	A	sang3	song3
+逃	9003	A	to5
+逆	9006	A	gik8
+逍	900D	A	siau1
+透	900F	A	thau3	tho3
+逐	9010	AB	tak8	jiok4	lip4	tiok8	*jik4	*jip4	*tsip4	*giok4
+途	9014	A	too5
+逕	9015	B	*king3
+這	9019	AB	tsit4	tse1	*tsiang3	*tsiah4
+通	901A	A	thang1	thong1
+逝	901D	AB	tsua7	*se7
+逞	901E	A	thing2
+速	901F	A	sok4
+造	9020	A	tso7
+逢	9022	A	hong5
+連	9023	A	lian5	liam5	ni5
+逮	902E	A	tai7
+週	9031	A	tsiu1
+進	9032	A	tsin3
+逸	9038	AB	ik8	iat4	it8	*iat8
+逼	903C	AB	pik4	*piat4
+遁	9041	A	tun7
+遂	9042	A	sui7
+遇	9047	AB	gu7	*bu7
+遊	904A	A	iu5
+運	904B	A	un7	in7	un3
+遍	904D	A	pian3	phian3
+過	904E	AB	kue3	ke3	koh4	ko3	kua3	koo3	ke30	kue30	*ku3
+遏	904F	A	at4
+遐	9050	AB	hia1	hiah4	hia5	*hio5
+道	9053	A	to7
+達	9054	A	tat8	ta1
+違	9055	A	ui5
+遙	9059	A	iau5
+遛	905B	A	liu3
+遜	905C	A	sun3
+遞	905E	A	te7
+遠	9060	AB	hng7	uan2	*huinn7
+遣	9063	A	khian2
+遨	9068	A	go5	ngoo5
+適	9069	A	sik4
+遭	906D	A	tso1
+遮	906E	AB	tsia1	tsiah4	jia1	lia1	sen1	*tsia5	*tsio5	*gia1
+遲	9072	A	ti5
+遴	9074	A	lin5
+遵	9075	A	tsun1
+遷	9077	A	tshian1
+選	9078	A	suan2
+遹	9079	A	ut8
+遺	907A	A	ui5	i1
+遼	907C	A	liau5
+避	907F	A	pi7	phiah4
+邀	9080	A	iau1	io1
+邁	9081	A	mai7
+還	9084	AB	hing5	huan7	huan5	*han5	*hainn5
+邊	908A	A	pinn1	pian1
+邏	908F	A	lo5
+邑	9091	A	ip4
+那	90A3	A	na2
+邦	90A6	A	pang1
+邪	90AA	A	sia5
+邱	90B1	A	khu1
+邵	90B5	A	siau7	sio7
+邸	90B8	A	ti2
+郁	90C1	A	hiok4
+郊	90CA	A	kau1
+郎	90CE	A	long5	nng5	lang1
+郝	90DD	A	hok4
+郡	90E1	A	kun7
+部	90E8	A	poo7	pho7
+郭	90ED	AB	kueh4	kok4	*keh4
+郵	90F5	A	iu5
+都	90FD	A	to1	too1
+鄉	9109	AB	hiong1	hiunn1	*hionn1
+鄒	9112	A	tsoo1	tsau1
+鄔	9114	A	oo1
+鄙	9119	A	phi2
+鄧	9127	A	ting7
+鄭	912D	A	tenn7	ting7	tinn7
+鄰	9130	A	lin5
+酆	9146	A	hong1
+酉	9149	A	iu2
+酋	914B	A	siu5
+酌	914C	A	tsiok4
+配	914D	A	phue3	phe3
+酒	9152	A	tsiu2
+酥	9165	A	soo1
+酪	916A	B	*lok8
+酬	916C	A	siu5
+酵	9175	AB	kann3	*ka3
+酷	9177	A	khok4
+酸	9178	AB	sng1	suan1	*suinn1	*san1
+酺	917A	A	poo5
+醃	9183	AB	am1	*am5	*iam5	*iam1
+醇	9187	A	sun5
+醉	9189	A	tsui3
+醋	918B	A	tshoo3
+醒	9192	A	tshenn2	tshinn2	sing2
+醜	919C	A	tshiu2
+醡	91A1	A	tsa3
+醫	91AB	A	i1	pinn7	penn7
+醬	91AC	AB	tsiunn3	*tsionn3
+醮	91AE	A	tsio3	tsiau3
+醴	91B4	A	le2
+釀	91C0	A	liong7	jiong7
+采	91C7	A	tshai2
+釋	91CB	A	sik4
+里	91CC	A	li2	li5
+重	91CD	A	tang7	tiong7	ting5	tiong5
+野	91CE	A	ia2
+量	91CF	AB	liong7	niu7	niu5	liong5	*nioo7	*nio7	*nioo5
+釐	91D0	A	li5
+金	91D1	A	kim1
+釘	91D8	AB	ting1	ting3	*tan1
+針	91DD	AB	tsiam1	*tsam1	*tsim1
+釣	91E3	A	tio3	tiau3
+釧	91E7	A	tshuan1
+釵	91F5	A	the1	tshai1
+鈃	9203	A	giang1
+鈍	920D	A	tun7	tun3	tun1
+鈔	9214	A	tshau1
+鈕	9215	A	liu2
+鈗	9217	AB	ng2	*uinn2
+鈞	921E	A	kun1
+鈣	9223	B	*bian2
+鈴	9234	AB	ling5	*ling1	*liang5
+鈷	9237	A	koo2
+鈸	9238	A	puat8	puah8
+鉈	9248	A	to5
+鉎	924E	AB	sian1	*san1
+鉗	9257	A	khinn5	khiam5
+鉛	925B	A	ian5
+鉤	9264	A	kau1
+鉸	9278	A	ka1
+鉼	927C	A	phiann2	pin2
+銀	9280	A	gin5	gun5
+銃	9283	A	tshing3
+銅	9285	A	tang5
+銎	928E	A	khing1
+銓	9293	B	*tshuan1
+銘	9298	A	bing5
+銬	92AC	A	khau3
+銲	92B2	A	huann7
+銳	92B3	A	lue7	jue7
+銷	92B7	A	siau1
+鋁	92C1	A	lu7	lu2
+鋉	92C9	A	sok4
+鋏	92CF	AB	giap4	*ngeh4
+鋒	92D2	A	hong1
+鋟	92DF	AB	tshim2	*tshim3	*tshim1
+鋤	92E4	A	ti5	tu5
+鋩	92E9	A	me5	mi5
+鋪	92EA	A	phoo1
+鋸	92F8	A	ki3	ku3
+鋼	92FC	A	kng3	kong1
+錄	9304	A	lok8	lik8	liok8
+錐	9310	A	tsui1
+錘	9318	A	thui5
+錚	931A	A	tshann7
+錠	9320	A	ting7	tiann7
+錢	9322	A	tsinn5	tshian5	tsian5
+錦	9326	A	gim2	gim3	kim2
+錨	9328	A	biau5	ba5
+錫	932B	A	siah4	sik4
+錯	932F	A	tsho3	tshok4
+錶	9336	A	pio2
+鍊	934A	AB	lian7	*lian5
+鍋	934B	A	ue1	ko1	e1
+鍍	934D	A	too7
+鍘	9358	A	tsah8
+鍛	935B	AB	tuan3	*thuan3
+鍤	9364	A	tshiah4
+鍥	9365	A	keh4	kueh4
+鍵	9375	A	kian7
+鍼	937C	A	tsiam1
+鍾	937E	A	tsing1	tsiong1
+鎈	9388	B	*tshenn1	*tsha1
+鎊	938A	A	pong7
+鎔	9394	A	iunn5
+鎖	9396	A	so2
+鎚	939A	B	*thui5
+鎧	93A7	B	*khai2
+鎮	93AE	A	tin3
+鏃	93C3	A	tsok8
+鏘	93D8	A	tshiong1
+鏡	93E1	A	kiann3
+鏢	93E2	A	pio1
+鏨	93E8	A	tsam7
+鏽	93FD	A	siu3
+鐃	9403	AB	lau5	na5	*lua5
+鐐	9410	A	liau5
+鐕	9415	B	*tsham5
+鐘	9418	A	tsing1	tsiong1
+鐳	9433	AB	lui5	*lui1
+鐵	9435	A	thih4	thiat4
+鑄	9444	A	tsu3
+鑑	9451	A	kam3
+鑠	9460	A	siak4
+鑢	9462	A	lu3	lue7	le7
+鑫	946B	A	him1
+鑰	9470	A	iok8	ioh8
+鑱	9471	A	tshim5
+鑼	947C	A	lo5
+鑽	947D	AB	tsng3	tsuan3	*tsuinn3	*tshng3
+鑾	947E	A	luan5
+鑿	947F	A	tshak8	tshok8
+長	9577	AB	tng5	tiunn2	tiong2	tiong5	tshiang5	tsiong2	tsiang2	*tionn2
+門	9580	AB	mng5	bun5	*bin5	*mui5
+閂	9582	A	tshuann3
+閃	9583	A	siam2
+閉	9589	A	pi3
+開	958B	A	khui1	khai1	khui10
+閏	958F	A	jun7	lun7
+閒	9592	A	ing5	han5
+間	9593	A	king1	kan1	kan3
+閔	9594	A	bin2
+閘	9598	A	tsah8
+閣	95A3	A	koh4	kooh4
+閨	95A8	B	*kui1
+閩	95A9	A	ban5
+閬	95AC	A	lang3	long3
+閱	95B1	A	uat8	iat8
+閹	95B9	A	iam1
+閻	95BB	A	giam5
+闆	95C6	A	pan2
+闇	95C7	A	am1
+闊	95CA	A	khuah4
+闔	95D4	A	khah8	hap8
+闕	95D5	A	khuat4
+闖	95D6	A	tshuang3
+關	95DC	A	kuan1	kuainn1	kuinn1	kan1
+闡	95E1	A	tshian2
+闢	95E2	A	pik8
+阮	962E	AB	guan2	ng2	*gun2	*uinn2
+阱	9631	A	tsinn2	tsenn2
+防	9632	A	hong5
+阻	963B	A	tsoo2
+阿	963F	A	a1	oo1	o1
+陀	9640	A	lo5	too5	to5
+陂	9642	A	pi1
+附	9644	A	hu3	hu7
+陋	964B	A	loo7
+陌	964C	A	bik8
+降	964D	A	kang3	hang5
+限	9650	A	han7	an7
+陛	965B	A	pe3
+陝	965D	A	siam2
+陞	965E	A	sing1
+陡	9661	B	*too2
+院	9662	AB	inn7	*inn3
+陣	9663	AB	tsun7	tin7	*sun7
+除	9664	A	tu5	ti5
+陪	966A	A	pue5
+陰	9670	AB	im1	iam1	*lam1
+陳	9673	A	tan5	tin5
+陵	9675	A	nia7	ling5	long2
+陶	9676	A	to5
+陷	9677	A	ham7
+陸	9678	A	liok8	lak8	lok8
+陽	967D	AB	iong5	iunn5	iang5	*ionn5	*niu5	*mui5
+隄	9684	B	*the5
+隅	9685	B	*gu5
+隆	9686	A	lang5	liong5
+隊	968A	A	tui7
+隍	968D	A	hong5
+階	968E	A	kai1
+隔	9694	A	keh4	kik4
+隕	9695	B	*un2
+隘	9698	A	ai3
+隙	9699	A	khiah4
+際	969B	A	tse3
+障	969C	A	tsiong1	tsiong3	tsiang3
+隧	96A7	A	sui7
+隨	96A8	A	sui5
+險	96AA	A	hiam2
+隱	96B1	A	un2
+隴	96B4	B	*long2
+隸	96B8	A	le7
+隻	96BB	A	tsiah4	tsik4
+雀	96C0	A	tshiok4	tshik4
+雁	96C1	A	gan7
+雄	96C4	A	hiong5	hing5
+雅	96C5	A	nga2	nge2
+集	96C6	A	tsip8
+雇	96C7	A	koo3
+雉	96C9	A	thi7
+雌	96CC	B	*tshu1
+雍	96CD	B	*iong1
+雕	96D5	A	tiau1
+雖	96D6	A	sui1
+雙	96D9	AB	siang1	*song1	*sang1
+雜	96DC	A	tsap8
+雞	96DE	A	ke1	kue1
+離	96E2	A	li7	li1	li5
+難	96E3	A	lan5	lan7
+雨	96E8	AB	hoo7	u2	*i2
+雪	96EA	A	sap4	seh4	suat4	siat4
+雯	96EF	A	bun5
+雲	96F2	AB	hun5	*un5
+零	96F6	A	lan5	ling5
+雷	96F7	A	lui5
+雹	96F9	AB	phauh8	*phau3	*phau1	*phau7
+雺	96FA	AB	bong5	*moo5
+電	96FB	A	tian7
+需	9700	A	su1
+霄	9704	A	siau1
+霆	9706	A	tan5	ting5
+震	9707	A	tsin3
+霍	970D	AB	hok4	*hok8
+霎	970E	AB	sap4	tiap4	*sap8
+霓	9713	B	*ge5
+霖	9716	A	lim5
+霜	971C	A	sng1	song1
+霞	971E	A	he5	ha5
+霧	9727	A	bu7	buh4
+露	9732	AB	loo7	lok8	*loo3
+霸	9738	A	pa3
+霹	9739	A	phik4
+靂	9742	A	lik8
+靈	9748	AB	ling5	*lian5
+青	9752	A	tshenn1	tshinn1	tshing1
+靖	9756	A	tsing7
+靘	9758	B	*tshinn2
+靜	975C	A	tsing7	tsenn7	tsinn7
+非	975E	A	hui1
+靠	9760	A	kho3	khua3
+面	9762	A	bin7	bian7
+革	9769	A	kik4
+靳	9773	A	kin3
+靴	9774	A	hia1
+靶	9776	A	pe2
+鞅	9785	A	iong2
+鞋	978B	A	e5	ue5	hai5
+鞍	978D	A	uann1	an1
+鞏	978F	A	khong7	kiong2
+鞘	9798	AB	siu3	*sio3
+鞠	97A0	A	kiok4
+鞦	97A6	AB	tshiu1	*thiu1
+鞭	97AD	A	mi1	pian1	pinn1
+韆	97C6	AB	tshian1	*tshan1	*khan1
+韋	97CB	A	ui5
+韌	97CC	A	jun7	lun7
+韓	97D3	A	han5
+韭	97ED	A	ku2
+音	97F3	A	im1
+韻	97FB	A	un7
+響	97FF	A	hiong2	hiang2
+頁	9801	A	iah8
+頂	9802	A	ting2
+頃	9803	A	khing2	khing1
+項	9805	A	hang7
+順	9806	A	sun7
+頇	9807	A	han5	han1
+須	9808	A	su1
+頌	980C	A	siong7
+預	9810	A	i7	u7
+頑	9811	A	guan5
+頒	9812	A	pan1
+頓	9813	AB	tng3	tun3	*tuinn3
+頕	9815	AB	tam3	*tim3	*thim3
+頗	9817	A	pho2
+領	9818	A	nia2	ling2
+頡	9821	A	khiat4
+頦	9826	A	hai5	huai5
+頭	982D	AB	thau5	thio5	thoo5	tho5	*thah8
+頷	9837	A	am7
+頸	9838	A	kun2	king2
+頹	9839	A	tue5
+頻	983B	A	pin5
+題	984C	A	te5	tue5
+額	984D	AB	giah8	hiah8	gik8	*gia7
+顎	984E	AB	kok4	*khok4	*gok4
+顏	984F	A	gan5
+願	9858	A	guan7
+顛	985B	A	tian1	thian1
+類	985E	A	lui7
+顢	9862	A	ban7
+顧	9867	A	koo3
+顫	986B	A	tsun3
+顯	986F	A	hian2	hiann2
+顱	9871	B	*loo5
+顴	9874	A	kuan3
+風	98A8	AB	hong1	*huang1
+颱	98B1	A	thai1
+颶	98B6	B	*ku7
+颺	98BA	AB	iann7	tshiunn5	*tshionn5
+飄	98C4	A	phiau1
+飆	98C6	A	pio1	phiau1
+飛	98DB	A	pue1	hui1	hue1	pe1
+食	98DF	AB	tsiah8	sit8	*tsia7
+飢	98E2	A	ki1
+飫	98EB	A	ui3
+飯	98EF	AB	png7	huan7	*puinn7
+飲	98F2	A	im2
+飼	98FC	A	tshi7
+飽	98FD	A	pa2	pau2
+飾	98FE	A	sik4
+餃	9903	A	kiau2
+餅	9905	A	piann2
+餉	9909	A	hiong3
+養	990A	AB	iong2	iunn2	*iang2	*ionn2
+餌	990C	A	ji7	li7
+餐	9910	A	tshan1
+餒	9912	A	lue2
+餓	9913	A	go7
+餘	9918	A	u5	i5
+餞	991E	AB	tsian3	*tsian2	*tsian1
+餡	9921	A	ann7
+館	9928	A	kuan2
+餲	9932	A	ai1
+餾	993E	A	liu7	liu5
+饅	9945	A	ban2	ban5
+饋	994B	A	kui7
+饌	994C	B	*tsuan7
+饑	9951	B	*ki1
+饒	9952	A	jiau5	liau5
+饗	9957	A	hiang2
+饞	995E	A	sai5
+首	9996	A	siu2
+香	9999	AB	hiunn1	hiong1	hiang1	*hionn1
+馝	999D	A	pih4
+馨	99A8	A	hing1	hiong1
+馬	99AC	A	ma2	be2	ma1
+馮	99AE	A	pang5
+馳	99B3	A	ti5
+馴	99B4	A	sun5
+駁	99C1	AB	pok4	poh4	*phoh4
+駐	99D0	AB	tu7	tsu3	*tsu7
+駕	99D5	A	ka3
+駙	99D9	B	*hu7
+駛	99DB	A	sai2	su2
+駝	99DD	A	to5
+駟	99DF	B	*su3
+駱	99F1	A	lok8	loh8
+駿	99FF	A	tsun3
+騎	9A0E	A	khia5	khi5
+騙	9A19	A	phian3
+騫	9A2B	B	*khian1
+騰	9A30	A	thing5
+騷	9A37	A	so1
+騾	9A3E	B	*le5	*lo5
+驅	9A45	A	khu1
+驍	9A4D	A	hiau1
+驕	9A55	A	kiau1
+驗	9A57	A	giam7
+驚	9A5A	AB	kiann1	kenn1	king1	*kinn1
+驛	9A5B	A	iah8	ik8
+驢	9A62	A	lu5	li5
+骨	9AA8	A	kut4
+骰	9AB0	AB	tau5	*tau7
+骱	9AB1	A	kai2
+骸	9AB8	A	hai5
+骼	9ABC	A	keh4
+骿	9ABF	A	phiann1
+髓	9AD3	A	tshue2	tshe2	tshui2
+體	9AD4	A	the2	thai2	thue2
+高	9AD8	A	ko1	kau1
+髡	9AE1	A	khun1
+髮	9AEE	A	huat4
+髻	9AFB	A	kue3	ke3
+鬃	9B03	A	tsang1
+鬆	9B06	A	sang1	song1
+鬍	9B0D	A	hoo5
+鬖	9B16	A	sam3
+鬚	9B1A	A	tshiu1	su1
+鬢	9B22	A	pin3
+鬥	9B25	A	tau3	too3
+鬧	9B27	A	lau7	nau7
+鬮	9B2E	A	khau1
+鬱	9B31	A	ut4
+鬻	9B3B	B	*iok8
+鬼	9B3C	A	kui2
+魁	9B41	A	khue1
+魂	9B42	A	hun5
+魄	9B44	A	phik4
+魅	9B45	A	bi7
+魍	9B4D	AB	bang2	*bong2
+魎	9B4E	B	*liong2
+魏	9B4F	A	gui7
+魑	9B51	B	*li5
+魔	9B54	A	moo5
+魚	9B5A	A	hi5	hu5	gu5
+魠	9B60	AB	thoh4	*thuh4
+魩	9B69	A	but4
+魬	9B6C	A	puann2
+魯	9B6F	A	loo2	luh4
+魴	9B74	A	hang1
+魽	9B7D	A	kam1
+鮊	9B8A	B	*pha1
+鮑	9B91	A	pau1	pau7
+鮕	9B95	A	koo1
+鮘	9B98	A	tai1
+鮡	9BA1	A	thiau5
+鮢	9BA2	A	tsu1
+鮫	9BAB	A	ka1
+鮮	9BAE	A	tshinn1	sian1	sian2
+鮸	9BB8	A	bian2
+鯃	9BC3	B	*goo5
+鯉	9BC9	AB	li2	*le7
+鯊	9BCA	A	sua1
+鯗	9BD7	AB	siunn2	*sionn2
+鯧	9BE7	AB	tshiunn1	*tshionn1
+鯨	9BE8	B	*king1	*kiang1
+鯪	9BEA	A	la5
+鯮	9BEE	A	tsang1
+鯰	9BF0	A	liam5
+鯽	9BFD	A	tsit4
+鰇	9C07	A	jiu5	liu5
+鰓	9C13	A	tshi1
+鰗	9C17	A	hoo5
+鰡	9C21	A	liu1
+鰮	9C2E	A	un1
+鰱	9C31	A	lian5
+鰲	9C32	B	*go5
+鰻	9C3B	A	mua5
+鰾	9C3E	A	pio7
+鱈	9C48	A	suat4
+鱉	9C49	A	pih4	piat4
+鱔	9C54	A	sian7
+鱖	9C56	A	ke3	kue3
+鱗	9C57	A	lan5	lin5
+鱙	9C59	A	liau5	jiau5
+鱟	9C5F	A	hau7
+鱲	9C72	A	lah8
+鱷	9C77	AB	khok8	*gok8
+鱸	9C78	A	loo5
+鱺	9C7A	A	le7
+鳥	9CE5	A	tsiau2	niau2
+鳩	9CE9	A	khiu1
+鳳	9CF3	A	hong7
+鳴	9CF4	A	bing5
+鴆	9D06	A	thim1
+鴉	9D09	A	a1
+鴒	9D12	A	ling7
+鴕	9D15	A	to5
+鴛	9D1B	A	uan1
+鴞	9D1E	AB	hioh8	*hio7	*hiau1
+鴟	9D1F	AB	tshi1	lai7	ba7	*bah8	*la7	*mua7	*na7	*nah8
+鴣	9D23	A	koo1
+鴦	9D26	AB	iunn1	iong1	*ionn1
+鴨	9D28	A	ah4
+鴻	9D3B	A	hong5
+鴿	9D3F	A	kap4	kah4
+鵁	9D41	A	ka1
+鵑	9D51	A	kuan1
+鵝	9D5D	A	go5	ngoo5	gia5
+鵠	9D60	AB	khok4	*khiat4	*khik4
+鵡	9D61	B	*bu2
+鵤	9D64	A	kak4
+鵪	9D6A	A	ian1
+鵬	9D6C	A	phing5	ping5
+鵰	9D70	A	tiau1
+鵲	9D72	B	*tshik4	*tshiok4
+鵻	9D7B	A	tsui1
+鶉	9D89	A	tun1	tshun1
+鶖	9D96	A	tshiu1
+鶯	9DAF	A	ing1
+鶴	9DB4	A	hoh8	hok8
+鶶	9DB6	B	*thang5
+鶿	9DBF	A	tsi5
+鷓	9DD3	A	tsia3
+鷗	9DD7	A	oo1
+鷥	9DE5	A	si1
+鷹	9DF9	A	ing1
+鷺	9DFA	A	loo5	loo7
+鸕	9E15	A	loo5
+鸚	9E1A	A	ing1
+鸞	9E1E	A	luan5
+鹹	9E79	A	kiam5
+鹼	9E7C	A	kinn1	kiam2
+鹽	9E7D	A	iam5	kiam5
+鹿	9E7F	A	lok8	lak4
+麒	9E92	AB	ki5	*ki1
+麗	9E97	A	le7	le5
+麝	9E9D	A	sia7
+麟	9E9F	AB	lin5	*lin1
+麥	9EA5	AB	beh8	*be7	*bik8
+麩	9EA9	AB	hu1	phoo1	*pho1
+麭	9EAD	A	phang2
+麴	9EB4	AB	khak4	*kak4
+麵	9EB5	AB	mi7	bian7	*bin7
+麶	9EB6	A	thi1
+麻	9EBB	AB	mua5	ma5	ba5	*bua5
+黃	9EC3	AB	ng5	hong5	*uinn5	*ba1
+黍	9ECD	AB	sue2	se2	*sik4
+黎	9ECE	A	le5
+黏	9ECF	A	liam5
+黐	9ED0	A	thi1
+黑	9ED1	A	hik4
+黗	9ED7	A	thun5
+默	9ED8	A	bik8
+黛	9EDB	A	tai7
+黜	9EDC	A	thuh4	thut4
+點	9EDE	A	tiam2
+黨	9EE8	A	tong2
+黯	9EEF	A	am2
+黹	9EF9	A	tsi2
+黿	9EFF	B	*guan5
+鼇	9F07	B	*ngoo5
+鼎	9F0E	A	tiann2	ting2
+鼓	9F13	A	koo2
+鼠	9F20	A	tshi2	tshu2
+鼢	9F22	A	bun3
+鼻	9F3B	AB	phinn7	*phi7
+鼾	9F3E	A	huann5	konn5
+齁	9F41	A	honn1
+齆	9F46	A	ang3
+齊	9F4A	AB	tse5	tsiau5	tsue5	tse3	*tsau5
+齋	9F4B	A	tsai1	tse1
+齒	9F52	A	khi2
+齡	9F61	A	ling5
+齣	9F63	A	tshut4
+齧	9F67	AB	khe3	khue3	*khueh4	*kheh4
+齪	9F6A	A	tsak4
+齴	9F74	A	giang3
+齷	9F77	A	ak4
+齻	9F7B	A	tsan1
+龍	9F8D	AB	ling5	liong5	long1	ging5	lang5	long5	*liang5
+龐	9F90	A	phiang7	pang5
+龔	9F94	A	king2
+龕	9F95	A	kham1
+龜	9F9C	A	ku1	kui1
+𠕇	20547	AB	ting7	*tan7	*tainn7
+𠞩	207A9	A	tsui5
+𠞭	207AD	A	lio5
+𠢕	20895	A	gau5
+𠯗	20BD7	AB	tsip8	*sip8
+𡢃	21883	A	kan2
+𡳞	21CDE	A	lan7
+𢪱	22AB1	AB	but8	*but4
+𢯾	22BFE	A	mooh4
+𢲸	22CB8	A	loo7
+𢼌	22F0C	A	pa1
+𣁳	23073	A	khat4
+𣛮	236EE	AB	siann7	*sia7
+𣮈	23B88	AB	khut8	*khut4
+𣻸	23EF8	AB	siunn5	*sionn5
+𤆬	241AC	A	tshua7
+𤉙	24259	A	kun5
+𤲍	24C8D	A	kheh4	khueh4
+𤶃	24D83	A	thiau7
+𤺅	24E85	AB	tshe3	*tshui3	*tsue3	*tse3	*tsheh4	*tsheh8
+𤺪	24EAA	A	sian7
+𥌚	2531A	B	*bai7
+𥍉	25349	A	nih4	liap4
+𥐵	25435	A	phiat4
+𥑮	2546E	AB	koo2	*ko2
+𥰔	25C14	A	phin2
+𥴊	25D0A	A	kam2
+𦉎	2624E	A	sui1
+𦊓	26293	A	ling5
+𦜆	26706	A	ham1
+𦟪	267EA	A	lian5
+𧉟	2725F	A	tai5
+𧌄	27304	AB	am1	*am5	*iam1	*am3	*ham2	*am2	*ham1
+𧮙	27B99	AB	tshoh4	*tshoh8
+𧿬	27FEC	A	thun2
+𧿳	27FF3	A	phut8
+𨂾	280BE	A	lam3
+𨂿	280BF	AB	uainn2	uainnh4	*uaih4
+𨑨	28468	A	tshit4	thit4
+𩑾	2947E	A	tshih4
+𩚨	296A8	A	khiu7
+𩛩	296E9	A	kauh4
+𩵱	29D71	A	ngoo2
+𩸙	29E19	AB	tai7	*tai5
+𩸶	29E36	AB	gam7	*kam7
+𪁎	2A04E	A	tshio1
+𪐞	2A41E	A	too3
+𪜶	2A736	AB	in1	*in7
+𫝏	2B74F	A	gan3
+𫝛	2B75B	AB	siang7	*siang5
+𫝺	2B77A	A	hiu3
+𫝻	2B77B	A	hue5
+𫞼	2B7BC	A	tshai7
+𫟂	2B7C2	A	han5
+𬦰	2C9B0	A	peh4
+𰣻	308FB	A	ko1
