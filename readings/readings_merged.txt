@@ -595,7 +595,7 @@
 唭	kì, ki	
 售	siū	
 唯	bî, uî	bī
-唱	tshiùnn, tshiàng, tshiòng, tshiùn	tshiònn
+唱	tshiùnn, tshiàng, tshiòng	tshiònn
 唷	ioh, --ioh	
 唸	liām	
 唾	thò	
@@ -4117,7 +4117,7 @@
 遨	gô, ngôo	
 適	sik	
 遭	tso	
-遮	tsia, tsiah, jia, lia, sen	tsiâ, tsiô, gia
+遮	tsia, tsiah, jia, lia	tsiâ, tsiô, gia
 遲	tî	
 遴	lîn	
 遵	tsun	

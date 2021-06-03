@@ -1,0 +1,209 @@
+{
+    "head": {
+        "version": 1.0,
+        "fontRevision": 1.0,
+        "flags": {
+            "baselineAtY_0": true,
+            "lsbAtX_0": true
+        },
+        "unitsPerEm": 1000,
+        "created": 3620891548,
+        "modified": 3620922777,
+        "xMin": 5,
+        "xMax": 977,
+        "yMin": -124,
+        "yMax": 900,
+        "macStyle": {},
+        "lowestRecPPEM": 7,
+        "fontDirectoryHint": 2,
+        "indexToLocFormat": 0,
+        "glyphDataFormat": 0
+    },
+    "hhea": {
+        "version": 1.0,
+        "ascender": 880,
+        "descender": -240,
+        "lineGap": 0,
+        "advanceWidthMax": 1000,
+        "minLeftSideBearing": 0,
+        "minRightSideBearing": 5,
+        "xMaxExtent": 977,
+        "caretSlopeRise": 1,
+        "caretSlopeRun": 0,
+        "caretOffset": 0
+    },
+    "vhea": {
+        "version": 1.0625,
+        "ascent": 750,
+        "descent": -750,
+        "lineGap": 0,
+        "advanceHeightMax": 1000,
+        "minTop": -390,
+        "minBottom": -150,
+        "yMaxExtent": 1000,
+        "caretSlopeRise": 0,
+        "caretSlopeRun": 1,
+        "caretOffset": 0
+    },
+    "maxp": {
+        "version": 1.0,
+        "numGlyphs": 149,
+        "maxPoints": 147,
+        "maxContours": 10,
+        "maxCompositePoints": 0,
+        "maxCompositeContours": 0,
+        "maxZones": 1,
+        "maxTwilightPoints": 2,
+        "maxStorage": 30,
+        "maxFunctionDefs": 6,
+        "maxInstructionDefs": 0,
+        "maxStackElements": 100,
+        "maxSizeOfInstructions": 0,
+        "maxComponentElements": 0,
+        "maxComponentDepth": 0
+    },
+    "post": {
+        "version": 2.0,
+        "italicAngle": 0,
+        "underlinePosition": -75,
+        "underlineThickness": 50,
+        "isFixedPitch": false,
+        "minMemType42": 0,
+        "maxMemType42": 0,
+        "minMemType1": 0,
+        "maxMemType1": 0
+    },
+    "OS_2": {
+        "version": 3,
+        "xAvgCharWidth": 1000,
+        "usWeightClass": 400,
+        "usWidthClass": 5,
+        "fsType": {},
+        "ySubscriptXSize": 665,
+        "ySubscriptYSize": 614,
+        "ySubscriptXOffset": 0,
+        "ySubscriptYOffset": 76,
+        "ySupscriptXSize": 665,
+        "ySupscriptYSize": 614,
+        "ySupscriptXOffset": 0,
+        "ySupscriptYOffset": 358,
+        "yStrikeoutSize": 50,
+        "yStrikeoutPosition": 307,
+        "sFamilyClass": 0,
+        "panose": [
+            2,
+            2,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "ulUnicodeRange1": {
+            "Basic_Latin": true
+        },
+        "ulUnicodeRange2": {
+            "Bopomofo": true
+        },
+        "ulUnicodeRange3": {},
+        "ulUnicodeRange4": {},
+        "achVendID": "ZIHI",
+        "fsSelection": {
+            "regular": true
+        },
+        "usFirstCharIndex": 32,
+        "usLastCharIndex": 12585,
+        "sTypoAscender": 880,
+        "sTypoDescender": -120,
+        "sTypoLineGap": 205,
+        "usWinAscent": 880,
+        "usWinDescent": 240,
+        "ulCodePageRange1": {
+            "latin1": true
+        },
+        "ulCodePageRange2": {},
+        "sxHeight": 512,
+        "sCapHeight": 800,
+        "usDefaultChar": 0,
+        "usBreakChar": 32,
+        "usMaxContext": 0,
+        "usLowerOpticalPointSize": 0,
+        "usUpperOpticalPointSize": 0
+    },
+    "gasp": [
+        {
+            "rangeMaxPPEM": 65535,
+            "dogray": true,
+            "gridfit": true,
+            "symmetric_smoothing": true,
+            "symmetric_gridfit": true
+        }
+    ],
+    "name": [
+        {
+            "platformID": 3,
+            "encodingID": 1,
+            "languageID": 1033,
+            "nameID": 1,
+            "nameString": "BopomofoSmall"
+        },
+        {
+            "platformID": 3,
+            "encodingID": 1,
+            "languageID": 1033,
+            "nameID": 2,
+            "nameString": "Regular"
+        },
+        {
+            "platformID": 3,
+            "encodingID": 1,
+            "languageID": 1033,
+            "nameID": 3,
+            "nameString": "1.000;UKWN;BopomofoSmall-Regular"
+        },
+        {
+            "platformID": 3,
+            "encodingID": 1,
+            "languageID": 1033,
+            "nameID": 4,
+            "nameString": "BopomofoSmall Regular"
+        },
+        {
+            "platformID": 3,
+            "encodingID": 1,
+            "languageID": 1033,
+            "nameID": 5,
+            "nameString": "Version 1.000"
+        },
+        {
+            "platformID": 3,
+            "encodingID": 1,
+            "languageID": 1033,
+            "nameID": 6,
+            "nameString": "BopomofoSmall-Regular"
+        }
+    ],
+    "cmap": {
+ 
+    },
+    "glyf": {
+        ".notdef": {
+            "advanceWidth": 512,
+            "contours": [
+                [{"x":420,"y":-124,"on":true},{"x":95,"y":-124,"on":true},{"x":95,"y":900,"on":true},{"x":420,"y":900,"on":true}],
+                [{"x":172,"y":831,"on":true},{"x":172,"y":798,"on":true},{"x":239,"y":798,"on":true},{"x":239,"y":760,"on":true},{"x":171,"y":760,"on":true},{"x":171,"y":726,"on":true},{"x":341,"y":726,"on":true},{"x":341,"y":760,"on":true},{"x":273,"y":760,"on":true},{"x":273,"y":798,"on":true},{"x":341,"y":798,"on":true},{"x":341,"y":831,"on":true}],
+                [{"x":171,"y":699,"on":true},{"x":171,"y":593,"on":true},{"x":341,"y":593,"on":true},{"x":341,"y":628,"on":true},{"x":273,"y":628,"on":true},{"x":273,"y":699,"on":true}],
+                [{"x":239,"y":628,"on":true},{"x":205,"y":628,"on":true},{"x":205,"y":664,"on":true},{"x":239,"y":664,"on":true}],
+                [{"x":171,"y":565,"on":true},{"x":171,"y":531,"on":true},{"x":239,"y":531,"on":true},{"x":239,"y":493,"on":true},{"x":171,"y":493,"on":true},{"x":171,"y":460,"on":true},{"x":273,"y":460,"on":true},{"x":273,"y":531,"on":true},{"x":341,"y":531,"on":true},{"x":341,"y":565,"on":true}],
+                [{"x":307,"y":504,"on":true},{"x":307,"y":436,"on":true},{"x":171,"y":436,"on":true},{"x":171,"y":401,"on":true},{"x":341,"y":401,"on":true},{"x":341,"y":504,"on":true}],
+                [{"x":239,"y":379,"on":true},{"x":239,"y":321,"on":true},{"x":273,"y":321,"on":true},{"x":273,"y":345,"on":true},{"x":307,"y":345,"on":true},{"x":307,"y":297,"on":true},{"x":205,"y":297,"on":true},{"x":205,"y":379,"on":true},{"x":171,"y":379,"on":true},{"x":171,"y":263,"on":true},{"x":341,"y":263,"on":true},{"x":341,"y":379,"on":true}],
+                [{"x":171,"y":202,"on":true},{"x":171,"y":86,"on":true},{"x":341,"y":86,"on":true},{"x":341,"y":202,"on":true}],
+                [{"x":307,"y":120,"on":true},{"x":205,"y":120,"on":true},{"x":205,"y":168,"on":true},{"x":307,"y":168,"on":true}],
+                [{"x":171,"y":62,"on":true},{"x":171,"y":29,"on":true},{"x":243,"y":29,"on":true},{"x":171,"y":-20,"on":true},{"x":171,"y":-53,"on":true},{"x":341,"y":-53,"on":true},{"x":341,"y":-20,"on":true},{"x":237,"y":-20,"on":true},{"x":308,"y":29,"on":true},{"x":341,"y":29,"on":true},{"x":341,"y":62,"on":true}]
+            ]
+        }
+    }
+}

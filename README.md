@@ -1,0 +1,18 @@
+**注意**
+
+欲掠字型請[到遮](https://github.com/ButTaiwan/taigivs/releases)，官網請[來遮](https://buttaiwan.github.io/taigivs/)。
+
+# 字咍IVS標音字型規格 Taigi IVS Font Specification
+
+技術的問題共華語的版本攏差不多，貧惰閣寫一擺，請看[注音IVS字型規格](https://github.com/ButTaiwan/bpmfvs/)的說明。
+
+佮華語無仝的所在是遮毋但共標音囥佇正爿爾爾，為著予台羅、白話字正確顯示，嘛會使共標音囥佇漢字的頂懸。兩爿攏囥嘛會用得。
+
+因為真麻煩，台語版這馬無去支援 GSUB 方式，干焦有做 IVS nia̋。
+
+
+## 授權條款
+
+* 本規格內的程式（.rb），是用 Apache 2.0 授權發行。
+* 本規格內的字型（.ttf），大部份攏用 SIL Open Font License 1.1 的授權，請共仝資料匣仔內的 License 文件讀予清楚。
+

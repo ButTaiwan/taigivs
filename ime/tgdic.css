@@ -1,0 +1,4 @@
+@font-face { font-family: POJ; src: url('fonts/NunitoPOJ-Regular.ttf'); }
+@font-face { font-family: TauhuExt; src: url('fonts/GenYoExt-R.otf'); }
+
+body { font-family: POJ, TauhuExt, sans-serif }

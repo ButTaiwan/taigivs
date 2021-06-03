@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-hant-TW">
+<head>
+	<title>字咍台語IVS字型輸入工具</title>
+<meta charset="utf-8"></head>
+<style>
+@font-face { font-family: TL; src: url('fonts/TaigiKaiStd-TL-R.ttf'); }
+@font-face { font-family: POJ; src: url('fonts/TaigiKaiStd-POJ-R.ttf'); }
+@font-face { font-family: HI; src: url('fonts/TaigiKaiStd-HI-R.ttf'); }
+@font-face { font-family: KN; src: url('fonts/TaigiKaiStd-KN-R.ttf'); }
+@font-face { font-family: TLHI; src: url('fonts/TaigiKaiStd-TLHI-R.ttf'); }
+
+.zTL p, .zTL .ruby { font-family: TL }
+.zPOJ p, .zPOJ .ruby { font-family: POJ }
+.zHI p, .zHI .ruby { font-family: HI }
+.zKN p, .zKN .ruby { font-family: KN }
+.zTLHI p, .zTLHI .ruby { font-family: TLHI }
+
+p { font-family: ZY; font-size: 36px; line-height: 1.4; margin: 0 }
+.hide { display: none }
+
+body { background:#dbc6a7 }
+#body { position: relative; margin: 10px auto; padding: 10px 10px 116px 10px; background: #fff8f4 }
+
+.info { height: 52px; font-family: 微軟正黑體, sans-serif; font-size: 26px }
+.info span { font-size: 32px; margin-right: 5px }
+#info3 { float: right;}
+#info3 select { font-size: 24px }
+
+#main { width: 100%; padding: 0; margin: 0 0 5px 0 }
+#input { height: 100%; font-size: 34px; line-height: 1.6; background: #fff; width: 100%; padding: 0; vertical-align: bottom; }
+#editor { height: 100%; font-size: 34px; line-height: 1.6; background: #fff; overflow: auto; padding: 0; display: none; border: 1px solid #777 }
+
+#panel { box-sizing: border-box; width: 100%; height: 90px; padding: 10px; background: #dbc6a7; user-select: none }
+#panel .navi { float: left; font-size: 30px; line-height: 80px; color: #fff; cursor: pointer }
+#selector { float: left; width: 1020px; font-size: 50px; line-height: 1.4; border-radius: 15px; overflow: hidden; }
+#selector > span { background-color: #ddd; float: left; margin: 0 5px; border-radius: 15px; padding-left: 5px; cursor: pointer; position: relative; }
+#selector > span:hover { background-color: #fff;}
+#selector span span.tag { font-family: 微軟正黑體, sans-serif; font-size: 16px; font-weight: bold; display: block; position: absolute; width: 1em; height: 1em; line-height: 1; bottom: 5px; left: 5px; background: #fff; border: 1px solid #666; border-radius: 4px; opacity: 0.9; }
+#selector > span:hover span.tag { display: none }
+#panel #next { float: right }
+#panel .butt { float: right; font-family: 微軟正黑體, sans-serif; padding: 4px 8px; margin: 20px 2px 20px 10px; font-size: 30px; line-height: 1; background-color: #ff6; border-radius: 10px; cursor: pointer }
+#panel .butt:hover { background-color: #fc6}
+
+#editor span { }
+span.p { background: #f2fa98; cursor: pointer; border: 2px solid #fff }
+span.curr { border: 2px solid #439abf }
+span.fuzzy { background: #f7b0c0; }
+span.auto { background: #f7cfb0; }
+span.ok { background: #98fade; }
+
+</style>
+<body>
+
+<div id="body">
+<div id="info3" class="info">顯示標音：<select id="rubyselect">
+	<option value="TL">台羅</option>
+	<option value="POJ">白話字</option>
+	<option value="HI">方音</option>
+	<option value="KN">假名</option>
+	<option value="TLHI">台羅&amp;方音</option>
+</select></div>
+<div id="info1" class="info">請共欲標示讀音的文章貼佇遮，紲lueh揤「開始」：</div>
+<div id="info2" class="info hide">
+	<span class="p ruby">字</span>多音字(臆袂著)　
+	<!--span class="p fuzzy ruby">字</span>難猜測字　-->
+	<span class="p auto ruby">字</span>有臆著ê讀音　
+	<span class="p ok ruby">字</span>已經揀好ê讀音
+</div>
+<div id="main">
+	<textarea id="input" class="ruby"></textarea>
+	<div id="editor" class="ruby">abs</div>
+</div>
+<div id="panel">
+	<div id="done" class="butt hide">完成</div>
+	<div id="start" class="butt">開始</div>
+
+	<div id="prev" class="navi hide">◄</div>
+	<div id="selector" class="ruby"></div>
+	<div id="next" class="navi hide">►</div>
+</div>
+</div>
+
+<!--span>和</span><span>和&#xfe01;</span><span>和&#xfe02;</span><span>和&#xfe03;</span><span>和&#xfe04;</span><span>和&#xfe05;</span-->
+
+</body>
+<script src="jquery.min.js"></script>
+<script src="reading_db.js" charset="utf-8"></script>
+<script src="ime.js" charset="utf-8"></script>
+<script src="tzdic/tzdicui.js" charset="utf-8"></script>
+<script src="zhdicui.js" charset="utf-8"></script>
+</html>
