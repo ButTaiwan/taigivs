@@ -547,7 +547,7 @@ class Sound
 		str.gsub!('n̆', ' *n_brevecomb ')
 		str.gsub!("o\u0358\u0306", ' *oo-poj_brevecomb ')
 	
-		str.gsub!("o\u0358", ' *oo-poj_acutecomb ')
+		str.gsub!("o\u0358", ' *oo-poj ')
 		str.gsub!("ⁿ", ' *nmod ')
 	
 		res = []
