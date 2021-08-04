@@ -98,14 +98,15 @@ end
 def gen_rotate_glyph sg, advWidth, offx
 	h = sg['advanceWidth']
 	paths = []
-	return nil unless sg.has_key?('contours')
-	sg['contours'].each { |sp|
-		path = []
-		sp.each { |sn|
-			path << {'x' => sn['y'] + 120 + offx, 'y' => h-sn['x'], 'on' => sn['on']}
+	if sg.has_key?('contours')
+		sg['contours'].each { |sp|
+			path = []
+			sp.each { |sn|
+				path << {'x' => sn['y'] + 120 + offx, 'y' => h-sn['x'], 'on' => sn['on']}
+			}
+			paths << path
 		}
-		paths << path
-	}
+	end
 
 	return {
 		'advanceWidth' => advWidth,
@@ -220,7 +221,7 @@ def read_font fnt, input, ruby_top, ruby_right
 			fnt['cmap'][uniDec] = gn
 			$order_sym << gn
 			
-			if g['advanceWidth'] < 1000 && g['advanceWidth'] != 600 && g.has_key?('contours') #(bpmftones)
+			if g['advanceWidth'] < 1000 && g['advanceWidth'] != 600 # && g.has_key?('contours') #(bpmftones)
 				gv = gen_rotate_glyph(g, $fullwidth, ruby_right ? 0 : $ruby_top_offx)
 				gvn = gn+'.vrt2'
 				fnt['glyf'][gvn] = gv
@@ -339,7 +340,7 @@ def create_rubied_glyphs fnt, ruby_top, ruby_right
 			gly = {
 				advanceWidth: $fullwidth, 
 				advanceHeight: ruby_top ? $ruby_top_height : $upm, 
-				verticalOrigin: fnt['glyf'][hangn]['verticalOrigin'] + (ruby_top ? 500 : 0),
+				verticalOrigin: fnt['glyf'][hangn]['verticalOrigin'] + (ruby_top ? ($ruby_top_height - $upm) : 0),
 				references: [{ glyph: hangn, x: 0, y: 0 }]
 			}
 			gly[:references] << { glyph: ruby_top + '_' + readgn, x: 0 + (shifts ? shifts[ruby_top+'_'+readgn] : 0), y: $ruby_top_offy} if ruby_top
@@ -552,7 +553,7 @@ end
 
 $max_reading_cnt = read_reading_data
 
-version = '0.910'
+version = '0.920'
 make_font_group 'ZihiKaiStd.ttf', '字咍標楷', 'Taigi KaiStd', version, true, true, true, true, true
 make_font_group 'GenRyuMinTW-R.ttf', '字咍源流明體', 'Taigi GenRyuM', version, true, true, true, true, true
 make_font_group 'GenRyuMinTW-B.ttf', '字咍源流明體', 'Taigi GenRyuM', version, true, true, true, true
