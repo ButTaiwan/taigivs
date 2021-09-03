@@ -31,37 +31,30 @@ print maxa, mind
 
 
 # 將羅馬字正確縮小到adv width並置中對齊，解開所有組件
-
-#3211, 1000
-# * 0.31
-
-#3720*1014 A780 D234
+import math
 
 ADVW = 1500
 SCALE = 0.4
+PAD = 35
 
 for lyr in Glyphs.font.selectedLayers:
 	if lyr.parent.name.find('-tl') < 0 and lyr.parent.name.find('-poj') < 0: continue
 	if lyr.parent.color != 3: continue
 	
 	w_src = lyr.width
-	w_tar = int(w_src*SCALE)
-	p_left = int((ADVW-w_tar)/2)
-	
-#	print w_tar, p_left
+	w_tar = int(math.ceil(w_src*SCALE)) + PAD*2
 	
 	for comp in lyr.components:
 		x_src = comp.position.x
-		x_tar = int(x_src*SCALE+p_left)
-		#print x_tar
+		x_tar = int(x_src * SCALE + PAD)
 		comp.automaticAlignment = False
-		comp.scale = SCALE
+		comp.scale = (SCALE, SCALE)
 		comp.position = (x_tar, comp.position.y)
 
 	while len(lyr.components) > 0:
 		lyr.components[0].decompose()
 
-	lyr.width = ADVW
+	lyr.width = w_tar # ADVW
 	lyr.parent.color = 6
 	lyr.parent.export = True
 

@@ -15,17 +15,12 @@ require 'set'
 $upm = 1000
 
 $fullwidth = 1500
-# $ruby_top_offy = 970		# 880+120 (ruby: 250/750 => 120+350=470)
-# $ruby_top_ascender = 1330	# 880+470
-# $ruby_top_height = 1450		# 1000+470
-# $ruby_top_offy = 926		# 880+69=949 (ruby: 185/767 => 69+284=353)
-# $ruby_top_ascender = 1220	# 880+353=1233
-# $ruby_top_height = 1340		# 1000+353=1353
 $ruby_top_offy = 952		# 880+94=974 (ruby: 94/312)
 $ruby_top_ascender = 1280	# 880+406=1286
 $ruby_top_height = 1400		# 1000+406=1406
 $ruby_right_offx = 1000
-$ruby_top_offx = 250		# when no ruby_right
+
+#$ruby_top_offx = 250		# when no ruby_right
 
 $ivs = 0xe01e0 #65024
 
@@ -198,9 +193,9 @@ def read_font fnt, input, ruby_top, ruby_right
 		#g['instructions'] = []
 
 		if $readings.has_key?(c)					# 有注音定義的漢字
-			g['advanceWidth'] = $fullwidth
+			g['advanceWidth'] = ruby_right ? $fullwidth : $upm
 			g['advanceHeight'] = $upm
-			g['contours'] = shift_path(g['contours'], 'x', $ruby_top_offx) if !ruby_right
+			#g['contours'] = shift_path(g['contours'], 'x', $ruby_top_offx) if !ruby_right
 			gn = 'uni' + uniHex + '.ss00'
 			fnt['glyf'][gn] = g
 			$order_han << gn
@@ -208,9 +203,9 @@ def read_font fnt, input, ruby_top, ruby_right
 		#elsif (漢字) 
 		elsif g['advanceWidth'] == 1024 || g['advanceWidth'] == 1000			# 全形符號
 			gn = fgn
-			g['advanceWidth'] = $fullwidth
+			g['advanceWidth'] = ruby_right ? $fullwidth : $upm
 			g['advanceHeight'] = $upm if g['advanceHeight'] >= 1000
-			g['contours'] = shift_path(g['contours'], 'x', $ruby_top_offx) if !ruby_right
+			#g['contours'] = shift_path(g['contours'], 'x', $ruby_top_offx) if !ruby_right
 			g['contours'] = align_pos(g['contours'], $1) if ruby_right && $charcfg[uniHex] =~ /,([LRTB]),/
 			fnt['glyf'][gn] = g
 			fnt['cmap'][uniDec] = gn
@@ -222,7 +217,8 @@ def read_font fnt, input, ruby_top, ruby_right
 			$order_sym << gn
 			
 			if g['advanceWidth'] < 1000 && g['advanceWidth'] != 600 # && g.has_key?('contours') #(bpmftones)
-				gv = gen_rotate_glyph(g, $fullwidth, ruby_right ? 0 : $ruby_top_offx)
+				#gv = gen_rotate_glyph(g, ruby_right ? $fullwidth : $upm, ruby_right ? 0 : $ruby_top_offx)
+				gv = gen_rotate_glyph(g, ruby_right ? $fullwidth : $upm, 0)
 				gvn = gn+'.vrt2'
 				fnt['glyf'][gvn] = gv
 				$vrt2s[gn] = gvn
@@ -239,7 +235,7 @@ def read_font fnt, input, ruby_top, ruby_right
 		fvgn = src_verts[fgn]
 		gv = input['glyf'][fvgn]
 		gvn = gn + '.vert'
-		gv['advanceWidth'] = $fullwidth
+		gv['advanceWidth'] = ruby_right ? $fullwidth : $upm
 		gv['advanceHeight'] = $upm
 		fnt['glyf'][gvn] = gv
 		$order_sym << gvn
@@ -252,7 +248,7 @@ def read_font fnt, input, ruby_top, ruby_right
 		next if gn !~ /^glyph[34]\d\d$/
 	
 		if g['advanceWidth'] == 1024 || g['advanceWidth'] == 1000			# 全形符號
-			g['advanceWidth'] = $fullwidth
+			g['advanceWidth'] = ruby_right ? $fullwidth : $upm
 			g['advanceHeight'] = $upm if g['advanceHeight'] >= 1000
 			# verticalOrigin
 			fnt['glyf'][gn] = g
@@ -262,7 +258,8 @@ def read_font fnt, input, ruby_top, ruby_right
 			$order_sym << gn
 			
 			if g['advanceWidth'] < 1000 && g['advanceWidth'] != 600 && g.has_key?('contours') #(bpmftones)
-				gv = gen_rotate_glyph(g, $fullwidth, ruby_right ? 0 : $ruby_top_offx)
+				#gv = gen_rotate_glyph(g,ruby_right ? $fullwidth : $upm, ruby_right ? 0 : $ruby_top_offx)
+				gv = gen_rotate_glyph(g,ruby_right ? $fullwidth : $upm, 0)
 				gvn = gn+'.vrt2'
 				fnt['glyf'][gvn] = gv
 				$vrt2s[gn] = gvn
@@ -292,7 +289,7 @@ def copy_ruby_glyphs(fnt, rubytype)
 	input = JSON.parse(data)
 
 	$rubys.each { |gn|
-		srcgn = gn + rubytype
+		srcgn = input['glyf'].has_key?(gn + rubytype) ? gn + rubytype : gn + '-' + rubytype
 		targn = rubytype + '_' + gn
 
 		g = input['glyf'][srcgn]
@@ -301,32 +298,44 @@ def copy_ruby_glyphs(fnt, rubytype)
 	}
 end
 
-def cal_latin_shift fnt
-	shifts = {}
+def cal_latin_shift fnt, ruby_right
+	lshifts = {}
+
 	$order_ruby.each { |gn|
-		shifts[gn] = 0
-		minx = $fullwidth
-		maxx = 0
-		fnt['glyf'][gn]['contours'].each { |path|
-			path.each { |node|
-				maxx = node['x'] if node['x'] > maxx
-				minx = node['x'] if node['x'] < minx
-			}
-		}
-		if maxx - minx < $upm
-			shifts[gn] = -($fullwidth-$upm)/2
-		elsif maxx - minx < $fullwidth-100
-			shifts[gn] = 100-minx
+		lshifts[gn] = 0
+		gw = fnt['glyf'][gn]['advanceWidth'].to_i
+
+		if gw < $upm
+			lshifts[gn] = ($upm-gw) / 2
+		elsif !ruby_right
+			lshifts[gn] = 0
+		elsif gw < $fullwidth-120
+			lshifts[gn] = 60
+		else
+			lshifts[gn] = ($fullwidth-gw) /2
 		end
 	}
 
-	shifts
+	lshifts
+end
+
+def cal_han_shift fnt
+	hshifts = {}
+	$order_ruby.each { |gn|
+		hshifts[gn] = 0
+		gw = fnt['glyf'][gn]['advanceWidth'].to_i
+		hshifts[gn] = gw < $upm ? 0 : (gw-$upm)/2
+	}
+
+	hshifts
 end
 
 def create_rubied_glyphs fnt, ruby_top, ruby_right
 	puts "Now create rubied glyphs..."
 
-	shifts = ruby_top && ruby_right ? cal_latin_shift(fnt) : nil
+	#shifts = ruby_top && ruby_right ? cal_latin_shift(fnt) : nil
+	lshifts = ruby_top ? cal_latin_shift(fnt, ruby_right) : nil
+	hshifts = ruby_top && (!ruby_right) ? cal_han_shift(fnt) : nil
 	
 	$charlist.each { |uniHex, gn|
 		next unless gn
@@ -338,12 +347,12 @@ def create_rubied_glyphs fnt, ruby_top, ruby_right
 		$readings[c].each_with_index { |readgn, i|
 			hangn = 'uni'+uniHex+'.ss00'
 			gly = {
-				advanceWidth: $fullwidth, 
+				advanceWidth: ruby_right ? $fullwidth : [$upm, fnt['glyf'][ruby_top+'_'+readgn]['advanceWidth']].max,
 				advanceHeight: ruby_top ? $ruby_top_height : $upm, 
 				verticalOrigin: fnt['glyf'][hangn]['verticalOrigin'] + (ruby_top ? ($ruby_top_height - $upm) : 0),
-				references: [{ glyph: hangn, x: 0, y: 0 }]
+				references: [{ glyph: hangn, x: (hshifts ? hshifts[ruby_top+'_'+readgn] : 0), y: 0 }]
 			}
-			gly[:references] << { glyph: ruby_top + '_' + readgn, x: 0 + (shifts ? shifts[ruby_top+'_'+readgn] : 0), y: $ruby_top_offy} if ruby_top
+			gly[:references] << { glyph: ruby_top + '_' + readgn, x: 0 + (lshifts ? lshifts[ruby_top+'_'+readgn] : 0), y: $ruby_top_offy} if ruby_top
 			gly[:references] << { glyph: ruby_right + '_' + readgn, x: $ruby_right_offx, y: 0} if ruby_right
 		
 			gn = 'uni'+uniHex
@@ -409,7 +418,7 @@ def generate_gsub(fnt, src_verts, src_ccmps)
 	}
 end
 
-def set_font_table fnt, input, c_family, c_weight, e_family, e_weight, version, ruby_top
+def set_font_table fnt, input, c_family, c_weight, e_family, e_weight, version, ruby_top, ruby_right
 	$nmap = Hash.new { nil }
 	input['name'].each { |ne| $nmap[ne['nameID']] = ne['nameString'] if ne['platformID'] == 3 }
 
@@ -450,34 +459,6 @@ def set_font_table fnt, input, c_family, c_weight, e_family, e_weight, version, 
 		{ 'platformID' => 1, 'encodingID' => 0, 'languageID' => 0, 'nameID': 11, 'nameString': $font_url },
 		{ 'platformID' => 1, 'encodingID' => 0, 'languageID' => 0, 'nameID': 16, 'nameString': e_family },
 		{ 'platformID' => 1, 'encodingID' => 0, 'languageID' => 0, 'nameID': 17, 'nameString': e_weight + ' ' + weight }
-
-		# { 'platformID' => 3, 'encodingID' => 1, 'languageID' => 1028, 'nameID':  1, 'nameString': c_family + ' ' + weight },
-		# { 'platformID' => 3, 'encodingID' => 1, 'languageID' => 1028, 'nameID':  2, 'nameString': weight },
-		# { 'platformID' => 3, 'encodingID' => 1, 'languageID' => 1028, 'nameID':  4, 'nameString': c_family + ' ' + weight },
-		# { 'platformID' => 3, 'encodingID' => 1, 'languageID' => 1028, 'nameID': 16, 'nameString': c_family },
-		# { 'platformID' => 3, 'encodingID' => 1, 'languageID' => 1028, 'nameID': 17, 'nameString': weight },
-
-		# { 'platformID' => 3, 'encodingID' => 1, 'languageID' => 1033, 'nameID':  1, 'nameString': e_family + ' ' + weight },
-		# { 'platformID' => 3, 'encodingID' => 1, 'languageID' => 1033, 'nameID':  2, 'nameString': weight },
-		# { 'platformID' => 3, 'encodingID' => 1, 'languageID' => 1033, 'nameID':  3, 'nameString': identifier },
-		# { 'platformID' => 3, 'encodingID' => 1, 'languageID' => 1033, 'nameID':  4, 'nameString': e_family + ' ' + weight },
-		# { 'platformID' => 3, 'encodingID' => 1, 'languageID' => 1033, 'nameID':  5, 'nameString': 'Version ' + version },
-		# { 'platformID' => 3, 'encodingID' => 1, 'languageID' => 1033, 'nameID':  6, 'nameString': psname },
-		# { 'platformID' => 3, 'encodingID' => 1, 'languageID' => 1033, 'nameID':  8, 'nameString': $font_vendor },
-		# { 'platformID' => 3, 'encodingID' => 1, 'languageID' => 1033, 'nameID': 11, 'nameString': $font_url },
-		# { 'platformID' => 3, 'encodingID' => 1, 'languageID' => 1033, 'nameID': 16, 'nameString': e_family },
-		# { 'platformID' => 3, 'encodingID' => 1, 'languageID' => 1033, 'nameID': 17, 'nameString': weight },
-
-		# { 'platformID' => 1, 'encodingID' => 0, 'languageID' => 0, 'nameID':  1, 'nameString': e_family + ' ' + weight },
-		# { 'platformID' => 1, 'encodingID' => 0, 'languageID' => 0, 'nameID':  2, 'nameString': weight },
-		# { 'platformID' => 1, 'encodingID' => 0, 'languageID' => 0, 'nameID':  3, 'nameString': identifier },
-		# { 'platformID' => 1, 'encodingID' => 0, 'languageID' => 0, 'nameID':  4, 'nameString': e_family + ' ' + weight },
-		# { 'platformID' => 1, 'encodingID' => 0, 'languageID' => 0, 'nameID':  5, 'nameString': 'Version ' + version },
-		# { 'platformID' => 1, 'encodingID' => 0, 'languageID' => 0, 'nameID':  6, 'nameString': psname },
-		# { 'platformID' => 1, 'encodingID' => 0, 'languageID' => 0, 'nameID':  8, 'nameString': $font_vendor },
-		# { 'platformID' => 1, 'encodingID' => 0, 'languageID' => 0, 'nameID': 11, 'nameString': $font_url },
-		# { 'platformID' => 1, 'encodingID' => 0, 'languageID' => 0, 'nameID': 16, 'nameString': e_family },
-		# { 'platformID' => 1, 'encodingID' => 0, 'languageID' => 0, 'nameID': 17, 'nameString': weight }
 	]
 
 	fnt['name'] << { 'platformID' => 3, 'encodingID' => 1, 'languageID' => 1033, 'nameID': 13, 'nameString': license } if license && license != ''
@@ -490,14 +471,14 @@ def set_font_table fnt, input, c_family, c_weight, e_family, e_weight, version, 
 	fnt['OS_2']['usWeightClass'] = input['OS_2']['usWeightClass']
 
 	ascender = ruby_top ? $ruby_top_ascender : 1000
-	fnt['OS_2']['xAvgCharWidth'] = $fullwidth
+	fnt['OS_2']['xAvgCharWidth'] = ruby_right ? $fullwidth : $upm
 	fnt['OS_2']['sTypoAscender'] = ascender
 	fnt['OS_2']['usWinAscent'] = ascender
 	fnt['hhea']['ascender'] = ascender
 	#fnt['hhea']['descender'] = ascender
 
-	fnt['vhea']['ascent'] = $fullwidth / 2
-	fnt['vhea']['descent'] = -$fullwidth / 2
+	fnt['vhea']['ascent'] = (ruby_right ? $fullwidth : $upm) / 2
+	fnt['vhea']['descent'] = -(ruby_right ? $fullwidth : $upm) / 2
 
 	return psname
 end
@@ -515,7 +496,7 @@ def make_font c_family, c_weight, e_family, e_weight, version, ruby_top = nil, r
 	puts "Now copy glyphs from source font..."
 	input = JSON.parse(File.read('tmp/src_font.json'))
 
-	psname = set_font_table fnt, input, c_family, c_weight, e_family, e_weight, version, ruby_top
+	psname = set_font_table fnt, input, c_family, c_weight, e_family, e_weight, version, ruby_top, ruby_right
 	src_verts, src_ccmps = read_font fnt, input, ruby_top, ruby_right
 
 	copy_ruby_glyphs(fnt, ruby_top) if ruby_top
@@ -537,32 +518,32 @@ def make_font c_family, c_weight, e_family, e_weight, version, ruby_top = nil, r
 	system("#{$ttx} -m tmp/otfbuild.ttf -o outputs/#{psname}.ttf tmp/otfbuild_cmap.ttx")
 end
 
-def make_font_group src_font, c_fname, e_fname, version, tl = false, poj = false, hi = false, kana = false, more = false
+def make_font_group src_font, c_fname, e_fname, version, combineHI = false, combineKN = false
 	puts "Now dump font to JSON..."
 	system("#{$otfccdump} --pretty srcfonts/#{src_font} -o tmp/src_font.json")
 
-	make_font(c_fname, '台羅', e_fname, 'TL', version, 'tl', nil) if tl
-	make_font(c_fname, '白話字', e_fname, 'POJ', version, 'poj', nil) if poj
-	make_font(c_fname, '方音', e_fname, 'HI', version, nil, 'hi') if hi
-	make_font(c_fname, '假名', e_fname, 'KN', version, nil, 'kn') if kana
-	make_font(c_fname, '台羅方音', e_fname, 'TLHI', version, 'tl', 'hi') if tl && hi
-	make_font(c_fname, '白話字方音', e_fname, 'POJHI', version, 'poj', 'hi') if poj && hi && more
-	make_font(c_fname, '台羅假名', e_fname, 'TLKN', version, 'tl', 'kn') if tl && kana && more
-	make_font(c_fname, '白話字假名', e_fname, 'POJKN', version, 'poj', 'kn') if poj && kana && more
+	make_font(c_fname, '台羅', e_fname, 'TL', version, 'tl', nil)
+	make_font(c_fname, '白話字', e_fname, 'POJ', version, 'poj', nil)
+	make_font(c_fname, '方音', e_fname, 'HI', version, nil, 'hi')
+	make_font(c_fname, '假名', e_fname, 'KN', version, nil, 'kn')
+	make_font(c_fname, '台羅方音', e_fname, 'TLHI', version, 'tl', 'hi') if combineHI
+	make_font(c_fname, '白話字方音', e_fname, 'POJHI', version, 'poj', 'hi') if combineHI
+	make_font(c_fname, '台羅假名', e_fname, 'TLKN', version, 'tl', 'kn') if combineKN
+	make_font(c_fname, '白話字假名', e_fname, 'POJKN', version, 'poj', 'kn') if combineKN
 end
 
 $max_reading_cnt = read_reading_data
 
-version = '0.920'
-make_font_group 'ZihiKaiStd.ttf', '字咍標楷', 'Taigi KaiStd', version, true, true, true, true, true
-make_font_group 'GenRyuMinTW-R.ttf', '字咍源流明體', 'Taigi GenRyuM', version, true, true, true, true, true
-make_font_group 'GenRyuMinTW-B.ttf', '字咍源流明體', 'Taigi GenRyuM', version, true, true, true, true
-make_font_group 'GenRyuMinTW-H.ttf', '字咍源流明體', 'Taigi GenRyuM', version, true, false, true, false
-make_font_group 'GenWanMinTW-L.ttf', '字咍源雲明體', 'Taigi GenWanM', version, true, true, true, true
-make_font_group 'GenSekiGothicTW-R.ttf', '字咍源石黑體', 'Taigi GenSekiG', version, true, true, true, true, true
-make_font_group 'GenSekiGothicTW-B.ttf', '字咍源石黑體', 'Taigi GenSekiG', version, true, true, true, true
-make_font_group 'GenSekiGothicTW-L.ttf', '字咍源石黑體', 'Taigi GenSekiG', version, true, false, true, false
-make_font_group 'GenSekiGothicTW-H.ttf', '字咍源石黑體', 'Taigi GenSekiG', version, true, false, true, false
-make_font_group 'GenSenRoundedTW-R.ttf', '字咍源泉圓體', 'Taigi GenSenR', version, true, true, true, true
-make_font_group 'GenSenRoundedTW-L.ttf', '字咍源泉圓體', 'Taigi GenSenR', version, true, false, true, false
-make_font_group 'GenSenRoundedTW-M.ttf', '字咍源泉圓體', 'Taigi GenSenR', version, true, true, true, true
+version = '0.930'
+make_font_group 'ZihiKaiStd.ttf', '字咍標楷', 'Taigi KaiStd', version, true, true
+make_font_group 'GenRyuMinTW-R.ttf', '字咍源流明體', 'Taigi GenRyuM', version, true, true
+make_font_group 'GenRyuMinTW-B.ttf', '字咍源流明體', 'Taigi GenRyuM', version, true, false
+make_font_group 'GenRyuMinTW-H.ttf', '字咍源流明體', 'Taigi GenRyuM', version, false, false
+make_font_group 'GenWanMinTW-L.ttf', '字咍源雲明體', 'Taigi GenWanM', version, true, true
+make_font_group 'GenSekiGothicTW-R.ttf', '字咍源石黑體', 'Taigi GenSekiG', version, true, true
+make_font_group 'GenSekiGothicTW-B.ttf', '字咍源石黑體', 'Taigi GenSekiG', version, true, false
+make_font_group 'GenSekiGothicTW-L.ttf', '字咍源石黑體', 'Taigi GenSekiG', version, false, false
+make_font_group 'GenSekiGothicTW-H.ttf', '字咍源石黑體', 'Taigi GenSekiG', version, false, false
+make_font_group 'GenSenRoundedTW-R.ttf', '字咍源泉圓體', 'Taigi GenSenR', version, true, true
+make_font_group 'GenSenRoundedTW-L.ttf', '字咍源泉圓體', 'Taigi GenSenR', version, false, false
+make_font_group 'GenSenRoundedTW-M.ttf', '字咍源泉圓體', 'Taigi GenSenR', version, true, false
