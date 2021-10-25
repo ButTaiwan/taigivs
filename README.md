@@ -1,6 +1,6 @@
 **注意**
 
-欲掠字型請[到遮](https://github.com/ButTaiwan/taigivs/releases)，官網請[來遮](https://buttaiwan.github.io/taigivs/)。
+欲掠字型請[到遮](https://github.com/ButTaiwan/taigivs/releases)，官網請[來遮](https://buttaiwan.github.io/taigivs/intro)。
 
 # 字咍IVS標音字型規格 Taigi IVS Font Specification
 
