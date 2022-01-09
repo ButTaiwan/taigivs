@@ -3,6 +3,7 @@ encoding/
 srcfonts/Gen*.ttf
 srcfonts/Source*.ttf
 srcfonts/jf*.ttf
+srcfonts/iansui*.ttf
 stdkai/
 readings/sources/
 readings/test/
