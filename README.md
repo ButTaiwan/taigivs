@@ -20,4 +20,5 @@
 
 ## 請斗內QQ
 
-* 聯絡方式 donate(at)but.tw
+* 聯絡方式： donate(at)but.tw
+* 斗內方式建置中
