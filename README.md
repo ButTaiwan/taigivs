@@ -18,3 +18,6 @@
 * 本規格內的程式（.rb），是用 Apache 2.0 授權發行。
 * 本規格內的字型（.ttf），大部份攏用 SIL Open Font License 1.1 的授權，請共仝資料匣仔內的 License 文件讀予清楚。
 
+## 請斗內QQ
+
+* 聯絡方式 donate(at)but.tw
