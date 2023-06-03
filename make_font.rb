@@ -534,7 +534,7 @@ end
 
 $max_reading_cnt = read_reading_data
 
-version = '0.932'
+version = '0.934'
 make_font_group 'ZihiKaiStd.ttf', '字咍標楷', 'Taigi KaiStd', version, true, true
 make_font_group 'GenRyuMinTW-R.ttf', '字咍源流明體', 'Taigi GenRyuM', version, true, true
 make_font_group 'GenRyuMinTW-B.ttf', '字咍源流明體', 'Taigi GenRyuM', version, true, false
@@ -547,4 +547,4 @@ make_font_group 'GenSekiGothicTW-H.ttf', '字咍源石黑體', 'Taigi GenSekiG',
 make_font_group 'GenSenRoundedTW-R.ttf', '字咍源泉圓體', 'Taigi GenSenR', version, true, true
 make_font_group 'GenSenRoundedTW-L.ttf', '字咍源泉圓體', 'Taigi GenSenR', version, false, false
 make_font_group 'GenSenRoundedTW-M.ttf', '字咍源泉圓體', 'Taigi GenSenR', version, true, false
-make_font_group 'Iansui0.9-Regular.ttf', '字咍芫荽', 'Taigi Iansui', version, true, true
+make_font_group 'Iansui-Regular.ttf', '字咍芫荽', 'Taigi Iansui', version, true, true
