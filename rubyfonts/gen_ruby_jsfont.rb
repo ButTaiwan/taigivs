@@ -12,15 +12,15 @@ $font_url = 'https://github.com/ButTaiwan/taigivs'
 require 'json'
 #require 'set'
 
-font_file = 'CabinTLCondensed-Regular.ttf'
-tar = 'tl'
+#font_file = 'CabinTLCondensed-Regular.ttf'
+#tar = 'tl'
 
 list = {
 	# 'CabinTLCondensed-Regular.ttf' => 'tl',
 	# 'CabinPOJCondensed-Regular.ttf' => 'poj',
 	'JostTL-Medium.ttf' => 'tl',
 	'JostPOJ-Medium.ttf' => 'poj',
-	'GenYoRubyHI-SB.ttf' => 'hi',
+	'GenYoRubyHIO-SB.ttf' => 'hi',
 	'GenYoRubyKANA-SB.ttf' => 'kn',
 }
 list.each { |fn, tar|

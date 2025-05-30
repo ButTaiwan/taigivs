@@ -534,7 +534,7 @@ end
 
 $max_reading_cnt = read_reading_data
 
-version = '0.940'
+version = '0.950'
 make_font_group 'ZihiKaiStd.ttf', '字咍標楷', 'Taigi KaiStd', version, true, true
 make_font_group 'GenRyuMin2TW-R.ttf', '字咍源流明體', 'Taigi GenRyuM', version, true, true
 make_font_group 'GenRyuMin2TW-B.ttf', '字咍源流明體', 'Taigi GenRyuM', version, true, false
