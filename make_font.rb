@@ -534,17 +534,18 @@ end
 
 $max_reading_cnt = read_reading_data
 
-version = '0.934'
+version = '0.940'
 make_font_group 'ZihiKaiStd.ttf', '字咍標楷', 'Taigi KaiStd', version, true, true
-make_font_group 'GenRyuMinTW-R.ttf', '字咍源流明體', 'Taigi GenRyuM', version, true, true
-make_font_group 'GenRyuMinTW-B.ttf', '字咍源流明體', 'Taigi GenRyuM', version, true, false
-make_font_group 'GenRyuMinTW-H.ttf', '字咍源流明體', 'Taigi GenRyuM', version, false, false
-make_font_group 'GenWanMinTW-L.ttf', '字咍源雲明體', 'Taigi GenWanM', version, true, true
-make_font_group 'GenSekiGothicTW-R.ttf', '字咍源石黑體', 'Taigi GenSekiG', version, true, true
-make_font_group 'GenSekiGothicTW-B.ttf', '字咍源石黑體', 'Taigi GenSekiG', version, true, false
-make_font_group 'GenSekiGothicTW-L.ttf', '字咍源石黑體', 'Taigi GenSekiG', version, false, false
-make_font_group 'GenSekiGothicTW-H.ttf', '字咍源石黑體', 'Taigi GenSekiG', version, false, false
-make_font_group 'GenSenRoundedTW-R.ttf', '字咍源泉圓體', 'Taigi GenSenR', version, true, true
-make_font_group 'GenSenRoundedTW-L.ttf', '字咍源泉圓體', 'Taigi GenSenR', version, false, false
-make_font_group 'GenSenRoundedTW-M.ttf', '字咍源泉圓體', 'Taigi GenSenR', version, true, false
+make_font_group 'GenRyuMin2TW-R.ttf', '字咍源流明體', 'Taigi GenRyuM', version, true, true
+make_font_group 'GenRyuMin2TW-B.ttf', '字咍源流明體', 'Taigi GenRyuM', version, true, false
+make_font_group 'GenRyuMin2TW-H.ttf', '字咍源流明體', 'Taigi GenRyuM', version, false, false
+make_font_group 'GenWanMin2TW-L.ttf', '字咍源雲明體', 'Taigi GenWanM', version, true, true
+make_font_group 'GenSekiGothic2TW-R.ttf', '字咍源石黑體', 'Taigi GenSekiG', version, true, true
+make_font_group 'GenSekiGothic2TW-B.ttf', '字咍源石黑體', 'Taigi GenSekiG', version, true, false
+make_font_group 'GenSekiGothic2TW-L.ttf', '字咍源石黑體', 'Taigi GenSekiG', version, false, false
+make_font_group 'GenSekiGothic2TW-H.ttf', '字咍源石黑體', 'Taigi GenSekiG', version, false, false
+make_font_group 'GenSenRounded2TW-R.ttf', '字咍源泉圓體', 'Taigi GenSenR', version, true, true
+make_font_group 'GenSenRounded2TW-L.ttf', '字咍源泉圓體', 'Taigi GenSenR', version, false, false
+make_font_group 'GenSenRounded2TW-M.ttf', '字咍源泉圓體', 'Taigi GenSenR', version, true, false
 make_font_group 'Iansui-Regular.ttf', '字咍芫荽', 'Taigi Iansui', version, true, true
+make_font_group 'Huninn-Regular.ttf', '字咍粉圓', 'Taigi Huninn', version, true, true
