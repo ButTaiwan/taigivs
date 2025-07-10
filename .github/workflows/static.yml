@@ -35,7 +35,7 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Copy files
         run: |
-          cp ./ime/* ./pages/
+          cp -r ./ime/* ./pages/
           rm ./pages/*.rb
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
