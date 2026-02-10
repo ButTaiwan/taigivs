@@ -511,11 +511,11 @@ def make_font c_family, c_weight, e_family, e_weight, version, ruby_top = nil, r
 	f.close
 
 	puts "Build TrueType font... (pre)"
-	system("#{$otfccbuild} tmp/output.json -o tmp/otfbuild.ttf")
+	system("#{$otfccbuild} tmp/output.json -o outputs/#{psname}.ttf")
 
-	puts "Fix Cmap..."
-	system("#{$ttx} -t cmap -o tmp/otfbuild_cmap.ttx tmp/otfbuild.ttf")
-	system("#{$ttx} -m tmp/otfbuild.ttf -o outputs/#{psname}.ttf tmp/otfbuild_cmap.ttx")
+	# puts "Fix Cmap..."
+	# system("#{$ttx} -t cmap -o tmp/otfbuild_cmap.ttx tmp/otfbuild.ttf")
+	# system("#{$ttx} -m tmp/otfbuild.ttf -o outputs/#{psname}.ttf tmp/otfbuild_cmap.ttx")
 end
 
 def make_font_group src_font, c_fname, e_fname, version, combineHI = false, combineKN = false
@@ -534,8 +534,8 @@ end
 
 $max_reading_cnt = read_reading_data
 
-version = '0.950'
-make_font_group 'ZihiKaiStd.ttf', '字咍標楷', 'Taigi KaiStd', version, true, true
+version = '0.960'
+# make_font_group 'ZihiKaiStd.ttf', '字咍標楷', 'Taigi KaiStd', version, true, true
 make_font_group 'GenRyuMin2TW-R.ttf', '字咍源流明體', 'Taigi GenRyuM', version, true, true
 make_font_group 'GenRyuMin2TW-B.ttf', '字咍源流明體', 'Taigi GenRyuM', version, true, false
 make_font_group 'GenRyuMin2TW-H.ttf', '字咍源流明體', 'Taigi GenRyuM', version, false, false

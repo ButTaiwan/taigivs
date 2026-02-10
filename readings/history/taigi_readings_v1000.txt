@@ -2806,6 +2806,7 @@ to20	reading	1	--tó	--tó	˙ㄉㄜˋ	トヲ２
 to3	logical	2	tò	tò	ㄉㄜ˪	トヲ３
 to5	logical	15	tô	tô	ㄉㄜˊ	トヲ５
 to7	logical	10	tō	tō	ㄉㄜ˫	トヲ７
+toeh4	linked	1	toeh	toeh	ㄉㄜㆤㆷ	トェ４
 toh4	logical	3	toh	toh	ㄉㄜㆷ	トㇻ４
 toh8	logical	3	to̍h	to̍h	ㄉㄜㆷ8	トㇻ８
 tok4	logical	7	tok	tok	ㄉㆦㆻ	トㇰ４
@@ -3336,7 +3337,6 @@ tue2	logical	2	tué	tóe	ㄉㄨㆤˋ	トエ２
 tue3	logical	1	tuè	tòe	ㄉㄨㆤ˪	トエ３
 tue5	logical	4	tuê	tôe	ㄉㄨㆤˊ	トエ５
 tue7	logical	3	tuē	tōe	ㄉㄨㆤ˫	トエ７
-tueh4	linked	1	tueh	toeh	ㄉㄨㆤㆷ	トェ４
 tuh4	logical	3	tuh	tuh	ㄉㄨㆷ	|ツゥ４
 tuh8	logical	1	tu̍h	tu̍h	ㄉㄨㆷ8	|ツゥ８
 tui1	logical	2	tui	tui	ㄉㄨㄧ	|ツイ
